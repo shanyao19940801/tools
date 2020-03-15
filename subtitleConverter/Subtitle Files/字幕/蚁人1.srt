@@ -1,0 +1,8320 @@
+﻿5
+00:00:00,000 --> 00:00:05,000
+{\an4}本字幕由ZiMuZu原创翻译
+欢迎关注微博 @懒死放映室
+
+6
+00:00:05,000 --> 00:00:10,000
+{\an4}{\pos(57.12,210.56)}翻译  小蛮腰  屯栗子  回风舞雪兮
+
+7
+00:00:10,000 --> 00:00:15,000
+{\an4}{\pos(57.12,210.56)}翻译  小肚腩  Reginamoon  艾瑞卡
+
+8
+00:00:15,000 --> 00:00:20,000
+{\an4}校对  艾瑞卡   鸣谢  草草
+
+9
+00:00:20,000 --> 00:00:25,000
+{\an4}时间轴  吉吉  Ans  薛定谔的猫
+
+10
+00:00:25,000 --> 00:00:30,000
+{\an4}{\pos(57.12,210.56)}后期 8T  总监  somehacker
+
+11
+00:00:19,560 --> 00:00:20,570
+斯塔克
+Stark!
+
+12
+00:00:21,510 --> 00:00:22,660
+他好像不太高兴
+He doesn't seem happy.
+
+13
+00:00:22,670 --> 00:00:23,880
+你好  汉克
+Hello, Hank.
+
+14
+00:00:25,900 --> 00:00:27,450
+你应该在莫斯科
+You're supposed to be in Moscow.
+
+15
+00:00:27,590 --> 00:00:29,170
+我绕了个道
+I took a detour...
+
+16
+00:00:30,470 --> 00:00:32,170
+去了你的防御实验室
+through your defense lab.
+
+17
+00:00:33,220 --> 00:00:35,000
+告诉我这不是我想的那个东西
+Tell me that isn't what I think it is.
+
+18
+00:00:35,620 --> 00:00:36,640
+那得看你是不是认为
+That depends if you think
+
+19
+00:00:36,640 --> 00:00:39,900
+这是意图复制我实验成果的失败品
+it's a poor attempt to replicate my work.
+
+20
+00:00:39,900 --> 00:00:43,030
+就算是你们三个  这也太胆大了
+Even for this group, that takes nerve.
+
+21
+00:00:43,030 --> 00:00:44,530
+你受命前往俄罗斯
+You were instructed to go to Russia.
+
+22
+00:00:44,530 --> 00:00:46,880
+我需要提醒你  皮姆博士  你是名军人
+May I remind you, Dr. Pym, that you're a soldier...
+
+23
+00:00:46,880 --> 00:00:47,820
+我是个科学家
+I'm a scientist.
+
+24
+00:00:47,830 --> 00:00:49,570
+那就有点科学家的样子
+Then act like one.
+
+25
+00:00:49,570 --> 00:00:50,610
+皮姆粒子是从古至今
+The Pym Particle is the
+
+26
+00:00:50,610 --> 00:00:52,250
+最具革命性的科学发明
+most revolutionary science ever developed.
+
+27
+00:00:52,250 --> 00:00:53,510
+帮我们物尽其用
+Help us put it to good use.
+
+28
+00:00:53,510 --> 00:00:55,900
+我让你们把我当仆人一样使唤
+I let you turn me into your errand boy,
+
+29
+00:00:55,900 --> 00:00:58,270
+可你们现在居然试图盗取我的研究
+and now you try to steal my research?
+
+30
+00:00:58,280 --> 00:01:02,670
+要是当时你也像现在这么猛地保护简妮特 皮姆博士
+If only you'd protected Janet with such ferocity, Dr. Pym.
+
+31
+00:01:07,680 --> 00:01:08,880
+别冲动  汉克
+Easy, Hank.
+
+32
+00:01:10,470 --> 00:01:13,040
+你再敢提我妻子试试
+You mention my wife again
+
+33
+00:01:13,040 --> 00:01:14,980
+我就让你见识下什么叫猛
+and I'll show you ferocity.
+
+34
+00:01:15,270 --> 00:01:16,890
+别看我  话是你说的
+Don't look at me. You said it.
+
+35
+00:01:18,010 --> 00:01:20,190
+我正实提出辞职
+I formally tender my resignation.
+
+36
+00:01:20,260 --> 00:01:22,670
+我们拒绝接受  正式的
+We don't accept it. Formally.
+
+37
+00:01:22,880 --> 00:01:23,810
+汉克
+Hank,
+
+38
+00:01:24,300 --> 00:01:25,340
+我们需要你
+we need you.
+
+39
+00:01:25,960 --> 00:01:28,270
+皮姆粒子是个奇迹  拜托了
+The Pym Particle is a miracle. Please.
+
+40
+00:01:28,270 --> 00:01:30,670
+别让你的过去决定未来
+Don't let your past determine the future.
+
+41
+00:01:30,870 --> 00:01:33,320
+只要我还活着
+As long as I am alive,
+
+42
+00:01:33,680 --> 00:01:37,070
+谁都休想得到那个公式
+nobody will ever get that formula.
+
+43
+00:01:44,060 --> 00:01:45,880
+我们不该让他离开这栋楼
+We shouldn't let him leave the building.
+
+44
+00:01:46,000 --> 00:01:46,770
+你已经骗了他了
+You've already lied to him.
+
+45
+00:01:46,770 --> 00:01:48,090
+现在还想跟他开战吗
+Now you want to go to war with him?
+
+46
+00:01:48,090 --> 00:01:49,070
+是的
+Yes.
+
+47
+00:01:49,940 --> 00:01:53,110
+我们的科学家想复制他的成果还差得远呢
+Our scientists haven't come close to replicating his work.
+
+48
+00:01:53,110 --> 00:01:55,010
+他刚才已经着实地教训了你一顿
+He just kicked your ass, full-size.
+
+49
+00:01:55,120 --> 00:01:55,790
+你真想体验下
+You really want to find out
+
+50
+00:01:55,790 --> 00:01:57,550
+在你看都看不到他在哪时  他有多厉害吗
+what it's like when you can't see him coming?
+
+51
+00:01:58,760 --> 00:02:00,260
+我认识汉克·皮姆很久了
+I've known Hank Pym for a long time.
+
+52
+00:02:00,260 --> 00:02:01,820
+他不是安全隐患
+He's no security risk.
+
+53
+00:02:04,060 --> 00:02:05,440
+除非我们把他逼到那步
+Unless we make him one.
+
+54
+00:02:43,800 --> 00:02:45,810
+{\an8}{\pos(192.5,191)}现在
+
+55
+00:02:44,640 --> 00:02:45,610
+喜欢吗
+You like that?
+
+56
+00:02:45,940 --> 00:02:46,960
+喜欢吗
+You like that?
+
+57
+00:02:47,230 --> 00:02:48,740
+放马过来吧
+Come get you some now.
+
+58
+00:03:00,230 --> 00:03:01,660
+你连动都没动一下
+You didn't even move.
+
+59
+00:03:02,100 --> 00:03:03,040
+是啊
+Nah.
+
+60
+00:03:03,040 --> 00:03:05,530
+我要是打你左边呢  就下面这里
+What if I come in on the left side, right? Just down here.
+
+61
+00:03:05,530 --> 00:03:06,790
+你看到这里了吗
+You see this right here?
+
+62
+00:03:15,130 --> 00:03:16,580
+我会想你的  斯科特
+I'm gonna miss you, Scott.
+
+63
+00:03:16,750 --> 00:03:18,180
+我也会想你的  桃子
+I'm gonna miss you, too, Peachy.
+
+64
+00:03:20,280 --> 00:03:22,410
+你们这帮人的道别仪式真怪
+Man, you guys got the weirdest goodbye rituals.
+
+65
+00:03:22,410 --> 00:03:23,810
+好了  散了吧
+All right, break it up.
+
+66
+00:03:23,810 --> 00:03:25,490
+散了吧  散了吧
+Break it up! Break it up!
+
+67
+00:03:37,230 --> 00:03:38,760
+{\an8}圣昆廷监狱
+
+68
+00:03:43,960 --> 00:03:45,080
+斯科蒂
+Scotty!
+
+69
+00:03:45,290 --> 00:03:46,810
+你好呀  哥们
+What's up, man!
+
+70
+00:03:47,250 --> 00:03:48,290
+真该死
+Damn!
+
+71
+00:03:48,410 --> 00:03:50,550
+哥们
+Ha-ha! Hey, man.
+
+72
+00:03:52,850 --> 00:03:54,060
+你的眼睛怎么了
+Hey, what's up with your eye?
+
+73
+00:03:54,060 --> 00:03:55,450
+你觉得呢
+Oh. Well, what do you think?
+
+74
+00:03:55,450 --> 00:03:57,150
+桃子打的  临别赠礼
+Peachy. It's a going-away present.
+
+75
+00:03:57,150 --> 00:03:59,320
+对哦  我去年留的疤还在呢
+Oh, yeah. I still got my scar from a year ago.
+
+76
+00:04:01,850 --> 00:04:02,830
+可你知道吗
+You know what?
+
+77
+00:04:02,880 --> 00:04:04,630
+我仍然是唯一一个把他打趴下的人
+I'm still the only one who knocked him out.
+
+78
+00:04:04,630 --> 00:04:06,720
+我可没做到
+Well, I definitely didn't.
+
+79
+00:04:07,600 --> 00:04:08,890
+谢谢你来接我  哥们
+Thanks for picking me up, brother.
+
+80
+00:04:08,890 --> 00:04:11,550
+哥们  我的狱友出狱我能不来吗
+Bro, you think I'm gonna miss my celly getting out?
+
+81
+00:04:11,550 --> 00:04:12,920
+你女朋友如何  哥们
+Hey, how's your girl, man?
+
+82
+00:04:13,010 --> 00:04:14,170
+她把我甩了
+Oh, she left me.
+
+83
+00:04:14,380 --> 00:04:16,750
+我妈也死了
+Yeah, my ma died, too.
+
+84
+00:04:17,770 --> 00:04:19,250
+我爸被驱逐出境了
+And my dad got deported.
+
+85
+00:04:20,510 --> 00:04:21,770
+但这车归我了
+But I got the van!
+
+86
+00:04:21,950 --> 00:04:23,660
+-不错  -是吧
+- It's nice. - Yeah, right?
+
+87
+00:04:24,140 --> 00:04:26,450
+还要谢谢你让我借住  我需要地方住
+Thanks for the hook-up, too. I needed a place to stay.
+
+88
+00:04:26,450 --> 00:04:27,460
+当你看到沙发再说吧  
+You wait till you see this couch.
+
+89
+00:04:27,470 --> 00:04:28,690
+你肯定会很高兴的
+You're gonna be really happy.
+
+90
+00:04:28,690 --> 00:04:30,240
+你会很快站稳脚跟的  看着吧
+You're gonna be on your feet in no time. Watch.
+
+91
+00:04:30,240 --> 00:04:31,170
+希望如此
+I hope so.
+
+92
+00:04:31,900 --> 00:04:33,140
+我还要把你介绍给一些人
+And I gotta introduce you to some people.
+
+93
+00:04:33,140 --> 00:04:34,540
+一些非常有才的人
+Some really skilled people.
+
+94
+00:04:34,550 --> 00:04:36,110
+-没兴趣  -得了吧
+- Not interested. - Yeah, right.
+
+95
+00:04:36,110 --> 00:04:38,680
+不  说真的  我不要再坐牢了
+No, I'm serious, man. I'm not going back.
+
+96
+00:04:40,490 --> 00:04:42,440
+我还有个女儿要照顾
+I got a daughter to take care of.
+
+97
+00:04:42,440 --> 00:04:44,370
+你知道有案底的人不好找工作吧
+You know that jobs don't come easy for ex-cons, right?
+
+98
+00:04:44,370 --> 00:04:47,610
+哥们  我可是电气工程硕士好吧
+Look, man, I got a master's in electrical engineering, all right?
+
+99
+00:04:48,290 --> 00:04:49,380
+肯定没问题
+I'm gonna be fine.
+
+100
+00:04:52,760 --> 00:04:54,080
+欢迎光临芭斯罗缤
+Welcome to Baskin-Robbins.
+
+101
+00:04:54,080 --> 00:04:56,270
+想试一下我们的芒果水果风暴吗
+Would you like to try our Mango Fruit Blast?
+
+102
+00:04:56,280 --> 00:04:57,410
+不用  谢谢
+Uh, no, thanks.
+
+103
+00:04:57,410 --> 00:05:00,960
+给我来个汉堡吧  谢谢
+Um, I will have... I'll have a burger, please.
+
+104
+00:05:00,960 --> 00:05:03,060
+我们这不卖汉堡
+Oh, we don't... we don't make that.
+
+105
+00:05:03,060 --> 00:05:05,500
+那就椒盐卷饼  热的  加黄芥末酱
+Pretzel. Hot pretzel. Like, mustard...
+
+106
+00:05:05,500 --> 00:05:06,340
+你们有黄芥末沾酱吗
+Do you have mustard dip?
+
+107
+00:05:06,340 --> 00:05:08,350
+我们是冰淇淋店  芭斯罗缤
+It's ice cream. Baskin-Robbins.
+
+108
+00:05:09,620 --> 00:05:11,790
+那就给我随便来个热的刚出炉的吧
+I'll just do, like, whatever's hot and fresh.
+
+109
+00:05:12,540 --> 00:05:13,110
+哥们
+Dude.
+
+110
+00:05:13,110 --> 00:05:15,350
+能到后面来聊两句吗  快点
+Can I see you in the back, chief? Pronto.
+
+111
+00:05:15,360 --> 00:05:16,570
+没问题  戴尔
+Sure thing, Dale.
+
+112
+00:05:17,960 --> 00:05:21,000
+达比  这白痴交给你了  谢谢
+Darby, could you just, uh, take care of this idiot? Thanks.
+
+113
+00:05:24,100 --> 00:05:25,060
+戴尔
+Hey, Dale.
+
+114
+00:05:25,060 --> 00:05:26,100
+进来
+Come on in.
+
+115
+00:05:26,190 --> 00:05:27,470
+拿把椅子坐下吧
+Pull up some chair.
+
+116
+00:05:30,220 --> 00:05:32,210
+在圣昆廷监狱待了三年
+Three years at San Quentin, huh?
+
+117
+00:05:32,510 --> 00:05:33,560
+你查出来了
+You found out.
+
+118
+00:05:33,860 --> 00:05:35,800
+芭斯罗缤总会查出来的
+Baskin-Robbins always finds out.
+
+119
+00:05:36,050 --> 00:05:38,760
+我很抱歉  但是我
+Look, I'm sorry, all right? But I...
+
+120
+00:05:38,760 --> 00:05:40,100
+没人肯雇我
+No one would hire me.
+
+121
+00:05:40,110 --> 00:05:42,580
+非法闯入  重大盗窃罪
+Breaking and entering. Grand larceny.
+
+122
+00:05:42,580 --> 00:05:43,740
+我很抱歉
+Look, I'm sorry.
+
+123
+00:05:43,750 --> 00:05:46,490
+我已经金盆洗手了  我只是
+I don't do it anymore. I just...
+
+124
+00:05:46,490 --> 00:05:47,530
+向你致敬
+Respect.
+
+125
+00:05:48,330 --> 00:05:49,790
+我简直开心得不能再开心了
+I couldn't be happier about it.
+
+126
+00:05:49,790 --> 00:05:50,940
+真的吗
+Really?
+
+127
+00:05:51,920 --> 00:05:53,370
+谢谢  谢谢
+Thank you. Thank you.
+
+128
+00:05:53,370 --> 00:05:56,000
+你真的给那些该死的亿万富翁颜色看了
+You really stuck it to those billionaire SOBs.
+
+129
+00:05:56,000 --> 00:05:58,650
+我对你做的那些事了解得越多
+The more I read about what you did and stuff...
+
+130
+00:05:58,650 --> 00:06:00,470
+我越觉得"我居然认识这家伙
+I'm like, "Wow, I know this guy?
+
+131
+00:06:00,600 --> 00:06:02,250
+他现在归我管"
+I'm in charge of this guy?"
+
+132
+00:06:03,010 --> 00:06:04,920
+我这份工作做的很开心
+Well, I'm very happy in this job,
+
+133
+00:06:04,920 --> 00:06:07,760
+我很感谢有机会可以
+and I really just appreciate the opportunity to...
+
+134
+00:06:08,010 --> 00:06:09,840
+你当然是被炒了
+Well, you're fired, of course.
+
+135
+00:06:12,190 --> 00:06:13,410
+我不能留着你
+I can't really keep you on.
+
+136
+00:06:13,410 --> 00:06:15,250
+等一下  什么  炒了
+Wait, what? Fired?
+
+137
+00:06:15,250 --> 00:06:16,020
+是的
+Yeah.
+
+138
+00:06:16,020 --> 00:06:17,510
+戴尔  那不是暴力犯罪
+Dale, look, it wasn't a violent crime.
+
+139
+00:06:17,510 --> 00:06:18,590
+我是个好员工
+I mean, I'm a good worker.
+
+140
+00:06:18,590 --> 00:06:21,680
+不  的确不是暴力犯罪  是酷炫型的
+No, it wasn't a violent crime. It was a cool crime.
+
+141
+00:06:21,680 --> 00:06:22,930
+但我告诉你
+I'll tell you what, though.
+
+142
+00:06:22,940 --> 00:06:26,080
+当然是私下的  不对外啊
+This will be totally off the books, off the records,
+
+143
+00:06:26,090 --> 00:06:29,120
+如果你走的时候想拿上一杯
+but if you want to grab one of those Mango Fruit Blasts
+
+144
+00:06:29,130 --> 00:06:30,500
+芒果水果风暴的话
+on your way out the door,
+
+145
+00:06:30,560 --> 00:06:32,320
+我会假装没看到
+I'll just pretend I didn't see it.
+
+146
+00:07:11,660 --> 00:07:12,810
+斯科蒂  怎么了
+Hey, Scotty. What's up?
+
+147
+00:07:13,410 --> 00:07:15,200
+我还以为你在上班呢
+I thought you were supposed to be at work.
+
+148
+00:07:15,200 --> 00:07:17,090
+刚被炒了
+I was. I got fired.
+
+149
+00:07:17,240 --> 00:07:19,550
+该死的  他们查出你是谁了
+Damn. They find out who you are?
+
+150
+00:07:19,970 --> 00:07:21,760
+芭斯罗缤总能查出来  哥们
+Baskin-Robbins always finds out, bro.
+
+151
+00:07:22,090 --> 00:07:23,640
+芭斯罗缤可不是玩的
+Baskin-Robbins don't play.
+
+152
+00:07:23,890 --> 00:07:25,100
+要吃华夫饼吗
+You want some waffles?
+
+153
+00:07:25,680 --> 00:07:26,960
+好  给我来一个
+Yeah, I'll take a waffle.
+
+154
+00:07:27,280 --> 00:07:28,440
+那位是科特
+Oh. That's Kurt.
+
+155
+00:07:28,440 --> 00:07:31,370
+他在福尔松蹲了五年  他是电脑天才
+He was Folsom for five years. He's a wizard on that laptop.
+
+156
+00:07:32,240 --> 00:07:33,180
+很高兴认识你
+Nice meet you.
+
+157
+00:07:33,180 --> 00:07:34,550
+我也很高兴认识你
+Yeah. Nice to meet you, too.
+
+158
+00:07:35,380 --> 00:07:36,440
+你是谁
+Who are you?
+
+159
+00:07:36,950 --> 00:07:37,900
+戴夫
+Dave.
+
+160
+00:07:39,200 --> 00:07:41,010
+维斯塔那票干的不错
+Nice work on the Vista job.
+
+161
+00:07:41,450 --> 00:07:42,790
+维斯塔那票  没错
+Vista job, yes.
+
+162
+00:07:42,790 --> 00:07:45,530
+不  不  我听说过这个打劫
+No, no. I have heard of this robbery.
+
+163
+00:07:45,530 --> 00:07:49,040
+严格来讲  我没有打劫他们  打劫包括恐吓
+Well, technically, I didn't rob them. Robbery involves threat.
+
+164
+00:07:49,040 --> 00:07:51,720
+我讨厌暴力  我偷了他们  我是个飞贼
+I hate violence. I burgled them. I'm a cat burglar.
+
+165
+00:07:51,720 --> 00:07:53,060
+你是说你是个怂货
+You mean you're a pussy.
+
+166
+00:07:54,520 --> 00:07:56,460
+他们对顾客漫天要价
+They were overcharging the customers, right?
+
+167
+00:07:56,530 --> 00:07:58,050
+总计得有上百万
+And it added up to millions.
+
+168
+00:07:58,050 --> 00:08:00,020
+他揭发了这件事结果被炒了
+He blows the whistle and he gets fired.
+
+169
+00:08:00,180 --> 00:08:01,350
+他接下来做了什么
+And what does he do?
+
+170
+00:08:01,740 --> 00:08:03,750
+他黑进了安保系统
+He hacks into the security system
+
+171
+00:08:03,750 --> 00:08:04,710
+把上百万美金
+and transfers millions
+
+172
+00:08:04,710 --> 00:08:06,380
+转回给了那些被骗的人账上
+back to the people that they stole it from.
+
+173
+00:08:06,380 --> 00:08:08,460
+还把所有的银行记录都放到了网上
+Posts all the bank records online.
+
+174
+00:08:08,460 --> 00:08:10,780
+还把那家伙的宾利开进了他家泳池里
+And he drove the dude's Bentley into his swimming pool.
+
+175
+00:08:13,300 --> 00:08:14,370
+你这是在干吗
+What are you doing?
+
+176
+00:08:17,090 --> 00:08:19,230
+为什么把我的人生故事告诉这俩人
+Why are you telling my life story to these guys?
+
+177
+00:08:19,440 --> 00:08:20,440
+你想干吗
+What do you want?
+
+178
+00:08:21,160 --> 00:08:21,900
+好吧
+Okay.
+
+179
+00:08:21,900 --> 00:08:24,200
+我表兄两周前跟一个人
+My cousin talked to this guy two weeks ago
+
+180
+00:08:24,200 --> 00:08:25,720
+聊到一票超完美的活
+about this little perfect job.
+
+181
+00:08:25,720 --> 00:08:26,650
+不干
+No way.
+
+182
+00:08:26,670 --> 00:08:28,120
+别别别  等一下  这个人
+No, no, no. Wait! This guy...
+
+183
+00:08:28,120 --> 00:08:28,960
+正好是你不喜欢的那种
+This guy fits your M.O.
+
+184
+00:08:28,960 --> 00:08:29,870
+不要
+No!
+
+185
+00:08:30,110 --> 00:08:32,430
+我金盆洗手了  我不要再进监狱了
+I'm finished, man. I'm not going back to jail.
+
+186
+00:08:32,430 --> 00:08:34,710
+是个拿着丰厚养老金退休的百万富翁
+It's some retired millionaire living off his golden parachute.
+
+187
+00:08:34,710 --> 00:08:36,790
+这简直就是斯科特·朗的完美目标
+It's a perfect Scott Lang mark!
+
+188
+00:08:36,790 --> 00:08:38,690
+我不在乎  我不干
+I don't care. I'm out.
+
+189
+00:08:57,620 --> 00:08:58,750
+皮姆博士
+Dr. Pym?
+
+190
+00:08:58,930 --> 00:09:01,250
+是的  我还活着
+Yes. I'm still alive.
+
+191
+00:09:08,620 --> 00:09:09,580
+身份证明
+ID?
+
+192
+00:09:10,680 --> 00:09:12,550
+有那个就够了吧
+Perhaps that will suffice.
+
+193
+00:09:15,080 --> 00:09:16,770
+很抱歉  先生  请进
+Very sorry, sir. Please come in.
+
+194
+00:09:19,600 --> 00:09:21,050
+那是汉克·皮姆吗
+Is that Hank Pym?
+
+195
+00:09:25,540 --> 00:09:26,650
+早上好  汉克
+Good morning, Hank.
+
+196
+00:09:28,290 --> 00:09:29,240
+霍普
+Hope.
+
+197
+00:09:29,460 --> 00:09:31,510
+叫我一声爸会死吗
+Would it kill you to call me Dad?
+
+198
+00:09:32,560 --> 00:09:33,990
+你能抽空来见我们
+Dr. Cross will be so pleased that
+
+199
+00:09:34,000 --> 00:09:35,980
+克洛斯博士会很开心的
+you could find the time to join us today.
+
+200
+00:09:36,020 --> 00:09:38,060
+简直是激动万分
+More like "thrilled".
+
+201
+00:09:38,800 --> 00:09:40,040
+收到你发的邀请函
+I was surprised to receive
+
+202
+00:09:40,040 --> 00:09:42,660
+我还真是意外呀  达伦
+any kind of invitation from you, Darren.
+
+203
+00:09:42,930 --> 00:09:44,170
+今天是什么大日子
+What's the occasion?
+
+204
+00:09:44,200 --> 00:09:46,650
+你会知道的  对吧  霍普
+Oh, you'll see. Won't he, Hope?
+
+205
+00:09:50,590 --> 00:09:52,040
+里面已经准备好了  就等你了
+We're ready for you inside.
+
+206
+00:09:53,350 --> 00:09:54,300
+还是不理你呀
+Ouch.
+
+207
+00:09:55,590 --> 00:09:59,100
+看来有些旧伤是无法痊愈的
+I guess some old wounds never heal, huh?
+
+208
+00:09:59,100 --> 00:10:00,730
+别担心  我会照顾好她的
+Don't worry, she's in good hands.
+
+209
+00:10:02,740 --> 00:10:04,130
+你这次是来看好戏的
+You're in for a treat.
+
+210
+00:10:07,280 --> 00:10:11,150
+好久不见  皮姆博士  退休生活还好吗
+Long time, no see, Dr. Pym. How's retirement?
+
+211
+00:10:11,850 --> 00:10:12,940
+你的脸还好吗
+How's your face?
+
+212
+00:10:16,500 --> 00:10:17,530
+你先请
+After you.
+
+213
+00:10:25,800 --> 00:10:26,570
+在我们开始前
+Now, before we start,
+
+214
+00:10:26,570 --> 00:10:29,200
+我想先介绍一位非常特别的嘉宾
+I'd like to introduce a very special guest.
+
+215
+00:10:29,200 --> 00:10:32,190
+这个公司的创始人以及我的导师
+This company's founder and my mentor,
+
+216
+00:10:32,270 --> 00:10:33,650
+汉克·皮姆博士
+Dr. Hank Pym.
+
+217
+00:10:48,810 --> 00:10:50,750
+当我从皮姆博士手中接管了这家公司时
+When I took over this company for Dr. Pym,
+
+218
+00:10:50,750 --> 00:10:53,030
+我便立刻开始研究一个
+I immediately started researching a particle
+
+219
+00:10:53,030 --> 00:10:55,960
+可以改变分子间距离
+that could change the distance between atoms,
+
+220
+00:10:55,960 --> 00:10:59,180
+并增加密度和力量的粒子
+while increasing density and strength.
+
+221
+00:10:59,190 --> 00:11:02,220
+如此一个革命性的想法为何会
+Why this revolutionary idea remained buried
+
+222
+00:11:02,220 --> 00:11:04,140
+一直被埋在汉克的众多研究中
+beneath the dust and cobwebs of
+
+223
+00:11:04,140 --> 00:11:06,060
+积累尘土和蜘蛛网  我不得而知
+Hank's research, I couldn't tell you.
+
+224
+00:11:06,750 --> 00:11:08,060
+但请想像一下
+But just imagine,
+
+225
+00:11:08,590 --> 00:11:12,780
+一个昆虫大小的士兵
+a soldier the size of an insect.
+
+226
+00:11:16,630 --> 00:11:18,490
+终极秘密武器
+The ultimate secret weapon.
+
+227
+00:11:29,900 --> 00:11:32,110
+蚁人
+An Ant-Man.
+
+228
+00:11:33,490 --> 00:11:35,870
+他们当初就是这么称呼你的  对吧  汉克
+That's what they called you. Right, Hank?
+
+229
+00:11:39,670 --> 00:11:40,910
+有点傻  我知道
+Silly, I know.
+
+230
+00:11:41,340 --> 00:11:42,430
+这只是宣传手段
+Propaganda.
+
+231
+00:11:43,190 --> 00:11:45,040
+用来唬人的故事
+Tales to astonish!
+
+232
+00:11:45,980 --> 00:11:48,350
+捏造出来吓唬苏联的故事
+Trumped-up BS to scare the USSR.
+
+233
+00:11:48,350 --> 00:11:52,370
+汉克  可以请你告诉来宾们
+Hank, will you tell our guests what you told me
+
+234
+00:11:52,370 --> 00:11:55,870
+我每一次问你"蚁人真实存在吗"
+every single time I asked you,
+
+235
+00:11:57,400 --> 00:11:59,160
+你是怎么回答我的
+"Was the Ant-Man real?"
+
+236
+00:12:00,030 --> 00:12:01,760
+这只是个传说
+Just a tall tale.
+
+237
+00:12:01,760 --> 00:12:02,600
+没错
+Right.
+
+238
+00:12:02,600 --> 00:12:04,540
+因为如此不可思议的事
+Because how could anything so miraculous
+
+239
+00:12:04,540 --> 00:12:06,090
+怎么可能是真的
+possibly be real?
+
+240
+00:12:16,530 --> 00:12:20,080
+我受到蚁人传说的启发
+Well, I was inspired by the legend of the Ant-Man.
+
+241
+00:12:20,090 --> 00:12:22,890
+有了我缩小无机物材料的突破性进展
+And with my breakthrough shrinking inorganic material,
+
+242
+00:12:22,890 --> 00:12:25,580
+我就想  有没有可能把人也缩小呢
+I thought, could it be possible to shrink a person?
+
+243
+00:12:26,870 --> 00:12:28,240
+这有可能做到吗
+Could that be done?
+
+244
+00:12:29,370 --> 00:12:33,410
+这不再是个传说了
+Well, it's not a legend anymore.
+
+245
+00:12:34,970 --> 00:12:36,570
+尊敬的来宾们
+Distinguished guests,
+
+246
+00:12:36,970 --> 00:12:40,760
+我自豪地向你们展示现代战争的终结者
+I am proud to present the end of warfare as we know it.
+
+247
+00:12:41,220 --> 00:12:42,600
+黄衫
+The Yellowjacket!
+
+248
+00:12:48,580 --> 00:12:49,650
+不
+Oh, no.
+
+249
+00:12:49,650 --> 00:12:53,520
+黄衫是全能的战争武器
+The Yellowjacket is an all-purpose weapon of war
+
+250
+00:12:53,520 --> 00:12:56,250
+它可以改变穿着者的大小
+capable of altering the size of the wearer
+
+251
+00:12:56,250 --> 00:12:58,640
+能够轻松打赢战争
+for the ultimate combat advantage.
+
+252
+00:12:59,040 --> 00:13:00,530
+在我们现今生活的时代
+We live in an era
+
+253
+00:13:00,530 --> 00:13:02,930
+我们用来保护自己的武器
+in which the weapons we use to protect ourselves
+
+254
+00:13:02,930 --> 00:13:05,670
+受到持续监视的削弱
+are undermined by constant surveillance.
+
+255
+00:13:05,670 --> 00:13:08,290
+来回到简单的时代
+It's time to return to a simpler age.
+
+256
+00:13:08,290 --> 00:13:09,920
+让人们可以公开地
+One where the powers of freedom
+
+257
+00:13:09,920 --> 00:13:11,690
+使用自由的权利
+can once again operate openly
+
+258
+00:13:11,690 --> 00:13:13,590
+来保卫自己的利益
+to protect their interests.
+
+259
+00:13:13,790 --> 00:13:16,040
+一个全能型维和的机甲
+An all-purpose peace-keeping vessel,
+
+260
+00:13:16,040 --> 00:13:18,400
+黄衫可以悄无声息地
+the Yellowjacket can manage any conflict
+
+261
+00:13:18,400 --> 00:13:20,350
+解决地缘政治中的
+on the geopolitical landscape
+
+262
+00:13:20,350 --> 00:13:22,280
+任何冲突
+completely unseen.
+
+263
+00:13:22,280 --> 00:13:24,380
+在预防手段和战术袭击中
+Efficient in both preventative measures
+
+264
+00:13:24,380 --> 00:13:26,070
+均有奇效
+and tactical assault.
+
+265
+00:13:26,310 --> 00:13:29,660
+实际应用包括监视
+Practical applications include surveillance,
+
+266
+00:13:29,660 --> 00:13:31,300
+工业破坏
+industrial sabotage,
+
+267
+00:13:31,930 --> 00:13:36,050
+和清除和平道路上的一切障碍
+and the elimination of obstructions on the road to peace.
+
+268
+00:13:36,450 --> 00:13:37,850
+只需一件黄衫
+A single Yellowjacket
+
+269
+00:13:37,850 --> 00:13:40,000
+使用者即可享有执行保护措施的
+offers the user unlimited influence
+
+270
+00:13:40,000 --> 00:13:42,330
+无限能力
+to carry out protective actions.
+
+271
+00:13:42,330 --> 00:13:45,340
+在不久后的一天  一支穿着黄衫的军队
+And, one day soon, an army of Yellowjackets
+
+272
+00:13:45,340 --> 00:13:47,540
+将在全球范围创造一个
+will create a sustainable environment
+
+273
+00:13:47,540 --> 00:13:50,180
+幸福的可持续发展的环境
+of well-being around the world.
+
+274
+00:13:50,790 --> 00:13:52,310
+黄衫
+The Yellowjacket.
+
+275
+00:13:53,170 --> 00:13:54,450
+所以这就是件衣服
+So, it's a suit?
+
+276
+00:13:58,160 --> 00:13:59,880
+别说这么粗俗  弗兰克
+Don't be crude, Frank.
+
+277
+00:13:59,880 --> 00:14:02,810
+这不是件衣服  而是个机甲
+It's not a suit, it's a vessel.
+
+278
+00:14:03,680 --> 00:14:05,130
+怎么了  这项发明没有打动你吗
+What's the matter? You're not impressed?
+
+279
+00:14:05,130 --> 00:14:08,260
+不  让人印象深刻  但我也有顾虑
+No, I'm impressed. I'm also concerned.
+
+280
+00:14:08,260 --> 00:14:10,850
+想像一下我们的敌人能用这项技术做什么
+Imagine what our enemies could do with this tech.
+
+281
+00:14:11,180 --> 00:14:13,590
+我们应该好好聊一下这个问题  弗兰克
+We should have a longer conversation about that, Frank.
+
+282
+00:14:13,590 --> 00:14:15,150
+我很重视你的意见
+I really value your opinion.
+
+283
+00:14:16,520 --> 00:14:18,190
+谢谢大家莅临  霍普
+Thank you for coming. Hope?
+
+284
+00:14:19,020 --> 00:14:21,460
+非常感谢诸位  我现在将带大家离场
+Thank you very much, everybody. I will escort you out now.
+
+285
+00:14:21,460 --> 00:14:22,460
+谢谢
+Thank you.
+
+286
+00:14:26,220 --> 00:14:27,540
+你好像有点震惊
+You seem a bit shocked.
+
+287
+00:14:27,650 --> 00:14:32,070
+达伦  我尘封那些秘密是有原因的
+Darren, there's a reason that I buried these secrets.
+
+288
+00:14:32,070 --> 00:14:33,780
+你终于承认了
+So you finally admit it!
+
+289
+00:14:34,830 --> 00:14:36,820
+我们本可携手完成  汉克
+We could have done this together, Hank.
+
+290
+00:14:36,820 --> 00:14:38,270
+但你却把机会毁了
+But you ruined that.
+
+291
+00:14:39,240 --> 00:14:40,750
+所以你只停留在过去  我才是未来
+That's why you're the past and I'm the future.
+
+292
+00:14:40,750 --> 00:14:42,500
+别这么做
+Don't do this.
+
+293
+00:14:43,580 --> 00:14:44,720
+克洛斯博士
+Dr. Cross?
+
+294
+00:14:46,630 --> 00:14:49,370
+你先卖给我  我出比你要价高20%的价格
+You sell to me first, 20% over your asking price,
+
+295
+00:14:49,380 --> 00:14:51,470
+两周后我就可以付你现金
+I can have the cash here in two weeks.
+
+296
+00:14:51,470 --> 00:14:52,400
+成交
+Deal.
+
+297
+00:15:01,340 --> 00:15:03,630
+我们该行动了  汉克
+We have to make our move, Hank.
+
+298
+00:15:03,630 --> 00:15:04,280
+他进展得怎么样了
+How close is he?
+
+299
+00:15:04,280 --> 00:15:06,430
+他还没法缩小生物
+He still can't shrink a live subject.
+
+300
+00:15:07,300 --> 00:15:08,290
+你就把衣服给我
+Just give me the suit
+
+301
+00:15:08,290 --> 00:15:10,170
+我来永除后患
+and let me finish this once and for all.
+
+302
+00:15:10,230 --> 00:15:11,120
+不行
+No.
+
+303
+00:15:11,300 --> 00:15:13,180
+克洛斯完全信任我
+I have Cross' complete trust.
+
+304
+00:15:13,180 --> 00:15:14,060
+太危险了
+It's too dangerous.
+
+305
+00:15:14,060 --> 00:15:15,860
+我们别无选择
+We don't have a choice.
+
+306
+00:15:15,860 --> 00:15:18,060
+也不尽然
+Well, that's not entirely true.
+
+307
+00:15:19,960 --> 00:15:21,640
+我想我找到了合适的人选
+I think I found a guy.
+
+308
+00:15:23,570 --> 00:15:24,490
+谁
+Who?
+
+309
+00:15:29,270 --> 00:15:30,360
+爸爸
+Daddy!
+
+310
+00:15:30,510 --> 00:15:32,160
+小花生
+Peanut! Oh!
+
+311
+00:15:32,160 --> 00:15:33,640
+生日快乐
+Happy birthday!
+
+312
+00:15:34,550 --> 00:15:35,500
+非常抱歉  我迟到了
+I'm so sorry I'm late.
+
+313
+00:15:35,500 --> 00:15:37,240
+我不知道聚会几点开始
+I didn't know what time your party started.
+
+314
+00:15:37,240 --> 00:15:38,960
+邀请上写了时间的
+It was on the invitation.
+
+315
+00:15:38,960 --> 00:15:40,720
+他都没收到邀请
+He didn't get an invitation.
+
+316
+00:15:40,720 --> 00:15:42,250
+可他还是来了
+But he came anyway!
+
+317
+00:15:42,250 --> 00:15:45,380
+我不会错过宝贝女儿的生日聚会
+Well, I'm not gonna miss my little girl's birthday party.
+
+318
+00:15:45,380 --> 00:15:47,050
+我去告诉妈妈你来了
+I'm gonna go tell Mommy you're here.
+
+319
+00:15:47,050 --> 00:15:47,990
+别
+Oh, you don't...
+
+320
+00:15:47,990 --> 00:15:49,310
+你来这儿干什么  郎
+What are you doing here, Lang?
+
+321
+00:15:49,310 --> 00:15:50,770
+你没给过孩子一分钱的抚养费
+You haven't paid a dime of child support.
+
+322
+00:15:50,780 --> 00:15:52,600
+现在  只要我乐意  就可以逮捕你
+You know, right now, if I wanted to, I could arrest you.
+
+323
+00:15:52,600 --> 00:15:53,850
+好像我很愿意见你似的  帕克斯顿
+It's good to see you too, Paxton.
+
+324
+00:15:53,850 --> 00:15:57,310
+你能来妈妈可高兴了  她喝水都呛着了
+Mommy's so happy you're here, she choked on her drink.
+
+325
+00:15:58,670 --> 00:16:00,840
+看我给你带了什么
+Hey, look what I have for you.
+
+326
+00:16:01,530 --> 00:16:02,800
+我能现在就打开吗
+Can I open it now?
+
+327
+00:16:02,800 --> 00:16:04,530
+当然能  宝贝儿  今天是你的生日啊
+Of course, sweetheart. It's your birthday.
+
+328
+00:16:08,990 --> 00:16:10,950
+你是我最最最好的朋友
+You're my bestest friend.
+
+329
+00:16:10,950 --> 00:16:11,970
+那是什么玩意儿
+What is that thing?
+
+330
+00:16:11,970 --> 00:16:13,960
+他好丑啊
+He's so ugly!
+
+331
+00:16:13,980 --> 00:16:15,860
+我爱死他了
+I love him!
+
+332
+00:16:16,220 --> 00:16:17,970
+我能拿给我朋友们看吗
+Can I go show my friends?
+
+333
+00:16:18,180 --> 00:16:19,920
+当然能  宝贝儿  去吧
+Of course, sweetheart. Go ahead.
+
+334
+00:16:20,390 --> 00:16:22,330
+你是我最最最好的朋友
+You're my bestest friend.
+
+335
+00:16:22,330 --> 00:16:24,370
+我会给孩子抚养费的
+Look, the child support is coming, all right?
+
+336
+00:16:24,370 --> 00:16:26,110
+不过有了前科就很难找到工作
+It's just hard finding a job when you have a record.
+
+337
+00:16:26,110 --> 00:16:27,180
+我相信你能想法解决
+I'm sure you'll figure it out.
+
+338
+00:16:27,190 --> 00:16:27,700
+不过现在
+But for now,
+
+339
+00:16:27,700 --> 00:16:29,060
+-我希望你离开我家  -不可能
+- I want you out of my house. - No way!
+
+340
+00:16:29,060 --> 00:16:30,000
+这是我女儿的生日聚会
+It's my daughter's birthday party.
+
+341
+00:16:30,010 --> 00:16:31,280
+-这是我家  -那又如何
+- It's my house! - So what?
+
+342
+00:16:31,280 --> 00:16:32,540
+-她是我闺女  -斯科特
+- It's my kid! - Scott!
+
+343
+00:16:33,390 --> 00:16:35,930
+你不能说来就来  你知道的  走吧
+You can't just show up here. You know that. Come on.
+
+344
+00:16:35,930 --> 00:16:36,950
+这是生日聚会啊
+It's a birthday party.
+
+345
+00:16:36,950 --> 00:16:38,910
+我知道  但你不能说来就来
+Yeah, I know, but you can't just show up.
+
+346
+00:16:38,910 --> 00:16:39,710
+她是我闺女
+She's my daughter.
+
+347
+00:16:39,710 --> 00:16:41,330
+你根本就不懂怎么做父亲
+You don't know the first thing about being a father.
+
+348
+00:16:41,330 --> 00:16:43,900
+玛姬  看在你是我初恋
+Maggie, I tell you this as a friend,
+
+349
+00:16:43,900 --> 00:16:45,620
+我们还是朋友的份上  我告诉你
+and as the first love of my life.
+
+350
+00:16:45,620 --> 00:16:47,410
+你的未婚夫是个混袋
+Your fiance is an asshat.
+
+351
+00:16:47,410 --> 00:16:48,260
+他不是混袋
+He's not an asshat.
+
+352
+00:16:48,260 --> 00:16:49,480
+喂  嘴巴放干净点儿
+Hey, watch your language. Okay?
+
+353
+00:16:49,480 --> 00:16:51,530
+哪里不干净了  我说的是袋
+What language? I said "Hat."
+
+354
+00:16:51,530 --> 00:16:52,540
+别吵了
+Stop it.
+
+355
+00:16:54,240 --> 00:16:56,400
+真的吗  玛姬  就他
+Really, Maggie? That guy?
+
+356
+00:16:56,400 --> 00:16:57,970
+你可以嫁给任何你喜欢的人
+Come on! You could marry anyone you want,
+
+357
+00:16:57,970 --> 00:16:59,650
+为什么偏要选个条子呢
+and you have to get engaged to a cop?
+
+358
+00:16:59,650 --> 00:17:01,210
+至少他不是骗子
+At least he's not a crook.
+
+359
+00:17:02,940 --> 00:17:05,860
+我在努力  我已经改过自新  洗手不干了
+I'm trying, okay? I've changed. I'm straight.
+
+360
+00:17:05,860 --> 00:17:07,250
+我找了份工作
+I had a job and...
+
+361
+00:17:09,630 --> 00:17:10,650
+我想付抚养费
+I wanna provide.
+
+362
+00:17:10,650 --> 00:17:13,560
+我花了很多时间思考  现在我明白了
+I had a lot of time to think about it and I love her.
+
+363
+00:17:13,640 --> 00:17:14,300
+我非常爱她
+So much.
+
+364
+00:17:14,300 --> 00:17:15,600
+我错过了太多
+I've missed so much time
+
+365
+00:17:15,600 --> 00:17:18,230
+我想成为她生活的一部分
+and I wanna be a part of her life.
+
+366
+00:17:18,230 --> 00:17:19,460
+我该怎么做
+What do I do?
+
+367
+00:17:19,800 --> 00:17:20,990
+租套公寓
+Get an apartment,
+
+368
+00:17:21,450 --> 00:17:24,130
+找份工作  付抚养费
+get a job, pay child support.
+
+369
+00:17:24,130 --> 00:17:27,100
+然后我们再讨论探视孩子的问题
+And then we will talk about visitation, I promise.
+
+370
+00:17:27,660 --> 00:17:29,360
+你是她的英雄  斯科特
+You're her hero, Scott.
+
+371
+00:17:30,710 --> 00:17:34,040
+成为她心目中的那个人吧
+Just be the person that she already thinks you are.
+
+372
+00:17:58,780 --> 00:17:59,410
+弗兰克  很遗憾
+I'm sorry you have such
+
+373
+00:17:59,410 --> 00:18:01,740
+你对黄衫深表担忧
+deep concerns about the Yellowjacket, Frank.
+
+374
+00:18:02,190 --> 00:18:03,890
+是啊
+Yeah. Well, uh...
+
+375
+00:18:04,390 --> 00:18:09,410
+很不幸  我们不能为所欲为
+Unfortunately, we can't just do whatever we want.
+
+376
+00:18:09,460 --> 00:18:11,110
+那样就好了
+It'd be nice though, right?
+
+377
+00:18:12,460 --> 00:18:14,010
+但是得遵守法则
+But there are laws.
+
+378
+00:18:14,010 --> 00:18:15,570
+什么法则  人的吗
+What laws? Of man?
+
+379
+00:18:15,990 --> 00:18:18,240
+自然法则高于人的法则
+The laws of nature transcend the laws of man.
+
+380
+00:18:18,250 --> 00:18:20,350
+而我要高于自然法则
+And I have transcended the laws of nature.
+
+381
+00:18:23,650 --> 00:18:26,640
+达伦  我觉得你不懂
+Darren, I don't think you understand...
+
+382
+00:18:33,030 --> 00:18:34,980
+我们还没解决所有问题
+We still haven't worked out all the bugs.
+
+383
+00:18:40,610 --> 00:18:41,680
+永别了  弗兰克
+Goodbye, Frank.
+
+384
+00:18:55,520 --> 00:18:56,550
+谢谢
+Thank you.
+
+385
+00:19:01,150 --> 00:19:03,670
+我最近一直在想感恩这事
+You know, I've been thinking a lot about gratitude lately.
+
+386
+00:19:03,970 --> 00:19:06,260
+今天早上  我在冥想的时候
+And today, during my morning meditation,
+
+387
+00:19:06,260 --> 00:19:07,800
+得出了一个有意思的结论
+an interesting thought occurred to me,
+
+388
+00:19:07,800 --> 00:19:09,530
+我觉得也适用于你
+and I think it might apply to you, too.
+
+389
+00:19:09,530 --> 00:19:10,400
+什么结论
+How's that?
+
+390
+00:19:10,400 --> 00:19:13,310
+感恩可以是原谅
+Gratitude can be forgiveness.
+
+391
+00:19:13,970 --> 00:19:17,480
+我有好几年都活在对汉克·皮姆的愤恨中
+I've spent years carrying around my anger for Hank Pym.
+
+392
+00:19:17,570 --> 00:19:20,120
+我把我的才华都奉献给了他
+I devoted my genius to him.
+
+393
+00:19:20,520 --> 00:19:21,880
+我本来可以去任何地方工作
+I could have worked anywhere.
+
+394
+00:19:22,740 --> 00:19:24,510
+我没选好导师
+I chose my mentor poorly.
+
+395
+00:19:25,350 --> 00:19:27,010
+而你甚至别无选择
+You didn't even have a choice.
+
+396
+00:19:27,660 --> 00:19:29,300
+他根本就不相信你
+He never believed in you.
+
+397
+00:19:30,980 --> 00:19:32,730
+之前赶你走真是不好
+It's a shame what we had to do,
+
+398
+00:19:32,740 --> 00:19:34,880
+可这都是被他逼的  对不对
+but he forced us to do it, didn't he?
+
+399
+00:19:36,090 --> 00:19:38,740
+但我们不该生气  我们应该感恩
+But we shouldn't be angry, we should be grateful.
+
+400
+00:19:39,950 --> 00:19:42,450
+因为作为失败的导师
+Because his failures as a mentor,
+
+401
+00:19:42,940 --> 00:19:44,250
+失败的父亲
+as a father,
+
+402
+00:19:45,420 --> 00:19:47,840
+是他逼我们一展鸿图
+forced us to spread our wings.
+
+403
+00:19:51,340 --> 00:19:52,790
+达伦  你成功了
+You're a success, Darren.
+
+404
+00:19:54,240 --> 00:19:56,580
+你能获得的一切都当之无愧
+You deserve everything coming your way.
+
+405
+00:20:10,350 --> 00:20:14,230
+{\an8}{\pos(194,154)} 再过377天才能见到凯西
+
+406
+00:20:18,080 --> 00:20:19,150
+别作弊了
+Stop cheating.
+
+407
+00:20:20,380 --> 00:20:21,600
+回来啦  能人
+Hey, what's up, hotshot?
+
+408
+00:20:23,320 --> 00:20:24,760
+他可能没听见你说话
+Maybe he didn't hear you.
+
+409
+00:20:25,440 --> 00:20:26,560
+生日聚会怎么样
+How was the party?
+
+410
+00:20:32,990 --> 00:20:34,350
+跟我说说那个活
+Tell me about that tip.
+
+411
+00:20:34,580 --> 00:20:35,470
+什么
+What?
+
+412
+00:20:35,930 --> 00:20:37,690
+我想知道你说的那个活
+I wanna know about that tip.
+
+413
+00:20:37,920 --> 00:20:40,220
+宝贝儿  开工了  现在就行动
+Oh, baby, it's on! It's so on, right now.
+
+414
+00:20:40,220 --> 00:20:42,920
+别激动  我就想知道消息的来源
+Calm down, all right? I just need to know where it came from.
+
+415
+00:20:42,920 --> 00:20:44,420
+要绝对可靠才行
+It's gotta be airtight.
+
+416
+00:20:44,930 --> 00:20:45,800
+好
+Okay.
+
+417
+00:20:46,210 --> 00:20:48,460
+我和表兄欧内斯托一起参加一场品酒会
+I was at a wine tasting with my cousin Ernesto.
+
+418
+00:20:48,460 --> 00:20:49,450
+当时大部分是红酒
+Which was mainly reds,
+
+419
+00:20:49,450 --> 00:20:50,780
+你知道我不喜欢红酒
+and you know I don't like reds, man.
+
+420
+00:20:50,780 --> 00:20:51,970
+但有种玫瑰葡萄酒扭转了局面
+But there was a rose that saved the day.
+
+421
+00:20:51,980 --> 00:20:53,010
+那天我们很愉快
+It was delightful.
+
+422
+00:20:53,190 --> 00:20:54,360
+他跟我聊起一个姑娘
+And then he tells me about this girl,
+
+423
+00:20:54,360 --> 00:20:55,840
+艾米丽  她以前经常跟我们鬼混
+Emily, that we used to kick it with.
+
+424
+00:20:55,840 --> 00:20:58,110
+其实那是我摸过的第一对奶
+It was actually the first pair of boobs I ever touched.
+
+425
+00:20:58,110 --> 00:20:59,970
+你扯远了
+It's the wrong details.
+
+426
+00:20:59,970 --> 00:21:01,610
+这跟你要讲的事毫无瓜葛
+It has nothing to do with the story.
+
+427
+00:21:01,610 --> 00:21:02,590
+重讲
+Go.
+
+428
+00:21:03,080 --> 00:21:05,200
+他告诉我她现在有份工作
+So, uh, he tells me that she's
+
+429
+00:21:05,200 --> 00:21:07,010
+是帮别人打扫卫生
+working as a housekeeper now, right?
+
+430
+00:21:07,010 --> 00:21:08,380
+她在跟一个叫卡洛斯的家伙约会
+And she's dating this dude, Carlos,
+
+431
+00:21:08,380 --> 00:21:10,340
+他是海湾那头的一个大佬
+who's a shot caller from across the bay.
+
+432
+00:21:10,340 --> 00:21:13,540
+她把她雇主的情况告诉了他
+And she tells him about the dude that she's cleaning for.
+
+433
+00:21:13,540 --> 00:21:16,000
+他雇主是个很牛的执行总裁
+Right? That he's like this big-shot CEO
+
+434
+00:21:16,000 --> 00:21:18,150
+已经金盆洗手  但是超级有钱
+that is all retired now, but he's loaded.
+
+435
+00:21:18,150 --> 00:21:22,100
+卡洛斯和欧内斯托在同一个垒球队
+And so, Carlos and Ernesto are on the same softball team,
+
+436
+00:21:22,110 --> 00:21:23,650
+他们有天开始聊天
+and they get to talking, right?
+
+437
+00:21:23,650 --> 00:21:27,270
+好戏来了  卡洛斯说  "伙计
+And here comes the good part. Carlos says, "Yo, man.
+
+438
+00:21:27,270 --> 00:21:29,100
+"有个人有个超大的保险柜
+"This guy's got a big-ass safe just
+
+439
+00:21:29,100 --> 00:21:31,320
+"就放在地下室  就放在那"
+"Sitting in the basement, just chilling."
+
+440
+00:21:31,320 --> 00:21:32,360
+欧内斯托当然就来找了我
+Of course Ernesto comes to me because
+
+441
+00:21:32,370 --> 00:21:33,420
+因为他知道我盗窃技能了得
+he knows I got mad thieving skills.
+
+442
+00:21:33,420 --> 00:21:34,730
+当然  我问了他
+Of course, I ask him...
+
+443
+00:21:34,730 --> 00:21:36,520
+艾米丽告诉卡洛斯告诉你
+"Did Emily tell Carlos to tell you
+
+444
+00:21:36,520 --> 00:21:38,230
+告诉我那是个什么样的保险柜了吗
+"To get to me what kind of safe it was?"
+
+445
+00:21:38,230 --> 00:21:39,680
+他说  没有
+And he says, "Nah, dawg.
+
+446
+00:21:39,680 --> 00:21:41,940
+她只说保险柜超赞
+"All she said is that it's super-legit
+
+447
+00:21:41,940 --> 00:21:44,330
+装在里面的肯定是好东西
+"And whatever's in it, it's gotta be good."
+
+448
+00:21:47,320 --> 00:21:48,230
+什么
+What?
+
+449
+00:21:48,420 --> 00:21:51,000
+老头有个保险柜
+Old man have safe.
+
+450
+00:21:51,520 --> 00:21:52,790
+而且他这一周不在家
+And he's gone for a week.
+
+451
+00:21:52,790 --> 00:21:55,120
+好吧  有个老头  他有个保险柜
+All right. There's an old man, he's got a safe,
+
+452
+00:21:55,120 --> 00:21:56,200
+而且有一周不在家
+and he's gone for a week.
+
+453
+00:21:56,200 --> 00:21:57,440
+就按这个来计划
+Let's just work with that.
+
+454
+00:21:57,440 --> 00:21:58,640
+我说什么来着
+You know what I'm saying?
+
+455
+00:22:47,890 --> 00:22:50,670
+座机线剪了  手机信号阻断
+Landline's cut, cell signal's jammed.
+
+456
+00:22:50,780 --> 00:22:53,140
+今晚没人会打求救电话
+No one will be making for distress call tonight.
+
+457
+00:22:53,140 --> 00:22:54,110
+通信检查
+Comm check.
+
+458
+00:22:54,120 --> 00:22:55,530
+-收到  -收到
+- Check. - Check.
+
+459
+00:22:55,660 --> 00:22:57,860
+要是出了状况  还有我呢
+Hey, if the job goes bad, you know I got your back, right?
+
+460
+00:22:57,860 --> 00:22:58,870
+别担心
+Don't worry.
+
+461
+00:22:59,240 --> 00:23:00,360
+不会出状况的
+It's not gonna happen.
+
+462
+00:23:03,910 --> 00:23:05,430
+我就喜欢他自负的样子
+I love it when he gets cocky.
+
+463
+00:23:11,520 --> 00:23:12,620
+厉害
+Damn!
+
+464
+00:23:40,520 --> 00:23:41,700
+警报解除了
+Alarm is dead.
+
+465
+00:23:41,790 --> 00:23:42,760
+漂亮
+Nice.
+
+466
+00:23:44,940 --> 00:23:46,530
+好了  我进到房子里了
+All right, I'm moving through the house.
+
+467
+00:24:05,860 --> 00:24:07,550
+{\an8}大力士设备
+
+468
+00:24:12,310 --> 00:24:14,450
+门上是个指纹锁
+There's a fingerprint lock on the door.
+
+469
+00:24:14,470 --> 00:24:17,090
+什么  欧内斯托没告诉我这个啊
+It's got what? Ernesto didn't tell me nothing about that.
+
+470
+00:24:17,230 --> 00:24:18,750
+我们是不是完蛋了
+Aw, man, are we screwed?
+
+471
+00:24:19,350 --> 00:24:20,490
+并不会
+Not necessarily.
+
+472
+00:25:09,260 --> 00:25:10,280
+我进去了
+I'm in.
+
+473
+00:25:10,340 --> 00:25:13,710
+没有触发警报  身手不错啊
+No alarms have been triggered. He's in like the Flynn.
+
+474
+00:25:17,990 --> 00:25:19,430
+天哪
+Oh, man.
+
+475
+00:25:19,430 --> 00:25:20,370
+怎么了
+What is it?
+
+476
+00:25:21,210 --> 00:25:23,670
+他们没开玩笑  这个保险柜相当保险
+Well, they weren't kidding. This safe is serious.
+
+477
+00:25:24,140 --> 00:25:25,850
+有多保险  斯科蒂
+How serious are we talking, Scotty?
+
+478
+00:25:26,510 --> 00:25:27,780
+{\an3}{\pos(374,247)}保险柜品牌
+
+479
+00:25:26,510 --> 00:25:27,780
+是卡本代尔牌的
+It's a Carbondale.
+
+480
+00:25:28,050 --> 00:25:29,570
+1910年造
+It's from 1910.
+
+481
+00:25:29,650 --> 00:25:32,400
+用的跟泰坦尼克号一样的钢材
+Made from the same steel as the Titanic.
+
+482
+00:25:33,750 --> 00:25:34,780
+你能打开吗
+Can you crack it?
+
+483
+00:25:35,100 --> 00:25:38,610
+关键在于  这种钢不怎么耐寒
+Well, here's the thing. It doesn't do so well in the cold.
+
+484
+00:25:38,770 --> 00:25:40,130
+还记得那座冰山吗
+Remember what that iceberg did?
+
+485
+00:25:40,130 --> 00:25:41,720
+记得  坑死了小李子
+Yeah, man. It killed DiCaprio.
+
+486
+00:25:41,720 --> 00:25:42,990
+一船人都死了
+Killed everybody.
+
+487
+00:25:42,990 --> 00:25:44,610
+老太太没死
+Did not kill the old lady.
+
+488
+00:25:44,610 --> 00:25:46,990
+她还把宝石扔进海里了
+She still throw the jewel into the oceans.
+
+489
+00:26:39,090 --> 00:26:40,040
+你在干什么
+What are you doing?
+
+490
+00:26:40,190 --> 00:26:41,050
+我把水倒进锁眼里
+I poured water in the
+
+491
+00:26:41,050 --> 00:26:43,720
+用氮把水冻上
+locking mechanism and froze it with nitrogen.
+
+492
+00:26:43,730 --> 00:26:46,070
+冰会膨胀  而金属不会
+Ice expands. Metal doesn't.
+
+493
+00:26:46,710 --> 00:26:48,680
+-你现在在干什么  -等待
+- What are you doing now? - Waiting.
+
+494
+00:26:50,310 --> 00:26:51,260
+等待
+Waiting.
+
+495
+00:26:59,480 --> 00:27:00,370
+漂亮
+Nice.
+
+496
+00:27:04,700 --> 00:27:06,370
+里面是什么  现金吗  珠宝吗
+What is it? Cash? Jewels?
+
+497
+00:27:07,670 --> 00:27:09,720
+-什么也没有  -你说什么
+- There's nothing here. - What did you say?
+
+498
+00:27:10,980 --> 00:27:13,040
+-是套衣服  -什么
+- It's a suit. - What?
+
+499
+00:27:13,450 --> 00:27:15,850
+一套旧机车皮衣
+It's an old motorcycle suit.
+
+500
+00:27:16,570 --> 00:27:18,460
+没有现金  没有珠宝  什么也没有
+There's no cash, no jewelry, nothing?
+
+501
+00:27:18,460 --> 00:27:19,310
+没有
+No.
+
+502
+00:27:20,960 --> 00:27:22,000
+白忙活一场
+It's a bust.
+
+503
+00:27:22,140 --> 00:27:23,800
+非常抱歉  斯科蒂
+I'm really sorry, Scotty.
+
+504
+00:27:24,560 --> 00:27:26,120
+我知道你需要这票活
+I know you needed to score.
+
+505
+00:28:01,090 --> 00:28:02,810
+我以为我们是用老鼠
+I thought we were using mice.
+
+506
+00:28:03,210 --> 00:28:04,280
+有区别吗
+What's the difference?
+
+507
+00:28:05,820 --> 00:28:10,880
+开始实验34-C  有机物原子缩小实验
+Commence Experiment 34-C. Organic atomic reduction.
+
+508
+00:28:11,280 --> 00:28:12,540
+达伦  也许我们该考虑
+Darren, maybe we should think...
+
+509
+00:28:12,540 --> 00:28:15,030
+缩小有机物组织是这项技术的核心
+Shrinking organic tissue is the centerpiece of this technology.
+
+510
+00:28:15,030 --> 00:28:17,450
+我不能带着半成品去见买家
+I can't go to the buyers with half a breakthrough.
+
+511
+00:28:41,610 --> 00:28:46,070
+实验34-C结果
+Experiment 34-C results,
+
+512
+00:28:46,070 --> 00:28:47,160
+失败
+negative.
+
+513
+00:28:51,430 --> 00:28:54,670
+消毒工作台  带实验对象35-C来
+Sanitize the work station. Bring in subject 35-C.
+
+514
+00:29:06,040 --> 00:29:07,700
+为什么把这个锁起来
+Why would you lock this up?
+
+515
+00:29:29,760 --> 00:29:31,250
+这太奇怪了
+This is so weird.
+
+516
+00:30:03,560 --> 00:30:04,840
+斯科蒂  在吗
+Scotty, what's up, man?
+
+517
+00:30:10,380 --> 00:30:12,690
+不知道这是什么呢
+I wonder... What is this?
+
+518
+00:30:43,350 --> 00:30:44,810
+从这下面看上去
+The world sure seems different
+
+519
+00:30:44,810 --> 00:30:46,850
+世界还真不一样  是不是  斯科特
+from down here, doesn't it, Scott?
+
+520
+00:30:46,850 --> 00:30:49,160
+什么  谁在说话
+What? Who said that?
+
+521
+00:30:55,090 --> 00:30:56,540
+路易斯  我在下面
+Luis, down here!
+
+522
+00:30:56,980 --> 00:31:00,960
+这是火的试炼  斯科特
+It's a trial by fire, Scott. Or, in this case,
+
+523
+00:31:01,410 --> 00:31:02,390
+或者现在是放水
+water.
+
+524
+00:31:26,560 --> 00:31:28,420
+你比自己想象的要坚强
+Guess you're tougher than you thought.
+
+525
+00:31:31,460 --> 00:31:33,150
+我不想看这个
+Oh, I don't want to see this!
+
+526
+00:31:33,800 --> 00:31:34,800
+路易斯
+Luis!
+
+527
+00:31:39,970 --> 00:31:41,020
+奶奶的...
+Son of a...
+
+528
+00:32:27,670 --> 00:32:28,630
+{\an8}积尘袋已满
+
+529
+00:32:57,920 --> 00:32:59,210
+什么情况
+What the hell?
+
+530
+00:33:00,360 --> 00:33:02,540
+对试驾来说不错了
+Not bad for a test drive.
+
+531
+00:33:02,900 --> 00:33:05,090
+留着衣服  我会联系你的
+Keep the suit. I'll be in touch.
+
+532
+00:33:05,090 --> 00:33:07,420
+不  不  不  谢谢了
+No! No! No, thank you!
+
+533
+00:33:19,740 --> 00:33:21,410
+趴在地上
+Get down on the ground!
+
+534
+00:33:21,410 --> 00:33:22,570
+你被捕了
+You are under arrest!
+
+535
+00:33:22,570 --> 00:33:23,690
+我没偷东西
+No, I didn't steal anything!
+
+536
+00:33:23,690 --> 00:33:25,330
+我刚把偷的东西还回去了
+I was returning something I stole.
+
+537
+00:33:29,390 --> 00:33:30,380
+别动
+Don't move.
+
+538
+00:33:34,780 --> 00:33:36,060
+我们都快相信
+You know, you almost had us convinced
+
+539
+00:33:36,060 --> 00:33:37,620
+你真的改过自新了
+that you were gonna change your ways.
+
+540
+00:33:38,790 --> 00:33:40,460
+她们都很看好你
+They were really rooting for you.
+
+541
+00:33:43,060 --> 00:33:44,430
+这会伤透她们的心
+It's gonna break their hearts.
+
+542
+00:33:47,440 --> 00:33:48,440
+你有访客
+You got a visitor.
+
+543
+00:33:49,180 --> 00:33:50,080
+谁
+Who?
+
+544
+00:33:50,360 --> 00:33:51,310
+你的律师
+Your lawyer.
+
+545
+00:33:52,160 --> 00:33:53,150
+我的律师
+My lawyer?
+
+546
+00:33:56,530 --> 00:33:58,600
+我说过我会联系你的  斯科特
+I told you I'd be in touch, Scott.
+
+547
+00:33:59,720 --> 00:34:00,970
+我开始觉得
+I'm starting to think
+
+548
+00:34:00,970 --> 00:34:03,630
+你更愿意待在牢房里了
+that you prefer the inside of a jail cell.
+
+549
+00:34:04,270 --> 00:34:05,710
+天哪
+Oh, man.
+
+550
+00:34:05,710 --> 00:34:06,830
+坐下
+Sit down.
+
+551
+00:34:10,760 --> 00:34:13,530
+先生  对不起  我偷了衣服
+Sir, I'm sorry I stole the suit.
+
+552
+00:34:13,530 --> 00:34:15,510
+我根本不想知道你为什么有这个
+I don't even wanna know why you have it.
+
+553
+00:34:15,660 --> 00:34:17,310
+玛姬没看错你
+Maggie was right about you.
+
+554
+00:34:19,180 --> 00:34:19,690
+你怎么知道
+How do you know about...
+
+555
+00:34:19,690 --> 00:34:22,040
+怪不得她不让你接近凯西
+No wonder she's trying to keep you away from Cassie.
+
+556
+00:34:23,620 --> 00:34:25,350
+世事开始变艰难的时候
+The moment things get hard,
+
+557
+00:34:25,350 --> 00:34:27,000
+你就会回去犯罪
+you turn right back to crime.
+
+558
+00:34:29,210 --> 00:34:31,150
+在我看来  你有一个选择
+The way I see it, you have a choice.
+
+559
+00:34:31,850 --> 00:34:34,290
+要么在监狱里度过余生
+You can either spend the rest of your life in prison,
+
+560
+00:34:35,080 --> 00:34:36,580
+要么回到你的牢房
+or go back to your cell
+
+561
+00:34:37,490 --> 00:34:39,540
+等待进一步的指示
+and await further instructions.
+
+562
+00:34:40,290 --> 00:34:41,560
+我不明白
+I don't understand.
+
+563
+00:34:41,630 --> 00:34:43,330
+我也不指望你能明白
+No, I don't expect you to.
+
+564
+00:34:43,680 --> 00:34:45,500
+但你现在没什么选择的余地
+But you don't have many options right now,
+
+565
+00:34:45,500 --> 00:34:47,960
+坦白讲  我也没有
+and quite frankly, neither do I.
+
+566
+00:34:49,410 --> 00:34:50,030
+你觉得当初
+Why do you think
+
+567
+00:34:50,030 --> 00:34:53,040
+我为什么要让你偷那套衣服呢
+I let you steal that suit in the first place?
+
+568
+00:34:53,140 --> 00:34:54,110
+什么
+What?
+
+569
+00:35:04,510 --> 00:35:07,700
+第二次机会可是很难得啊
+Second chances don't come around all that much.
+
+570
+00:35:08,010 --> 00:35:10,840
+所以下次你要是觉得看到了机会
+So, next time you think you might see one,
+
+571
+00:35:10,840 --> 00:35:15,240
+我建议你仔细看看
+I suggest you take a real close look at it.
+
+572
+00:35:27,460 --> 00:35:29,430
+你是我最最最好的朋友
+You're my bestest friend!
+
+573
+00:35:29,670 --> 00:35:31,830
+你真的不想要别的玩具吗
+Are you sure you don't want a different toy?
+
+574
+00:35:31,830 --> 00:35:33,600
+不  我喜欢这个
+No, I love this one.
+
+575
+00:35:34,370 --> 00:35:37,430
+好吧  睡觉吧  我爱你
+Okay. Well, get some sleep. I love you.
+
+576
+00:35:37,720 --> 00:35:38,620
+妈妈
+Mommy?
+
+577
+00:35:39,240 --> 00:35:41,070
+爸爸是坏人吗
+Is Daddy a bad man?
+
+578
+00:35:42,080 --> 00:35:44,350
+我听有些大人说他是坏人
+I heard some grownups say he's bad.
+
+579
+00:35:45,780 --> 00:35:46,760
+不是
+No.
+
+580
+00:35:47,770 --> 00:35:50,860
+爸爸有时只是有些迷茫
+Daddy just gets confused sometimes, you know?
+
+581
+00:36:42,400 --> 00:36:45,610
+明智之选  你总算听进去了一回
+Smart choice. You actually listened, for once.
+
+582
+00:36:46,550 --> 00:36:47,570
+从门下走
+Under the door.
+
+583
+00:36:52,780 --> 00:36:54,110
+好吧  现在去哪里
+Okay, where to now?
+
+584
+00:36:54,110 --> 00:36:56,540
+-稳住 -天呐
+- Hang tight. - Oh, God.
+
+585
+00:36:58,760 --> 00:37:00,040
+什么  什么
+What, what?
+
+586
+00:37:00,160 --> 00:37:01,080
+他跑哪儿去了
+Where the hell did he go?
+
+587
+00:37:01,080 --> 00:37:02,470
+我不知道  他就那么消失了
+I have no idea. He just vanished.
+
+588
+00:37:02,470 --> 00:37:04,410
+封锁周边五个街区  马上
+Set up a five-block perimeter. Now!
+
+589
+00:37:04,410 --> 00:37:05,820
+退后  退后  退后
+Get back! Get back! Get back!
+
+590
+00:37:05,820 --> 00:37:08,700
+-斯科特  这些是我的同伴  -什么
+- Scott, these are my associates.  - What?
+
+591
+00:37:09,220 --> 00:37:10,710
+那只蚂蚁身上是背了个相机吗
+Is that a camera on an ant?
+
+592
+00:37:10,770 --> 00:37:12,090
+是啊  当然了  为什么不呢
+Yeah, sure. Why not?
+
+593
+00:37:12,480 --> 00:37:13,400
+车在哪
+Where's the car?
+
+594
+00:37:13,400 --> 00:37:15,060
+没有车  我们用飞的
+No car. We've got wings.
+
+595
+00:37:15,140 --> 00:37:16,080
+到达
+Incoming!
+
+596
+00:37:26,480 --> 00:37:29,120
+把脚放在中心节点上  然后扶住胸腔
+Put your foot on the central node and mount the thorax.
+
+597
+00:37:29,120 --> 00:37:29,660
+你在逗我吗
+Are you Kidding?
+
+598
+00:37:29,660 --> 00:37:32,160
+-这东西安不安...  -你他妈快上去  斯科特
+- How safe is... - Just get on the damn ant, Scott!
+
+599
+00:37:44,660 --> 00:37:46,050
+我为什么在一辆警车上
+Why am I on a police car?
+
+600
+00:37:46,050 --> 00:37:47,940
+我难道不是不应该在警车上吗
+Shouldn't I not be on a police car?
+
+601
+00:37:47,940 --> 00:37:48,990
+这样你就可以搭个顺风车
+So they can give you a lift
+
+602
+00:37:48,990 --> 00:37:50,850
+通过他们五个街区的封锁
+past their five-block perimeter.
+
+603
+00:37:51,270 --> 00:37:53,350
+好吧  下一步怎么办
+All right. Now, what's the next move?
+
+604
+00:37:53,440 --> 00:37:54,540
+抓紧了
+Hang on tight.
+
+605
+00:37:54,540 --> 00:37:56,350
+这个容易  我找到窍门了
+Oh, this is easy! I'm getting the hang of this.
+
+606
+00:37:56,350 --> 00:37:58,000
+往上拉就能向上飞  就像骑马一样
+Yank up to go up. It's like a horse.
+
+607
+00:37:58,120 --> 00:37:59,950
+你要让247失去平衡了
+You're throwing 247 off balance.
+
+608
+00:37:59,950 --> 00:38:01,420
+等等  他的名字叫247吗
+Wait, his name is 247?
+
+609
+00:38:01,420 --> 00:38:03,370
+他没有名字  只有编号  斯科特
+He doesn't have a name, he has a number, Scott.
+
+610
+00:38:03,370 --> 00:38:06,100
+你知道一共有多少只蚂蚁吗
+Do you have any idea how many ants there are?
+
+611
+00:38:07,840 --> 00:38:09,570
+也许它是...也许它是248
+Maybe it's... maybe it's 248.
+
+612
+00:38:09,570 --> 00:38:11,210
+不不不不  要晕了  要晕了
+No, no, no, no! Vertigo, vertigo!
+
+613
+00:38:11,210 --> 00:38:13,250
+不  我觉得它是247
+No, I think it's 247.
+
+614
+00:38:13,250 --> 00:38:13,750
+等等
+Wait.
+
+615
+00:38:13,750 --> 00:38:15,210
+抓紧了
+Hang on tight!
+
+616
+00:38:15,910 --> 00:38:17,120
+我觉得我逐渐掌握窍门了
+I think I'm getting the hang of this.
+
+617
+00:38:17,120 --> 00:38:20,260
+是我在控制247  他并非听命于你
+I am controlling 247. He is not listening to you.
+
+618
+00:38:20,390 --> 00:38:21,240
+什么
+What?
+
+619
+00:38:21,600 --> 00:38:23,320
+-我能提个小小的要求吗  -不能
+- Can I make one little request? - No.
+
+620
+00:38:24,720 --> 00:38:26,630
+停下来  247  打住  打住
+Stop, 247! Time out, time out.
+
+621
+00:38:27,640 --> 00:38:28,570
+不玩了
+Time out.
+
+622
+00:38:28,740 --> 00:38:29,450
+{\an8}斯科维亚事件该怪谁
+
+623
+00:38:28,960 --> 00:38:30,110
+好了  等一下
+All right, hold on.
+
+624
+00:38:30,630 --> 00:38:31,680
+等等
+Just wait!
+
+625
+00:38:32,410 --> 00:38:34,340
+假如我吐在了头盔里会发生什么
+What happens if I throw up in this helmet?
+
+626
+00:38:34,340 --> 00:38:37,470
+这是我的头盔  斯科特  别吐里面
+It's my helmet, Scott. You do not throw up.
+
+627
+00:38:37,740 --> 00:38:39,020
+让她停下来吧  好不好
+Let's set her down, all right?
+
+628
+00:38:39,020 --> 00:38:40,180
+我头有点晕了
+I'm getting light-headed.
+
+629
+00:38:40,280 --> 00:38:41,430
+坚持住  斯科特
+Hang on, Scott.
+
+630
+00:38:42,000 --> 00:38:43,710
+我有点...
+I'm getting a little...
+
+631
+00:38:43,710 --> 00:38:45,350
+不能睡过头
+I need a snooze button.
+
+632
+00:38:46,440 --> 00:38:48,450
+5分钟后叫醒我
+Hit me in 5 minutes.
+
+633
+00:39:07,690 --> 00:39:08,470
+你好
+Hello.
+
+634
+00:39:12,420 --> 00:39:13,240
+你是谁
+Who are you?
+
+635
+00:39:15,920 --> 00:39:16,840
+你就一直在那站着
+Have you been standing there,
+
+636
+00:39:16,850 --> 00:39:18,560
+看我睡觉吗
+watching me sleep, this whole time?
+
+637
+00:39:18,780 --> 00:39:19,620
+没错
+Yes.
+
+638
+00:39:20,070 --> 00:39:20,800
+为什么
+Why?
+
+639
+00:39:21,550 --> 00:39:23,990
+因为你上次来时  是来偷东西的
+Because the last time you were here, you stole something.
+
+640
+00:39:27,450 --> 00:39:28,470
+听着...
+Hey, look...
+
+641
+00:39:35,390 --> 00:39:37,060
+拟猛蚁亚科子弹蚁
+Paraponera clavata.
+
+642
+00:39:37,140 --> 00:39:38,580
+巨型热带子弹蚂蚁
+Giant tropical bullet ants,
+
+643
+00:39:38,580 --> 00:39:40,310
+{\an3}{\pos(374,247)}昆虫蛰伤痛度的排名
+
+644
+00:39:38,580 --> 00:39:40,310
+施密特疼痛指数排第一
+ranked highest on the Schmidt pain index.
+
+645
+00:39:40,310 --> 00:39:42,170
+我不在时就由它们在这盯着你
+They're here to keep an eye on you when I can't.
+
+646
+00:39:43,210 --> 00:39:45,520
+皮姆博士在楼下等着你呢
+Dr. Pym's waiting for you downstairs.
+
+647
+00:39:46,640 --> 00:39:47,380
+谁
+Who?
+
+648
+00:39:51,850 --> 00:39:53,380
+这是谁的睡衣
+Whose pajamas are these?
+
+649
+00:40:00,270 --> 00:40:01,940
+这要怎么走过去啊
+How am I supposed to do this?
+
+650
+00:40:08,500 --> 00:40:10,820
+好吧  一步一步来
+All right, just one step at a time.
+
+651
+00:40:16,250 --> 00:40:20,580
+你们不咬我  我就不踩你们  成交吗
+You don't bite me, I don't step on you. Deal?
+
+652
+00:40:24,390 --> 00:40:25,360
+我可以破坏掉服务器
+I could take down the servers
+
+653
+00:40:25,360 --> 00:40:26,670
+克洛斯不会发现的
+and Cross wouldn't even know it.
+
+654
+00:40:26,670 --> 00:40:28,190
+我们不需要这个人
+We don't need this guy.
+
+655
+00:40:28,200 --> 00:40:30,830
+我猜你已经见过我女儿霍普了
+I assume that you've already met my daughter, Hope.
+
+656
+00:40:30,830 --> 00:40:32,990
+见过了  她真好
+I did. She's great.
+
+657
+00:40:33,280 --> 00:40:35,260
+她不认为我们需要你
+She doesn't think that we need you.
+
+658
+00:40:35,260 --> 00:40:37,260
+我们是不需要  我们自己就能搞定
+We don't. We can do this ourselves.
+
+659
+00:40:37,260 --> 00:40:40,170
+我费劲千方百计让你偷了我的装备
+I go to all this effort to let you steal my suit,
+
+660
+00:40:40,170 --> 00:40:42,950
+然后霍普就害你被捕了
+and then Hope has you arrested.
+
+661
+00:40:43,050 --> 00:40:43,990
+好吧  我们可以试试
+Okay, we can try this
+
+662
+00:40:43,990 --> 00:40:46,070
+一旦他失败了  我就自己上
+and when he fails, I'll do it myself.
+
+663
+00:40:46,140 --> 00:40:48,170
+她有点焦虑
+She's a little bit anxious.
+
+664
+00:40:48,170 --> 00:40:49,790
+和这次的活儿有关
+It has to do with this job,
+
+665
+00:40:49,950 --> 00:40:52,350
+鉴于你现在坐在我对面的这个事实
+which, judging by the fact that you're sitting opposite me,
+
+666
+00:40:52,350 --> 00:40:54,800
+我姑且认为你是感兴趣的
+I take it that you're interested in.
+
+667
+00:40:54,800 --> 00:40:55,680
+什么活
+What job?
+
+668
+00:40:55,770 --> 00:40:57,110
+要喝茶吗
+Would you like some tea?
+
+669
+00:40:58,060 --> 00:40:58,790
+好啊
+Sure.
+
+670
+00:40:59,580 --> 00:41:00,990
+我很佩服
+I was very impressed with
+
+671
+00:41:00,990 --> 00:41:04,200
+你通过我的安保系统的方式
+how you managed to get past my security system.
+
+672
+00:41:05,080 --> 00:41:08,160
+冰冻金属那招尤其聪明
+Freezing that metal was particularly clever.
+
+673
+00:41:08,550 --> 00:41:09,610
+你当时在看着我吗
+Were you watching me?
+
+674
+00:41:09,610 --> 00:41:12,410
+斯科特  我看着你有一会儿了
+Scott, I've been watching you for a while.
+
+675
+00:41:13,200 --> 00:41:15,550
+从你抢了维斯塔公司开始
+Ever since you robbed Vista Corp.
+
+676
+00:41:16,070 --> 00:41:18,490
+{\an8}{\pos(219,84)}维斯塔公司前任员
+牵扯进手法精妙的盗窃案
+
+677
+00:41:17,720 --> 00:41:18,770
+抱歉
+Excuse me.
+
+678
+00:41:18,780 --> 00:41:21,050
+"偷了"维斯塔公司
+"Burgled" Vista Corp.
+
+679
+00:41:22,350 --> 00:41:23,990
+维斯塔的安保系统
+Vista's security system was one of
+
+680
+00:41:23,990 --> 00:41:26,090
+是业内最先进的
+the most advanced in the business.
+
+681
+00:41:26,350 --> 00:41:28,390
+它本应该是无法攻破的
+It was supposed to be unbeatable.
+
+682
+00:41:28,390 --> 00:41:29,640
+但是你攻破了
+But you beat it.
+
+683
+00:41:30,150 --> 00:41:31,550
+要加糖吗
+Would you like some sugar?
+
+684
+00:41:31,580 --> 00:41:32,730
+要  谢谢
+Yeah, thanks.
+
+685
+00:41:37,080 --> 00:41:38,280
+你猜怎么着  还是不要了
+You know what? I'm okay.
+
+686
+00:41:43,340 --> 00:41:45,050
+你是怎么让它们做到那个的
+How do you make them do that?
+
+687
+00:41:45,380 --> 00:41:48,260
+蚂蚁能搬动自身重量50倍的物体
+Ants can lift objects 50 times their weight.
+
+688
+00:41:48,260 --> 00:41:51,780
+它们建造  耕作  相互合作
+They build, farm, they cooperate with each other.
+
+689
+00:41:51,780 --> 00:41:54,190
+好吧  但是你是怎么让它们做到那个的
+Right. But how do you make them do that?
+
+690
+00:41:55,970 --> 00:41:58,140
+我用电磁波
+I use electromagnetic waves
+
+691
+00:41:58,150 --> 00:42:01,600
+来刺激它们的嗅觉神经中枢
+to stimulate their olfactory nerve center.
+
+692
+00:42:02,750 --> 00:42:04,730
+我对它们说话
+I speak to them.
+
+693
+00:42:04,800 --> 00:42:07,300
+我想去哪里都可以  我可以听见一切
+I can go anywhere, hear anything,
+
+694
+00:42:07,430 --> 00:42:08,880
+看见一切
+and see everything.
+
+695
+00:42:08,880 --> 00:42:11,010
+但你依然一无所知
+And still know absolutely nothing.
+
+696
+00:42:11,270 --> 00:42:12,940
+我和克洛斯的见面要迟到了
+I'm late to meet Cross.
+
+697
+00:42:17,350 --> 00:42:18,080
+皮姆博士
+Dr. Pym?
+
+698
+00:42:18,080 --> 00:42:20,210
+你没必要举手  斯科特
+You don't need to raise your hand, Scott.
+
+699
+00:42:20,650 --> 00:42:22,500
+抱歉  我就一个问题
+Sorry, I just have one question.
+
+700
+00:42:23,520 --> 00:42:25,580
+你是说  她是谁  这他妈发生什么事了
+Who are you, who is she, what the hell's going on,
+
+701
+00:42:25,580 --> 00:42:27,230
+我现在能回监狱吗
+and can I go back to jail now?
+
+702
+00:42:27,650 --> 00:42:28,680
+和我来
+Come with me.
+
+703
+00:42:29,550 --> 00:42:31,410
+40年前  我创造了一个公式
+40 years ago, I created a formula
+
+704
+00:42:31,410 --> 00:42:33,780
+能改变原子间的相对距离
+that altered atomic relative distance.
+
+705
+00:42:33,780 --> 00:42:34,570
+什么
+Huh?
+
+706
+00:42:35,250 --> 00:42:37,480
+我得知了如何改变原子间的距离
+I learned how to change the distance between atoms.
+
+707
+00:42:37,480 --> 00:42:39,110
+那就是那件衣服的动力
+That's what powers the suit.
+
+708
+00:42:39,110 --> 00:42:40,650
+它运作的原理
+That's why it works.
+
+709
+00:42:48,960 --> 00:42:50,360
+但这是很危险的
+But it was dangerous.
+
+710
+00:42:50,790 --> 00:42:52,440
+过于危险了
+It was too dangerous.
+
+711
+00:42:53,980 --> 00:42:55,710
+所以我将它藏起来了
+So I hid it from the world.
+
+712
+00:42:56,760 --> 00:43:00,390
+从那时我便另起炉灶  开了自己的公司
+And that's when I switched gears and I started my own company.
+
+713
+00:43:00,690 --> 00:43:01,790
+皮姆科技
+Pym Tech.
+
+714
+00:43:01,930 --> 00:43:02,670
+没错
+Yes.
+
+715
+00:43:03,960 --> 00:43:07,490
+我收了个年轻的学徒  名叫达伦·克洛斯
+I took on a young protege called Darren Cross.
+
+716
+00:43:07,830 --> 00:43:08,980
+达伦·克洛斯
+Darren Cross.
+
+717
+00:43:09,170 --> 00:43:10,170
+他可是个大人物啊
+He's a big deal.
+
+718
+00:43:10,170 --> 00:43:12,810
+但在他成为大人物之前  他是我的助手
+But before he was a big deal, he was my assistant.
+
+719
+00:43:12,810 --> 00:43:14,770
+我觉得自己看中了他的某些特质
+I thought I saw something in him.
+
+720
+00:43:14,770 --> 00:43:16,820
+甚至把他当自己儿子了吧
+The son I never had, perhaps.
+
+721
+00:43:17,120 --> 00:43:19,430
+他很有才华  但当我们关系越来越近时
+He was brilliant, but as we became close,
+
+722
+00:43:19,430 --> 00:43:22,770
+他开始怀疑我有事没告诉他
+he began to suspect that I wasn't telling him everything.
+
+723
+00:43:23,310 --> 00:43:27,140
+他听到了关于皮姆微粒的传言
+He heard rumors about what was called the Pym Particle,
+
+724
+00:43:27,140 --> 00:43:30,190
+从此开始着了魔般地想重现我的公式
+and he became obsessed with recreating my formula.
+
+725
+00:43:30,650 --> 00:43:31,760
+但我不愿意帮他
+But I wouldn't help him.
+
+726
+00:43:31,760 --> 00:43:33,260
+所以他背叛了我
+So he conspired against me
+
+727
+00:43:33,260 --> 00:43:35,880
+投票把我赶出了我自己的公司
+and he voted me out of my own company.
+
+728
+00:43:35,990 --> 00:43:37,230
+他是怎么做到的
+How could he do that?
+
+729
+00:43:37,280 --> 00:43:40,210
+董事会的主席是我的女儿  霍普
+The board's chairman is my daughter, Hope.
+
+730
+00:43:40,210 --> 00:43:41,910
+她投了决定性的一票
+She was the deciding vote.
+
+731
+00:43:43,740 --> 00:43:44,750
+但当她看到克洛斯差不多就要
+But she came back to me
+
+732
+00:43:44,750 --> 00:43:48,750
+重现我的公式时  她回到了我身边
+when she saw how close Cross was to cracking my formula.
+
+733
+00:43:49,570 --> 00:43:51,960
+这整个过程非常的不稳定
+The process is highly volatile.
+
+734
+00:43:52,050 --> 00:43:55,160
+假如没戴着特制的头盔
+If one isn't protected by a specialized helmet,
+
+735
+00:43:55,160 --> 00:43:57,240
+有可能会影响到大脑的作用
+it can affect the brain's chemistry.
+
+736
+00:43:58,450 --> 00:44:00,280
+我不认为达伦知道这一点
+I don't think Darren realizes this,
+
+737
+00:44:00,290 --> 00:44:03,610
+再说了  他自己也没有多稳定
+and, you know, he's not the most stable guy to begin with.
+
+738
+00:44:04,430 --> 00:44:06,490
+所以  你想要我做什么
+So, what do you want from me?
+
+739
+00:44:08,730 --> 00:44:12,500
+斯科特  我相信人人都该有赎罪的机会
+Scott, I believe that everyone deserves a shot at redemption.
+
+740
+00:44:12,640 --> 00:44:13,470
+你相信吗
+Do you?
+
+741
+00:44:13,840 --> 00:44:14,610
+相信
+I do.
+
+742
+00:44:15,510 --> 00:44:17,010
+假如你能帮我的话
+If you can help me,
+
+743
+00:44:17,120 --> 00:44:20,870
+我保证能帮你重新回到你女儿身边
+I promise I can help you be with your daughter again.
+
+744
+00:44:21,940 --> 00:44:24,350
+现在  你准备好自我救赎了吗
+Now, are you ready to redeem yourself?
+
+745
+00:44:24,940 --> 00:44:25,950
+百分百好了
+Absolutely.
+
+746
+00:44:26,200 --> 00:44:29,590
+我那些入室盗窃的日子一去不复返了
+My days of breaking into places and stealing shit are done.
+
+747
+00:44:31,030 --> 00:44:32,210
+您要我做什么
+What do you want me to do?
+
+748
+00:44:32,740 --> 00:44:35,830
+我要你入室并且盗窃
+I want you to break into a place and steal some shit.
+
+749
+00:44:39,220 --> 00:44:40,700
+你今晚回家吃晚饭吗
+Are you gonna be home for dinner tonight?
+
+750
+00:44:40,420 --> 00:44:43,780
+{\an9}{\pos(138,85)}郎的"律师"
+是汉克·皮姆博士
+皮姆科技的
+
+751
+00:44:41,620 --> 00:44:44,300
+回的  我得去拿些东西  发短信给我
+Uh, yeah. I'll pick something up. Text me.
+
+752
+00:44:44,300 --> 00:44:46,100
+好吧  是好消息吗
+Okay. Good news?
+
+753
+00:44:46,100 --> 00:44:48,530
+我不知道  就是个消息
+Uh... I don't know. It's news.
+
+754
+00:44:48,590 --> 00:44:50,490
+你是在试图找到我爸爸吗
+Are you trying to find my daddy?
+
+755
+00:44:52,960 --> 00:44:54,520
+是的  甜心
+Yeah, I am, sweetheart.
+
+756
+00:44:55,650 --> 00:44:57,360
+我只是想确保你爸爸的安全
+I just want your daddy to be safe.
+
+757
+00:44:57,760 --> 00:44:59,380
+希望你抓不到他
+Hope you don't catch him.
+
+758
+00:45:45,940 --> 00:45:47,360
+这不是第一次这些人
+This isn't the first time these guys
+
+759
+00:45:47,370 --> 00:45:50,500
+试图染指能改变世界格局的武器了
+have tried to get their hands on game-changing weaponry.
+
+760
+00:45:50,510 --> 00:45:54,010
+那是米切尔·卡森  神盾局前任防御部长
+That's Mitchell Carson, Ex-Head of Defense at S.H.I.E.L.D.
+
+761
+00:45:54,010 --> 00:45:57,060
+如今正赶着颠覆政府的勾当
+Presently in the business of toppling governments.
+
+762
+00:45:57,190 --> 00:45:59,400
+他一直想要我的技术
+He always wanted my tech.
+
+763
+00:45:59,400 --> 00:46:02,760
+除非我们能闯进去偷了黄衫
+And now, unless we break in and steal the Yellowjacket
+
+764
+00:46:02,760 --> 00:46:04,820
+并且毁掉所有数据
+and destroy all the data,
+
+765
+00:46:05,510 --> 00:46:10,220
+否则达伦·克洛斯就要掀起世界动乱了
+Darren Cross is gonna unleash chaos upon the world.
+
+766
+00:46:13,340 --> 00:46:17,250
+我觉得首先我们应该去向复仇者们求助
+I think our first move should be calling the Avengers.
+
+767
+00:46:18,820 --> 00:46:20,420
+我花了大半辈子
+I spent half my life
+
+768
+00:46:20,420 --> 00:46:23,650
+努力不让这项科技落入斯塔克手中
+trying to keep this technology out of the hands of a Stark.
+
+769
+00:46:23,760 --> 00:46:27,040
+我现在也绝不会亲手把它交过去
+I'm sure as hell not gonna hand-deliver it to one now.
+
+770
+00:46:27,370 --> 00:46:30,580
+这可不是钢铁侠战衣那种小儿科
+This is not some cute technology like the Iron Man suit.
+
+771
+00:46:31,190 --> 00:46:33,840
+这个能改变现实的结构
+This could change the texture of reality.
+
+772
+00:46:35,440 --> 00:46:39,520
+{\an3}{\pos(374,247)}影射复联2剧情
+
+773
+00:46:35,440 --> 00:46:39,520
+再说了  他们八成正忙着把城市从天上往下扔呢
+Besides, they're probably too busy dropping cities out of the sky.
+
+774
+00:46:40,140 --> 00:46:42,330
+好吧  那你为何不直接派蚂蚁去呢
+Okay, then why don't you just send the ants?
+
+775
+00:46:42,680 --> 00:46:44,710
+斯科特  它们只是蚂蚁
+Scott, they are ants.
+
+776
+00:46:45,090 --> 00:46:47,110
+蚂蚁  它们能做很多事
+Ants, they can do a lot of things,
+
+777
+00:46:47,110 --> 00:46:49,360
+但它们依然需要个领头的
+but they still need a leader.
+
+778
+00:46:50,020 --> 00:46:51,930
+需要某人能渗透进
+Somebody that could infiltrate a place
+
+779
+00:46:51,930 --> 00:46:54,810
+某个被设计成无法渗透的地方
+that's designed to prevent infiltration.
+
+780
+00:46:54,810 --> 00:46:56,660
+汉克  我是个贼  明白吗
+Hank, I'm a thief, all right?
+
+781
+00:46:56,660 --> 00:46:57,450
+我是说  我是个很厉害的贼
+I mean, i'm a good thief,
+
+782
+00:46:57,450 --> 00:46:58,570
+但这个也太疯狂了
+but this is insane.
+
+783
+00:46:58,570 --> 00:47:00,410
+他说得对  汉克  你自己也清楚
+He's right, Hank. And you know it.
+
+784
+00:47:00,800 --> 00:47:01,770
+你见过影像画面了
+You've seen the footage,
+
+785
+00:47:01,780 --> 00:47:03,820
+你知道克洛斯能干出些什么来
+you know what Cross is capable of.
+
+786
+00:47:03,950 --> 00:47:05,850
+我几个月前就反对用他
+I was against using him when we had months,
+
+787
+00:47:05,850 --> 00:47:07,500
+而如今我们只有几天了
+and now we have days.
+
+788
+00:47:07,700 --> 00:47:08,680
+我来穿那套衣服
+I'm wearing the suit.
+
+789
+00:47:08,680 --> 00:47:10,160
+绝对不行
+Absolutely not!
+
+790
+00:47:10,160 --> 00:47:12,010
+我了解那栋建筑的里里外外
+I know the facility inside and out.
+
+791
+00:47:12,010 --> 00:47:13,220
+我了解克洛斯的想法
+I know how Cross thinks.
+
+792
+00:47:13,220 --> 00:47:14,930
+我比任何人都了解这项任务
+I know this mission better than anybody here.
+
+793
+00:47:14,930 --> 00:47:15,930
+我们需要你待在克洛斯身边
+We need you close to Cross.
+
+794
+00:47:15,930 --> 00:47:17,470
+不然的话  这项任务没办法成功的
+Otherwise, this mission cannot work.
+
+795
+00:47:17,470 --> 00:47:19,190
+我们没时间胡闹了
+We don't have time to screw around!
+
+796
+00:47:19,190 --> 00:47:20,110
+霍普  拜托听我说...
+Hope, please listen to me...
+
+797
+00:47:20,110 --> 00:47:21,720
+他是个罪犯  我是你女儿
+He is a criminal! I'm your daughter.
+
+798
+00:47:21,720 --> 00:47:22,690
+不行
+No!
+
+799
+00:48:01,480 --> 00:48:02,680
+她说得对  汉克
+She's right, Hank.
+
+800
+00:48:03,270 --> 00:48:04,520
+我不是你要找的人
+I'm not your guy.
+
+801
+00:48:05,460 --> 00:48:06,880
+你为什么不自己穿呢
+Why don't you wear the suit?
+
+802
+00:48:07,910 --> 00:48:09,770
+你以为我不想吗
+You think I don't want to?
+
+803
+00:48:10,270 --> 00:48:11,480
+我是不能穿
+I can't.
+
+804
+00:48:12,920 --> 00:48:14,700
+我穿过好几年
+I spent years wearing it,
+
+805
+00:48:15,730 --> 00:48:17,360
+而这衣服对我产生了不良影响
+and it took a toll on me.
+
+806
+00:48:25,350 --> 00:48:26,930
+你是唯一的人选
+You're our only option.
+
+807
+00:48:32,290 --> 00:48:34,790
+在霍普失去她母亲前
+Before Hope lost her mother,
+
+808
+00:48:34,790 --> 00:48:38,790
+她曾经视我为世界上最伟大的人
+she used to look at me like I was the greatest man in the world.
+
+809
+00:48:40,720 --> 00:48:44,170
+而如今她看着我  眼中只剩下失望
+And now she looks at me and there's just disappointment.
+
+810
+00:48:47,380 --> 00:48:48,780
+对我而言已经太迟了
+It's too late for me,
+
+811
+00:48:50,640 --> 00:48:51,820
+但你不一样
+but not for you.
+
+812
+00:48:52,690 --> 00:48:54,330
+这是你的机会
+This is your chance.
+
+813
+00:48:54,440 --> 00:48:58,170
+重新赢得你女儿眼中的崇拜的机会
+The chance to earn that look in your daughter's eyes.
+
+814
+00:48:58,370 --> 00:49:02,000
+不要辜负你在她心中的英雄形象
+To become the hero that she already thinks you are.
+
+815
+00:49:02,620 --> 00:49:04,880
+这无关拯救我们的世界
+It's not about saving our world.
+
+816
+00:49:06,090 --> 00:49:08,440
+而是事关拯救她们的
+It's about saving theirs.
+
+817
+00:49:12,030 --> 00:49:13,490
+靠  这番话说得真好
+Damn. That was a good speech.
+
+818
+00:49:14,460 --> 00:49:15,430
+斯科特
+Scott,
+
+819
+00:49:16,510 --> 00:49:19,750
+我需要你成为蚁人
+I need you to be the Ant-Man.
+
+820
+00:49:23,400 --> 00:49:24,540
+正确地使用它
+In the right hands,
+
+821
+00:49:24,540 --> 00:49:27,880
+人和衣服之间就会是一种共生关系
+the relationship between man and suit is symbiotic.
+
+822
+00:49:27,880 --> 00:49:31,600
+衣服有力量  人则是利用那种力量
+The suit has power. The man harnesses that power.
+
+823
+00:49:31,980 --> 00:49:34,520
+你需要变得灵巧  敏捷  最重要的是
+You need to be skillful, agile, and above all,
+
+824
+00:49:34,520 --> 00:49:35,960
+你得要快
+you need to be fast.
+
+825
+00:49:35,970 --> 00:49:38,240
+你要能够在极短的时间内缩小
+You should be able to shrink and grow
+
+826
+00:49:38,290 --> 00:49:39,300
+和变大
+on a dime.
+
+827
+00:49:39,300 --> 00:49:42,820
+让你的体型总能配合你的行动
+So your size always suits your needs.
+
+828
+00:49:44,360 --> 00:49:46,630
+现在  穿过那个钥匙孔  斯科特
+Now dive through the keyhole, Scott.
+
+829
+00:49:46,630 --> 00:49:48,000
+你起跑时是大的
+You charge big,
+
+830
+00:49:48,000 --> 00:49:49,090
+然后变小穿过
+you dive small,
+
+831
+00:49:49,090 --> 00:49:50,700
+之后再变大
+then you emerge big.
+
+832
+00:49:58,330 --> 00:49:59,450
+废物
+Useless.
+
+833
+00:50:01,430 --> 00:50:02,970
+当你变小时  力量就被压缩了
+When you're small, energy's compressed,
+
+834
+00:50:02,980 --> 00:50:04,800
+所以你180斤的男性的力量
+so you have the force of a 200-pound man
+
+835
+00:50:04,800 --> 00:50:07,120
+放在了0.25毫米大的拳头后
+behind a fist a 100th of an inch wide.
+
+836
+00:50:07,120 --> 00:50:08,380
+你就像是一颗子弹
+You're like a bullet.
+
+837
+00:50:08,380 --> 00:50:10,000
+你出拳太重了  会把人杀死
+You punch too hard, you kill someone.
+
+838
+00:50:10,010 --> 00:50:11,900
+太轻了  就会像是爱抚
+Too soft, it's a love tap.
+
+839
+00:50:11,900 --> 00:50:13,370
+换句话说  你得懂得如何出拳
+In other words, you have to know how to punch.
+
+840
+00:50:13,370 --> 00:50:15,260
+在我监狱里待了三年  我知道怎么出拳
+I was in prison for three years. I know how to punch.
+
+841
+00:50:15,260 --> 00:50:16,140
+打给我看看
+Show me.
+
+842
+00:50:17,170 --> 00:50:17,760
+真差劲
+Terrible.
+
+843
+00:50:17,770 --> 00:50:19,020
+你想要给我演示一下如何出拳吗
+You wanna show me how to punch?
+
+844
+00:50:19,380 --> 00:50:20,190
+打吧
+Show me...
+
+845
+00:50:22,220 --> 00:50:23,410
+这样出拳才对
+That's how you punch.
+
+846
+00:50:23,990 --> 00:50:25,620
+她一直等着这个呢
+She's been looking forward to this.
+
+847
+00:50:25,620 --> 00:50:26,530
+真是呢
+No kidding.
+
+848
+00:50:26,530 --> 00:50:29,220
+霍普在一段困难时期学会了武术
+Hope trained in martial arts at a difficult time.
+
+849
+00:50:29,220 --> 00:50:31,500
+他说的"困难时期"是指我妈妈去世的时候
+Oh, by "difficult time," he means when my mother died.
+
+850
+00:50:31,500 --> 00:50:33,370
+她死于一场坠机事故
+We lost her in a plane crash.
+
+851
+00:50:33,700 --> 00:50:35,210
+你不愿告诉我她是怎么去世的就够糟了
+It's bad enough you won't tell me how she died.
+
+852
+00:50:35,220 --> 00:50:37,370
+你能不能别再重复那个谎言了
+Could you please stop telling me that lie?
+
+853
+00:50:37,370 --> 00:50:38,540
+我们在干正事呢
+We're working, here.
+
+854
+00:50:41,950 --> 00:50:44,230
+好了  小公主  我们归回正题吧
+All right, princess. Let's get back to work.
+
+855
+00:50:44,560 --> 00:50:46,370
+你刚是想打手吗
+Were you going for the hand?
+
+856
+00:50:53,170 --> 00:50:55,180
+我觉得这个调节器碍着我了
+You know, I think this regulator is holding me back.
+
+857
+00:50:55,180 --> 00:50:57,770
+别乱动那个调节器
+Do not screw with the regulator.
+
+858
+00:50:57,770 --> 00:50:59,950
+假如那个调节器坏了
+If that regulator is compromised,
+
+859
+00:50:59,950 --> 00:51:01,730
+你会变成亚原子级
+you would go subatomic.
+
+860
+00:51:01,940 --> 00:51:03,020
+那是什么意思
+What does that mean?
+
+861
+00:51:03,940 --> 00:51:06,010
+意思是你会进入一个量子界
+It means that you would enter a quantum realm.
+
+862
+00:51:06,120 --> 00:51:06,910
+那又是什么意思
+What does that mean?
+
+863
+00:51:06,910 --> 00:51:08,910
+意思是你会进入一个现实
+It means that you would enter a reality
+
+864
+00:51:08,920 --> 00:51:12,150
+在那里一切关于时间和空间的概念
+where all concepts of time and space
+
+865
+00:51:12,310 --> 00:51:13,550
+都没有意义了
+become irrelevant
+
+866
+00:51:13,550 --> 00:51:16,190
+因为你会不断缩小
+as you shrink for all eternity.
+
+867
+00:51:16,860 --> 00:51:20,790
+你所知和所爱的一切
+Everything that you know and love
+
+868
+00:51:21,920 --> 00:51:23,020
+都将一去不复返
+gone forever.
+
+869
+00:51:24,580 --> 00:51:27,500
+棒  要是没坏的话
+Cool. Yeah, if it ain't broke...
+
+870
+00:51:28,160 --> 00:51:29,160
+你对衣服已经有所了解
+You've learned about the suit,
+
+871
+00:51:29,160 --> 00:51:32,040
+但你还没了解你最好的伙伴
+but you've yet to learn about your greatest allies,
+
+872
+00:51:33,340 --> 00:51:34,640
+蚂蚁
+the ants.
+
+873
+00:51:34,110 --> 00:51:35,980
+{\an8}大黑蚁  子弹蚁  狂蚁  火蚁
+
+874
+00:51:34,770 --> 00:51:36,070
+忠诚  勇敢
+Loyal, brave,
+
+875
+00:51:36,070 --> 00:51:38,330
+也是你这次任务中的帮手
+and your partners on this job.
+
+876
+00:51:44,010 --> 00:51:46,980
+长角立毛蚁  俗称狂蚁
+Paratrechina longicornis. Commonly known as crazy ants.
+
+877
+00:51:46,980 --> 00:51:48,900
+快如闪电  也能导电
+They're lightning fast and can conduct electricity,
+
+878
+00:51:48,900 --> 00:51:51,860
+可以烧掉敌人的电子仪器
+which makes them useful to fry out enemy electronics.
+
+879
+00:51:51,900 --> 00:51:53,790
+你也没那么狂嘛
+You're not so crazy.
+
+880
+00:51:54,310 --> 00:51:55,100
+你好
+Hey!
+
+881
+00:51:56,070 --> 00:51:57,500
+你真可爱
+You're cute.
+
+882
+00:52:05,840 --> 00:52:07,900
+刚才好吓人的
+That was a lot scarier a second ago.
+
+883
+00:52:17,240 --> 00:52:21,060
+未来实验室有独立的供电设备
+It looks like the Futures Lab has its own isolated power supply.
+
+884
+00:52:21,070 --> 00:52:22,830
+全天都有保安看守
+There's a security guard posted around the clock.
+
+885
+00:52:22,830 --> 00:52:23,790
+我们要你解决他
+We'll need you to take him out
+
+886
+00:52:23,790 --> 00:52:25,810
+然后关掉安保系统
+to deactivate the security systems.
+
+887
+00:52:26,050 --> 00:52:28,330
+接下来是谁
+Okay, who's next?
+
+888
+00:52:30,370 --> 00:52:31,650
+拟猛蚁亚科子弹蚁
+Paraponera clavata.
+
+889
+00:52:31,650 --> 00:52:33,090
+我知道  子弹蚁是吧
+I know. Bullet ants, right?
+
+890
+00:52:33,090 --> 00:52:35,110
+施密特疼痛指数第一位
+Number 1 on the Schmidt pain index?
+
+891
+00:52:35,110 --> 00:52:37,500
+伙计们  我们之前在卧室见过
+Hey, guys. Remember me from the bedroom?
+
+892
+00:52:39,540 --> 00:52:41,460
+黄衫保护罩是完全密封的
+The Yellowjacket pod is hermetically sealed,
+
+893
+00:52:41,460 --> 00:52:42,920
+唯一的入口是一个
+and the only access point is a tube
+
+894
+00:52:42,920 --> 00:52:45,900
+直径约为5毫米的管道
+we estimate to be about 5 millimeters in diameter.
+
+895
+00:52:45,910 --> 00:52:47,820
+为什么我有种不好预感
+Why do I have a sick feeling in my stomach?
+
+896
+00:52:47,820 --> 00:52:49,680
+管道口有防护镭射网
+The tube is protected by a laser grid,
+
+897
+00:52:49,680 --> 00:52:51,910
+我们最多只能关闭15秒
+and we can only power that down for 15 seconds.
+
+898
+00:52:51,910 --> 00:52:54,580
+你得在备用电源启动前
+You're gonna need to signal the crazy ants to blow the servers,
+
+899
+00:52:54,580 --> 00:52:56,630
+指示狂蚁们去烧掉服务器
+retrieve the suit, and exit the vaults
+
+900
+00:52:56,630 --> 00:52:58,770
+拿到衣服  撤离保险库
+before the backup power comes on.
+
+901
+00:52:59,120 --> 00:53:00,880
+弓背蚁属木蚁
+Camponotus pennsylvanicus.
+
+902
+00:53:01,140 --> 00:53:03,550
+又名大黑蚁
+Alternatively known as a carpenter ant.
+
+903
+00:53:03,550 --> 00:53:06,310
+适合陆空运输
+Ideal for ground and air transport.
+
+904
+00:53:06,320 --> 00:53:08,260
+等等  我认识他
+Wait a minute, I know this guy.
+
+905
+00:53:09,220 --> 00:53:10,680
+我要叫他安东蚁
+I'm gonna call him "Ant-thony."
+
+906
+00:53:11,440 --> 00:53:12,760
+很好  非常好
+That's good. That's very good.
+
+907
+00:53:12,760 --> 00:53:15,710
+因为这次  你得学会
+Because this time, you're really gonna
+
+908
+00:53:15,710 --> 00:53:17,470
+如何控制他
+have to learn how to control him.
+
+909
+00:53:17,580 --> 00:53:20,490
+叫他们把糖放进茶杯里
+Tell them to put the sugar in the teacup.
+
+910
+00:53:23,230 --> 00:53:25,030
+你还好吧  我伤到你了吗
+Aw! You okay? Did I hurt...
+
+911
+00:53:36,360 --> 00:53:38,050
+汉克想让你出去做目标训练
+Hank wants you outside for target practice.
+
+912
+00:53:38,050 --> 00:53:40,980
+衣服没有武器  所以我做了这些飞盘
+The suit has no weapons, so I made you these discs.
+
+913
+00:53:40,980 --> 00:53:42,190
+红盘缩小
+Red shrinks.
+
+914
+00:53:43,290 --> 00:53:44,720
+蓝盘放大
+Blue enlarges.
+
+915
+00:53:46,910 --> 00:53:49,020
+火蚁
+Solenopsis mandibularis.
+
+916
+00:53:49,020 --> 00:53:50,200
+咬人是出了名的
+Known for their bite,
+
+917
+00:53:50,200 --> 00:53:53,310
+但火蚁们也是出色的建筑师
+the fire ants have evolved into remarkable architects.
+
+918
+00:53:53,320 --> 00:53:57,360
+他们能帮你自由进出险境
+They are handy to get you in and out of difficult places.
+
+919
+00:54:06,000 --> 00:54:07,680
+你能做到的  斯科特  加油
+You can do it, Scott. Come on.
+
+920
+00:54:11,670 --> 00:54:12,780
+他们不听我指挥
+They're not listening to me.
+
+921
+00:54:12,780 --> 00:54:15,330
+你得认真  专心注意力集中
+You have to commit. You have to mean it.
+
+922
+00:54:15,660 --> 00:54:17,550
+不要走捷径  不要撒谎
+No shortcuts, no lies.
+
+923
+00:54:18,260 --> 00:54:19,660
+羞辱他只会乱上加乱
+Throwing insults into the mix
+
+924
+00:54:19,660 --> 00:54:22,300
+对任何人都没有好处  霍普
+will not do anyone any good, Hope.
+
+925
+00:54:22,300 --> 00:54:23,890
+我们没时间惯着他了
+We don't have time for coddling.
+
+926
+00:54:23,900 --> 00:54:26,340
+我们重点是要帮助斯科特
+Our focus should be on helping Scott!
+
+927
+00:54:26,340 --> 00:54:27,200
+是吗
+Really?
+
+928
+00:54:28,800 --> 00:54:30,370
+我们的重点就是这个吗
+Is that where our focus should be?
+
+929
+00:54:54,830 --> 00:54:55,540
+霍普
+Hope!
+
+930
+00:55:04,530 --> 00:55:06,970
+我不知道为什么要来找你帮忙
+I don't know why I came to you in the first place.
+
+931
+00:55:16,150 --> 00:55:18,050
+我们没她成不了
+We can't do this without her.
+
+932
+00:55:22,760 --> 00:55:23,960
+老天
+Oh, God.
+
+933
+00:55:24,050 --> 00:55:25,760
+你得关好车门
+You gotta lock your doors.
+
+934
+00:55:25,820 --> 00:55:28,890
+说真的  这片有很多怪人
+I mean, really, there's some weird folks in this neighborhood.
+
+935
+00:55:28,890 --> 00:55:30,290
+你觉得这都是玩笑吗
+Do you think this is a joke?
+
+936
+00:55:31,620 --> 00:55:34,160
+你知道他让你冒了多大的风险
+Do you have any idea what he's asking you to risk?
+
+937
+00:55:34,160 --> 00:55:35,310
+你有个女儿
+You have a daughter.
+
+938
+00:55:35,310 --> 00:55:36,730
+我做这些也是为了她
+I'm doing this for her.
+
+939
+00:55:36,750 --> 00:55:40,190
+我妈妈去世时  我两周没见到他人
+You know, when my mother died, I didn't see him for two weeks.
+
+940
+00:55:40,500 --> 00:55:41,440
+他肯定很伤心
+He was in grief.
+
+941
+00:55:41,440 --> 00:55:42,980
+我也是  我当时才七岁
+Yeah, so was I, and I was seven.
+
+942
+00:55:42,980 --> 00:55:45,580
+然后他再也没回来  没有真正回来
+And he never came back. Not in any way that counted.
+
+943
+00:55:46,590 --> 00:55:48,290
+他直接把我送到寄宿学校
+He just sent me off to boarding school.
+
+944
+00:55:49,840 --> 00:55:51,110
+要知道  我以为
+You know, I thought,
+
+945
+00:55:51,640 --> 00:55:53,100
+这次危机
+with all that's at stake,
+
+946
+00:55:53,100 --> 00:55:56,070
+可能是我们重归于好的机会
+just maybe we might have a chance of making peace.
+
+947
+00:55:56,350 --> 00:55:58,520
+可事到如今他还是对我拒之千里
+But, even now, he still wants to shut me out.
+
+948
+00:55:58,520 --> 00:56:01,200
+他不是想拒绝你  他信任你
+He doesn't wanna shut you out. He trusts you.
+
+949
+00:56:01,200 --> 00:56:02,660
+那要你来干什么
+Then why are you here?
+
+950
+00:56:03,080 --> 00:56:04,570
+来证明他爱你
+It proves that he loves you.
+
+951
+00:56:06,120 --> 00:56:08,550
+霍普  看着我
+Hope. Look at me.
+
+952
+00:56:09,710 --> 00:56:11,110
+我是来当炮灰的
+I'm expendable.
+
+953
+00:56:12,030 --> 00:56:13,260
+找我就是为了这个
+That's why I'm here.
+
+954
+00:56:14,710 --> 00:56:16,550
+你现在应该也意识到了
+You must have realized that by now.
+
+955
+00:56:17,350 --> 00:56:19,550
+这就是为什么是我穿那套衣服而不是你
+I mean, it's why I'm in the suit and you're not.
+
+956
+00:56:21,180 --> 00:56:23,640
+他宁愿全盘皆输也不愿意失去你
+He would rather lose this fight than lose you.
+
+957
+00:56:25,830 --> 00:56:26,660
+所以说
+Anyway...
+
+958
+00:56:28,150 --> 00:56:30,800
+我打电话报警的时候
+You know, I didn't know you had a daughter
+
+959
+00:56:31,290 --> 00:56:33,630
+不知道你有个女儿
+when I called the cops on you.
+
+960
+00:56:37,580 --> 00:56:38,580
+她叫什么
+What's her name?
+
+961
+00:56:39,580 --> 00:56:40,510
+凯西
+Cassie.
+
+962
+00:56:41,810 --> 00:56:42,830
+很美的名字
+It's a pretty name.
+
+963
+00:56:46,540 --> 00:56:48,090
+你得整理思绪  斯科特
+You have to clear your mind, Scott.
+
+964
+00:56:48,090 --> 00:56:49,800
+想法一定要明确
+You have to make your thoughts precise.
+
+965
+00:56:49,800 --> 00:56:51,080
+这就是其中原理
+That's how it works.
+
+966
+00:56:53,100 --> 00:56:54,430
+想想凯西
+Think about Cassie.
+
+967
+00:56:54,430 --> 00:56:57,860
+想想你有多想见她  靠这个集中精力
+About how badly you want to see her. And use that to focus.
+
+968
+00:57:07,180 --> 00:57:08,530
+睁开眼睛
+Open your eyes
+
+969
+00:57:08,530 --> 00:57:11,700
+想想你想要蚂蚁们怎么做
+and just think about what you want the ants to do.
+
+970
+00:57:34,130 --> 00:57:35,090
+做得好
+That's good!
+
+971
+00:57:53,300 --> 00:57:55,910
+你母亲说服我
+Your mother convinced me
+
+972
+00:57:55,910 --> 00:57:59,070
+让她也加入我的任务
+to let her join me on my missions.
+
+973
+00:57:59,970 --> 00:58:02,040
+他们叫她黄蜂女
+They called her the Wasp.
+
+974
+00:58:02,070 --> 00:58:04,150
+她手到擒来
+She was born to it.
+
+975
+00:58:05,970 --> 00:58:08,540
+之后没有哪一天
+And there's not a day that goes by
+
+976
+00:58:08,720 --> 00:58:11,990
+我不在后悔当初答应了她
+that I don't regret having said yes.
+
+977
+00:58:16,310 --> 00:58:18,070
+那是1987年
+It was 1987.
+
+978
+00:58:18,800 --> 00:58:23,340
+分裂派在苏联库斯科劫持了一个导弹发射井
+Separatists had hijacked a Soviet missile silo in Kursk
+
+979
+00:58:24,770 --> 00:58:27,920
+并向美国发射了一枚洲际导弹
+and launched an ICBM at the United States.
+
+980
+00:58:35,210 --> 00:58:37,910
+进入导弹内部的唯一方式
+The only way to the internal mechanics
+
+981
+00:58:38,320 --> 00:58:40,660
+就是穿过固态钛
+was through solid titanium.
+
+982
+00:58:49,230 --> 00:58:51,020
+我知道我得缩小到
+I knew I had to shrink
+
+983
+00:58:51,020 --> 00:58:54,260
+比分子还小  才能解除导弹
+between the molecules to disarm the missile.
+
+984
+00:58:54,480 --> 00:58:58,220
+但我的调节器受损太重
+But my regulator had sustained too much damage.
+
+985
+00:58:59,550 --> 00:59:00,570
+你母亲
+Your mother,
+
+986
+00:59:00,900 --> 00:59:02,590
+没有丝毫犹豫
+she didn't hesitate.
+
+987
+00:59:04,600 --> 00:59:06,020
+简妮特  不要
+Janet! No!
+
+988
+00:59:12,810 --> 00:59:14,920
+她关掉了她的调节器
+She turned off her regulator
+
+989
+00:59:16,120 --> 00:59:18,140
+缩小到亚原子级
+and went subatomic
+
+990
+00:59:19,380 --> 00:59:21,430
+解除了炸弹
+to deactivate the bomb.
+
+991
+00:59:23,190 --> 00:59:24,580
+她牺牲了
+And she was gone.
+
+992
+00:59:29,500 --> 00:59:31,530
+你妈妈是个英雄
+Your mom died a hero.
+
+993
+00:59:34,120 --> 00:59:36,330
+接下来的十年时间
+And I spent the next 10 years
+
+994
+00:59:36,610 --> 00:59:41,090
+我试图了解量子领域的一切
+trying to learn all I could about the quantum realm.
+
+995
+00:59:44,610 --> 00:59:46,480
+你想把她找回来
+You were trying to bring her back.
+
+996
+00:59:48,310 --> 00:59:51,800
+但我只了解到我们有多无知
+But all I learned was we know nothing.
+
+997
+00:59:57,070 --> 00:59:58,340
+这不是你的错
+It's not your fault.
+
+998
+01:00:00,700 --> 01:00:02,190
+是她自己的选择
+She made her choice.
+
+999
+01:00:08,210 --> 01:00:10,240
+但你为什么不早点告诉我
+But why didn't you tell me that sooner?
+
+1000
+01:00:11,940 --> 01:00:14,800
+我是想保护你
+I was trying to protect you.
+
+1001
+01:00:16,650 --> 01:00:18,040
+我已经失去了你母亲
+I lost your mother.
+
+1002
+01:00:20,500 --> 01:00:22,970
+我不想也失去你
+I didn't mean to lose you, too.
+
+1003
+01:00:24,050 --> 01:00:25,300
+对不起
+I'm sorry.
+
+1004
+01:00:28,810 --> 01:00:29,860
+好棒
+This is awesome.
+
+1005
+01:00:31,040 --> 01:00:32,640
+真的好棒
+It's awesome, you know?
+
+1006
+01:00:32,790 --> 01:00:35,150
+你俩终于解除隔阂  重归于好
+You guys are breaking down walls, you're healing.
+
+1007
+01:00:35,920 --> 01:00:36,980
+这很重要
+It's important.
+
+1008
+01:00:40,400 --> 01:00:41,920
+我把气氛毁了  是不是
+I ruined the moment, didn't I?
+
+1009
+01:00:42,090 --> 01:00:43,540
+没错  的确
+Yes, you did. Yes.
+
+1010
+01:00:44,800 --> 01:00:46,010
+我去泡点茶
+I'm going to make some tea.
+
+1011
+01:00:52,480 --> 01:00:53,300
+搞定
+Nailed it!
+
+1012
+01:01:02,710 --> 01:01:04,680
+好样的  安东蚁
+That's a good boy, Ant-thony.
+
+1013
+01:01:34,190 --> 01:01:37,420
+你训练的最后阶段是潜入
+The final phase of your training will be a stealth incursion.
+
+1014
+01:01:37,420 --> 01:01:38,580
+好冷
+It's freezing!
+
+1015
+01:01:38,700 --> 01:01:40,900
+你不能在衣服里加层绒吗
+You couldn't make a suit with a flannel lining?
+
+1016
+01:01:41,950 --> 01:01:44,850
+你得拿到这个信号诱饵的原型机
+You must retrieve this prototype of a signal decoy.
+
+1017
+01:01:44,850 --> 01:01:47,480
+我当年还在神盾局的时候研发的
+It's a device that I invented during my S.H.I.E.L.D. days.
+
+1018
+01:01:47,480 --> 01:01:49,610
+我们要用它来干扰
+We need it to counteract the transmission blockers
+
+1019
+01:01:49,610 --> 01:01:51,790
+克洛斯在未来保险库装的通讯拦截器
+that Cross installed in the Futures vault.
+
+1020
+01:01:52,210 --> 01:01:55,000
+现在正在霍华德·斯塔克的
+It's currently collecting dust in one of Howard Stark's
+
+1021
+01:01:55,000 --> 01:01:57,550
+纽约州北边的一个仓库积灰呢
+old storage facilities in upstate New York.
+
+1022
+01:01:57,550 --> 01:01:59,780
+应该是小菜一碟
+Should be a piece of cake.
+
+1023
+01:01:59,790 --> 01:02:01,310
+你在目标区域上空了
+You're over the target area.
+
+1024
+01:02:01,720 --> 01:02:03,920
+现在出发  斯科特
+Disengage now, Scott!
+
+1025
+01:02:03,920 --> 01:02:05,260
+A中队  走
+Squadron A, go!
+
+1026
+01:02:05,680 --> 01:02:06,710
+B队  走
+B, go!
+
+1027
+01:02:08,900 --> 01:02:09,900
+C队  走
+C, go!
+
+1028
+01:02:11,270 --> 01:02:13,580
+好了  安东蚁  这次别再把我甩下去了
+All right, Ant-thony, please don't drop me this time.
+
+1029
+01:02:14,370 --> 01:02:17,280
+从搬糖块到干这个差距也太大了
+Oh, it feels like a big leap from sugar cubes to this!
+
+1030
+01:02:17,280 --> 01:02:18,430
+保持冷静
+Stay calm.
+
+1031
+01:02:20,540 --> 01:02:22,570
+伙计们  我们可能有麻烦了
+Guys? We might have a problem.
+
+1032
+01:02:22,920 --> 01:02:25,640
+汉克  你不是说是个旧库房吗
+Hank, didn't you say this was some old warehouse?
+
+1033
+01:02:26,210 --> 01:02:27,540
+它不是
+It's not!
+
+1034
+01:02:28,200 --> 01:02:30,170
+你个混蛋
+You son of a bitch!
+
+1035
+01:02:32,530 --> 01:02:34,460
+-斯科特  快回来  -任务中止
+- Scott, get out of there. - Abort!
+
+1036
+01:02:34,460 --> 01:02:35,590
+立刻中止
+Abort now!
+
+1037
+01:02:35,700 --> 01:02:38,140
+没事  看着不像有人在
+No, it's okay. It doesn't look like anyone's home.
+
+1038
+01:02:38,670 --> 01:02:40,380
+安东蚁  飞到屋顶去
+Ant-thony, get me to the roof!
+
+1039
+01:02:41,430 --> 01:02:42,770
+他要把衣服搞丢了
+He's gonna lose the suit.
+
+1040
+01:02:42,770 --> 01:02:44,440
+他命都要丢了
+He's gonna lose his life.
+
+1041
+01:02:50,020 --> 01:02:52,090
+好了  我到目标建筑的屋顶了
+All right, I'm on the roof of the target building.
+
+1042
+01:02:53,610 --> 01:02:54,950
+有人在  斯科特
+Somebody's home, Scott.
+
+1043
+01:02:58,190 --> 01:02:59,390
+山姆  下面出什么事了
+What's going on down there, Sam?
+
+1044
+01:02:59,390 --> 01:03:00,640
+是猎鹰
+It's the Falcon!
+
+1045
+01:03:01,220 --> 01:03:03,550
+感应器说这里有东西  但我什么都没看到
+I had a sensor trip but I'm not seeing anything.
+
+1046
+01:03:04,100 --> 01:03:04,890
+等等
+Wait a second.
+
+1047
+01:03:04,890 --> 01:03:06,980
+任务中止  斯科特  立刻中止
+Abort, Scott! Abort now!
+
+1048
+01:03:06,990 --> 01:03:08,650
+没事的  他看不到我
+It's okay. He can't see me.
+
+1049
+01:03:08,650 --> 01:03:09,850
+我看得到你
+I can see you.
+
+1050
+01:03:09,850 --> 01:03:10,990
+他看得到我
+He can see me.
+
+1051
+01:03:13,300 --> 01:03:15,360
+你好  我是斯科特
+Hi. I'm Scott.
+
+1052
+01:03:15,360 --> 01:03:16,930
+他刚直接自报家门了吗
+Did he just say, "Hi, I'm Scott"?
+
+1053
+01:03:16,930 --> 01:03:17,790
+你在这里干什么
+What are you doing here?
+
+1054
+01:03:17,790 --> 01:03:20,240
+首先  我是你的粉丝
+First off, I'm a big fan.
+
+1055
+01:03:20,240 --> 01:03:22,390
+谢谢  你谁啊
+Appreciate it. So, who the hell are you?
+
+1056
+01:03:22,950 --> 01:03:24,060
+我是蚁人
+I'm Ant-Man.
+
+1057
+01:03:24,680 --> 01:03:25,430
+"蚁人"吗
+"Ant-Man"?
+
+1058
+01:03:25,430 --> 01:03:26,880
+怎么  没听过我大名吗
+What? You haven't heard of me?
+
+1059
+01:03:27,720 --> 01:03:29,220
+不  你是该没听过我
+No, you wouldn't have heard of me.
+
+1060
+01:03:29,970 --> 01:03:31,210
+你要说明你是来干什么的吗
+You wanna tell me what you want?
+
+1061
+01:03:31,210 --> 01:03:33,650
+我想过来拿个仪器
+I was hoping I could grab a piece of technology.
+
+1062
+01:03:33,650 --> 01:03:35,370
+借用几天  用完就还
+Just for a few days. I'm gonna return it.
+
+1063
+01:03:35,370 --> 01:03:38,190
+我得拿去拯救世界  你懂的
+I need it to save the world. You know how that is.
+
+1064
+01:03:38,200 --> 01:03:40,020
+我确实懂
+I know exactly how that is.
+
+1065
+01:03:40,530 --> 01:03:41,590
+锁定入侵者
+Located the breach.
+
+1066
+01:03:41,590 --> 01:03:43,410
+-马上逮捕他  -对不住了
+- Bringing him in. - Sorry about this!
+
+1067
+01:03:47,420 --> 01:03:49,560
+你他妈在干什么
+What the hell are you doing?
+
+1068
+01:03:52,190 --> 01:03:53,370
+入侵者为成年男性
+Breach is an adult male,
+
+1069
+01:03:53,370 --> 01:03:55,420
+好像有某种缩小装置
+who has some sort of shrinking tech.
+
+1070
+01:04:08,220 --> 01:04:08,940
+抱歉
+Sorry!
+
+1071
+01:04:09,520 --> 01:04:11,250
+听着  我真的很抱歉  对不起
+Look, I'm sorry about this. Sorry.
+
+1072
+01:04:12,040 --> 01:04:13,080
+够了
+That's enough!
+
+1073
+01:04:35,710 --> 01:04:37,210
+安东蚁  帮下忙
+Ant-thony! A little help!
+
+1074
+01:04:50,020 --> 01:04:51,210
+我看不见你了
+I've lost visual.
+
+1075
+01:05:00,380 --> 01:05:01,850
+他在我的翅膀里
+He's inside my pack!
+
+1076
+01:05:01,850 --> 01:05:02,750
+抱歉
+Sorry!
+
+1077
+01:05:04,330 --> 01:05:05,710
+你看起来人很好
+You seem like a really great guy.
+
+1078
+01:05:30,890 --> 01:05:34,650
+这事绝对不能被队长知道
+It's really important to me that Cap never finds out about this.
+
+1079
+01:05:37,690 --> 01:05:41,140
+你刚那也太不负责而且很危险
+That was completely irresponsible and dangerous!
+
+1080
+01:05:41,980 --> 01:05:44,340
+你威胁到了全盘计划
+You jeopardized everything!
+
+1081
+01:06:00,280 --> 01:06:01,190
+你拿到了
+You got it.
+
+1082
+01:06:05,040 --> 01:06:05,960
+干得好
+Well done.
+
+1083
+01:06:06,190 --> 01:06:06,910
+等一下
+Wait a minute.
+
+1084
+01:06:06,910 --> 01:06:08,540
+你刚是在表扬我吗
+Did you just compliment me?
+
+1085
+01:06:08,680 --> 01:06:09,530
+他表扬我了  是吧
+He did, didn't he?
+
+1086
+01:06:09,530 --> 01:06:11,000
+听起来是的
+Kind of sounded like he did.
+
+1087
+01:06:12,960 --> 01:06:14,520
+我以前很厉害吧
+I was good, wasn't I?
+
+1088
+01:06:15,780 --> 01:06:19,000
+还有我跟一个复仇者干了一架还没死
+Hey, how about the fact that I fought an Avenger and didn't die?
+
+1089
+01:06:19,420 --> 01:06:21,550
+别沉溺于往事
+Let us not dwell on the past.
+
+1090
+01:06:22,130 --> 01:06:23,780
+还得完成计划
+We gotta finish our planning.
+
+1091
+01:06:26,600 --> 01:06:27,600
+别在意他
+Don't mind him.
+
+1092
+01:06:28,690 --> 01:06:29,660
+你做得很好
+You did good.
+
+1093
+01:06:37,040 --> 01:06:37,850
+达伦
+Darren.
+
+1094
+01:06:40,780 --> 01:06:42,250
+你是怎么进来的
+How the hell did you get in here?
+
+1095
+01:06:43,820 --> 01:06:45,870
+前门没锁  汉克
+You left the front door open, Hank.
+
+1096
+01:06:46,470 --> 01:06:47,530
+这回是真的了
+It's official.
+
+1097
+01:06:47,810 --> 01:06:48,720
+你老了
+You're old.
+
+1098
+01:06:49,170 --> 01:06:49,990
+计划图纸
+The plans.
+
+1099
+01:06:51,770 --> 01:06:53,120
+他会杀了他
+He will kill him.
+
+1100
+01:06:56,580 --> 01:06:59,180
+你有何贵干
+Well, to what do I owe this pleasure?
+
+1101
+01:07:00,430 --> 01:07:01,880
+我有好消息
+I have good news.
+
+1102
+01:07:02,070 --> 01:07:02,860
+是吗
+Really?
+
+1103
+01:07:04,080 --> 01:07:04,980
+是什么
+What's that?
+
+1104
+01:07:05,600 --> 01:07:09,790
+皮姆科技  你一手建立的公司
+Pym Tech, the company you created,
+
+1105
+01:07:10,110 --> 01:07:11,520
+马上要成为世界上
+is about to become one of the most
+
+1106
+01:07:11,520 --> 01:07:14,250
+效益最好的机构了
+profitable operations in the world.
+
+1107
+01:07:14,260 --> 01:07:18,230
+光是明天的买卖就能赚150亿
+We're anticipating $15 billion in sales, tomorrow alone.
+
+1108
+01:07:24,890 --> 01:07:25,840
+不用谢了
+You're welcome.
+
+1109
+01:07:30,150 --> 01:07:32,770
+我知道很奇怪  但我想你也在场
+I know this is odd, but I'd like you to be there.
+
+1110
+01:07:33,360 --> 01:07:35,340
+那是我的时刻  我想让你也看到
+This is my moment. I want you to see it.
+
+1111
+01:07:36,460 --> 01:07:37,990
+好的  达伦  可以
+Sure, Darren. Yeah, sure.
+
+1112
+01:07:38,130 --> 01:07:39,100
+我会到场的
+I'll be there.
+
+1113
+01:07:56,350 --> 01:07:57,630
+你看中我什么了
+What did you see in me?
+
+1114
+01:07:59,020 --> 01:08:00,170
+我不懂你什么意思
+I don't know what you mean.
+
+1115
+01:08:01,480 --> 01:08:03,400
+多年以前  你选中了我
+All those years ago, you picked me.
+
+1116
+01:08:04,140 --> 01:08:05,200
+你看到了什么
+What did you see?
+
+1117
+01:08:07,740 --> 01:08:09,420
+我看到了我自己
+I saw myself.
+
+1118
+01:08:10,010 --> 01:08:11,820
+那你为什么又把我推开
+Then why did you push me away?
+
+1119
+01:08:14,100 --> 01:08:17,220
+因为你太像我了
+Because I saw too much of myself.
+
+1120
+01:08:28,210 --> 01:08:29,780
+他知道了  那是陷阱
+He knows. He's baiting you.
+
+1121
+01:08:29,780 --> 01:08:31,340
+我们得中止计划
+We have to call it off.
+
+1122
+01:08:31,340 --> 01:08:32,890
+我们都在冒险
+We're all taking risks.
+
+1123
+01:08:32,890 --> 01:08:34,030
+要是他看到我在这里怎么办
+What if he saw me here?
+
+1124
+01:08:34,030 --> 01:08:35,310
+他没看到的  没有可能
+He didn't. There's no way.
+
+1125
+01:08:35,310 --> 01:08:36,840
+你怎么能确定
+How do you know that?
+
+1126
+01:08:40,010 --> 01:08:41,090
+{\an8}{\pos(188,112)}达伦·克洛斯
+
+1127
+01:08:45,420 --> 01:08:46,440
+达伦  你好
+Darren, hi.
+
+1128
+01:08:46,880 --> 01:08:49,590
+霍普  你现在在哪
+Hope, where are you right now?
+
+1129
+01:08:50,300 --> 01:08:51,620
+我在家  怎么了
+I'm at home. Why?
+
+1130
+01:08:51,620 --> 01:08:52,900
+我刚去见汉克了
+I just saw Hank.
+
+1131
+01:08:53,140 --> 01:08:55,080
+他还是和以前一样轻视我
+I still get nothing but contempt from him.
+
+1132
+01:08:55,080 --> 01:08:58,610
+别跟他生气  他就是个糟老头
+Don't let him rile you up. He's just a senile old man.
+
+1133
+01:08:58,960 --> 01:09:01,100
+所有人都要加班加点的工作
+We need to start everyone working around the clock.
+
+1134
+01:09:01,100 --> 01:09:03,060
+马上准备运行生产线
+Get the assembly line up and running.
+
+1135
+01:09:03,240 --> 01:09:04,870
+我要加强警备
+And I'm tripling security.
+
+1136
+01:09:04,870 --> 01:09:06,810
+所有入口都要设感应器
+Full sensors at all entrances
+
+1137
+01:09:06,810 --> 01:09:10,160
+通风口都装上钢制微孔筛
+and exterior air vents fitted with steel micro-mesh.
+
+1138
+01:09:10,160 --> 01:09:11,940
+好的  好主意
+Great. Good idea.
+
+1139
+01:09:11,980 --> 01:09:15,080
+谢谢你  霍普  有你在我这边真幸运
+Thank you, Hope. I'm so lucky to have you on my team.
+
+1140
+01:09:18,790 --> 01:09:22,970
+他要加强警备  他已经疯了还盯上你了
+He's tripling security. He's lost his mind, and he's onto you.
+
+1141
+01:09:23,340 --> 01:09:25,200
+但他没有盯上你
+But he is not onto you.
+
+1142
+01:09:25,200 --> 01:09:27,690
+他要在所有入口加装人体扫描仪
+He's adding full body scanners to all entrances
+
+1143
+01:09:27,690 --> 01:09:29,640
+还要关闭外部通风口
+and closing exterior vents.
+
+1144
+01:09:29,690 --> 01:09:31,500
+斯科特怎么进去
+How are we gonna get Scott inside?
+
+1145
+01:09:33,370 --> 01:09:34,440
+总水管
+The water main.
+
+1146
+01:09:35,560 --> 01:09:37,800
+你没法加强总水管的安保措施
+You can't add security to a water main.
+
+1147
+01:09:37,860 --> 01:09:40,100
+水压太强了  但要是我们能减弱水压
+The pressure is too strong, but if we can decrease it,
+
+1148
+01:09:40,100 --> 01:09:41,210
+我就能进去
+that's how I get in.
+
+1149
+01:09:41,210 --> 01:09:43,690
+得有人在大楼的控制中心
+Somebody would have to reach the building's control center
+
+1150
+01:09:43,690 --> 01:09:45,000
+去调节水压
+to change the water pressure.
+
+1151
+01:09:45,000 --> 01:09:46,420
+我和汉克得陪在克洛斯身边
+Hank and I will be beside Cross.
+
+1152
+01:09:46,420 --> 01:09:47,690
+我们根本不可能做到
+How are we supposed to do that?
+
+1153
+01:09:47,690 --> 01:09:49,410
+我们要招兵买马了
+So we expand our team.
+
+1154
+01:09:50,110 --> 01:09:51,140
+需要哪些人呢
+What do we need?
+
+1155
+01:09:51,190 --> 01:09:52,980
+内部要安插一名假保安
+A fake security guard on the inside
+
+1156
+01:09:52,980 --> 01:09:54,430
+负责进入供水系统降压
+to de-pressurize the water system,
+
+1157
+01:09:54,430 --> 01:09:58,070
+另一个人要侵入供电系统切断激光光束
+somebody else to hack in to the power supply and kill the laser grid,
+
+1158
+01:09:58,200 --> 01:09:59,590
+还要一个人接应我们逃跑
+and a getaway guy.
+
+1159
+01:09:59,860 --> 01:10:04,620
+不不不  那三个蠢货不行  绝对不行
+No, no. No, no, no. Not those three wombats. No way.
+
+1160
+01:10:05,030 --> 01:10:06,540
+谢谢您的咖啡  女士
+Thank you for the coffee, ma'am.
+
+1161
+01:10:06,580 --> 01:10:10,120
+很少会有人被打劫了还邀请劫匪坐坐
+It's not too often that you rob a place and then get welcomed back.
+
+1162
+01:10:10,120 --> 01:10:11,710
+因为我们打劫了你
+Because we just robbed you.
+
+1163
+01:10:13,700 --> 01:10:17,540
+你知道他是因为偷了台冰沙机被捕的吧
+You know that he was arrested for stealing a smoothie machine, right?
+
+1164
+01:10:17,540 --> 01:10:18,680
+是两台冰沙机
+Two smoothie machines.
+
+1165
+01:10:18,800 --> 01:10:20,120
+你确定他们能胜任吗
+Are you sure they can handle this?
+
+1166
+01:10:20,120 --> 01:10:21,810
+肯定可以  我们可是专业的
+Oh, we can handle it. We're professionals.
+
+1167
+01:10:21,810 --> 01:10:25,630
+请原谅我们对你们没什么信心
+You'll forgive us if we're not instilled with confidence.
+
+1168
+01:10:25,630 --> 01:10:28,250
+各位都先冷静一下  淡定淡定
+Well, hey, everybody just kick back and relax a little bit, man.
+
+1169
+01:10:28,250 --> 01:10:29,630
+我们懂这行
+We know our business.
+
+1170
+01:10:29,650 --> 01:10:32,180
+我们可闯入过这老房子  不是吗
+We broke into this spooky-ass house, didn't we?
+
+1171
+01:10:32,180 --> 01:10:33,380
+是我放你们进来的
+I let you.
+
+1172
+01:10:33,510 --> 01:10:36,680
+那也可以说是我让你放我进来的
+Well, one could say that I let you let me.
+
+1173
+01:10:37,100 --> 01:10:39,370
+没事  他们能搞定
+Look, it's okay. They can handle this.
+
+1174
+01:10:39,370 --> 01:10:40,260
+对  我们能搞定
+Yeah, we can handle it.
+
+1175
+01:10:40,260 --> 01:10:42,200
+-你有他们的证件了吗  -他在系统里了
+- You got their credentials? - He's in the system.
+
+1176
+01:10:42,200 --> 01:10:43,400
+我在系统里了
+I'm in the system?
+
+1177
+01:10:43,720 --> 01:10:44,850
+你在系统里了
+You're in the system.
+
+1178
+01:10:45,100 --> 01:10:46,060
+系统里吗
+The system?
+
+1179
+01:10:46,210 --> 01:10:48,280
+好吧  我们死定了
+Yeah, we're doomed.
+
+1180
+01:10:48,710 --> 01:10:51,250
+好了  有样东西要给你们看看
+All right. There's something you guys need to see.
+
+1181
+01:10:51,640 --> 01:10:53,110
+等你走到这个转角
+When you get to this corner,
+
+1182
+01:10:53,220 --> 01:10:56,250
+你的左侧会有三间办公室
+there's gonna be three offices on your left side.
+
+1183
+01:10:56,410 --> 01:10:57,300
+我操
+Damn!
+
+1184
+01:10:59,030 --> 01:11:01,840
+真是太酷炫了  哥们
+Whoa! That's so cool, bro!
+
+1185
+01:11:01,920 --> 01:11:04,430
+听着  过一会儿会很诡异
+Now, look, this is gonna get weird, all right?
+
+1186
+01:11:04,430 --> 01:11:06,430
+会很吓人  但其实没事
+It's pretty freaky, but it's safe.
+
+1187
+01:11:06,430 --> 01:11:07,930
+不必害怕
+There's no reason to be scared.
+
+1188
+01:11:07,930 --> 01:11:09,560
+不不  老子我天不怕地不怕
+Oh, no, no. Daddy don't get scared.
+
+1189
+01:11:09,670 --> 01:11:11,090
+-真的吗  -真的
+- Really? - Yeah.
+
+1190
+01:11:11,360 --> 01:11:12,100
+那就好
+Good.
+
+1191
+01:11:19,200 --> 01:11:21,400
+绝对是吉普赛人搞的鬼把戏
+This is the work of Gypsies.
+
+1192
+01:11:21,400 --> 01:11:22,670
+这是巫术吧
+That's witchcraft.
+
+1193
+01:11:22,670 --> 01:11:23,920
+太厉害了
+Wow, that's amazing.
+
+1194
+01:11:24,600 --> 01:11:26,160
+感觉就像大卫·科波菲尔那样
+That's like some David Copperfield shit.
+
+1195
+01:11:26,160 --> 01:11:27,280
+这是什么魔法吧
+That's some kind of wizardry.
+
+1196
+01:11:27,280 --> 01:11:28,400
+是巫术
+This is sorcery!
+
+1197
+01:11:28,400 --> 01:11:29,430
+哥们  你是怎么做到的
+How'd you do that, bro?
+
+1198
+01:11:29,430 --> 01:11:32,160
+千万别怕  看看你的肩膀
+Don't freak out. Look at your shoulder.
+
+1199
+01:11:33,230 --> 01:11:35,100
+滚开  滚开
+Get off! Get off!
+
+1200
+01:11:35,100 --> 01:11:37,170
+你不是还说你天不怕地不怕吗
+Wait, I thought Daddy didn't get scared!
+
+1201
+01:11:39,810 --> 01:11:41,260
+我让每人吃了半片镇静剂
+I gave them each half a Xanax
+
+1202
+01:11:41,260 --> 01:11:43,760
+汉克还给他们解释这套衣服的原理呢
+and Hank explained the science of the suit to them.
+
+1203
+01:11:44,140 --> 01:11:45,300
+他们就睡着了
+They fell right asleep.
+
+1204
+01:11:46,740 --> 01:11:49,140
+听着  我很感谢你能...
+Hey, look, I wanna thank you for...
+
+1205
+01:11:49,140 --> 01:11:50,390
+不  别谢我
+No, please don't.
+
+1206
+01:11:51,350 --> 01:11:54,070
+我们这么做都是为了大义
+We're all doing this for reasons much bigger than any one of us.
+
+1207
+01:11:54,070 --> 01:11:55,130
+我只是很高兴你还有
+I'm just glad that you might have
+
+1208
+01:11:55,130 --> 01:11:57,800
+那么一丝机会可能会成功
+a slight chance of maybe pulling this off.
+
+1209
+01:11:57,800 --> 01:12:01,250
+谢谢你为我打气
+Hey, thank you, you know, for that pep talk.
+
+1210
+01:12:01,260 --> 01:12:03,200
+老实说  我已经从原来的瞧不起你
+You know, the honest truth is, I actually went from despising you
+
+1211
+01:12:03,200 --> 01:12:05,130
+变得快开始喜欢你了
+to almost liking you.
+
+1212
+01:12:05,130 --> 01:12:07,300
+你真的应该去写诗
+You really should write poetry.
+
+1213
+01:12:10,660 --> 01:12:12,130
+去睡会吧  斯科特
+Get some sleep, Scott.
+
+1214
+01:13:02,790 --> 01:13:03,890
+好了  确定一下
+All right, just so we're clear,
+
+1215
+01:13:03,890 --> 01:13:05,650
+我们都清楚自己的任务了吧
+everyone here knows their role, right?
+
+1216
+01:13:05,650 --> 01:13:07,270
+-戴夫  -负责驾车逃跑
+- Dave? - Wheels on the ground.
+
+1217
+01:13:07,270 --> 01:13:08,770
+-科特  -负责搞定监控
+- Kurt? - Eyes in the sky.
+
+1218
+01:13:08,770 --> 01:13:10,240
+-路易斯  -你懂的
+- Luis? - Oh, man, you know it.
+
+1219
+01:13:10,240 --> 01:13:11,730
+没错  我要穿制服
+You know what? I get to wear a uniform.
+
+1220
+01:13:11,730 --> 01:13:13,300
+-就是这样  -路易斯
+- That's what's up. - Luis.
+
+1221
+01:13:13,300 --> 01:13:15,630
+抱歉  我清楚任务  我只是太兴奋了
+I'm sorry. I'm good. I'm good. I'm just excited.
+
+1222
+01:13:15,630 --> 01:13:16,790
+而且你的女朋友真的很性感
+Plus, your girlfriend's really hot.
+
+1223
+01:13:16,790 --> 01:13:18,350
+看到她我也会特别紧张
+So, you know, that makes me nervous, too.
+
+1224
+01:13:18,350 --> 01:13:19,560
+你真的很漂亮  女士
+And you are very beautiful, ma'am.
+
+1225
+01:13:19,570 --> 01:13:21,110
+-我的天哪  -她不是我的...
+- Oh, my Lord. - She's not my...
+
+1226
+01:13:21,110 --> 01:13:22,570
+对了  我想到个策略
+You know what? I was thinking of a tactic,
+
+1227
+01:13:22,570 --> 01:13:24,040
+我卧底进去时可以用
+like when I go undercover.
+
+1228
+01:13:24,080 --> 01:13:26,220
+比如吹口哨  你懂我的意思吧  融入进去
+Like a whistling. You know what I'm saying? To like, blend in.
+
+1229
+01:13:26,220 --> 01:13:28,740
+不行  别吹口哨  不准吹
+No. Don't whistle. No whistling.
+
+1230
+01:13:28,740 --> 01:13:31,130
+这又不是表演才艺节目  不准吹
+It's not The Andy Griffith Show. No whistling.
+
+1231
+01:13:48,910 --> 01:13:50,300
+一区一切正常
+All clear in Sector One.
+
+1232
+01:13:55,620 --> 01:13:56,430
+进来
+Step out.
+
+1233
+01:13:59,380 --> 01:14:00,190
+没问题
+All clear.
+
+1234
+01:14:06,120 --> 01:14:07,030
+准备就绪
+We're set.
+
+1235
+01:14:07,830 --> 01:14:08,660
+祝我好运
+Wish me luck.
+
+1236
+01:14:20,760 --> 01:14:22,040
+设备上线
+Utilities online.
+
+1237
+01:14:34,730 --> 01:14:36,420
+你在干什么
+Hey! What are you doing?
+
+1238
+01:14:36,990 --> 01:14:41,240
+头儿让我来检查下这  我就来了
+Uh... Boss-man said to secure the area, so I'm securing it.
+
+1239
+01:14:43,100 --> 01:14:44,230
+我就是头儿
+I'm the boss.
+
+1240
+01:14:45,260 --> 01:14:46,630
+控制室1.3
+Utilities 1.3...
+
+1241
+01:15:00,320 --> 01:15:02,220
+水位正在下降
+Water level is dropping!
+
+1242
+01:15:30,940 --> 01:15:32,460
+爬到抽气管上
+Coming up on extraction pipe.
+
+1243
+01:15:32,470 --> 01:15:34,310
+我看到了
+All right, I see it.
+
+1244
+01:15:42,090 --> 01:15:43,340
+拜托了  我得爬上去
+All right, come on, I gotta get up there.
+
+1245
+01:15:43,340 --> 01:15:46,170
+没错  没错  就是这样
+That's it. That's it, guys! Yes!
+
+1246
+01:15:48,730 --> 01:15:51,430
+没错  我们做到了  做到了  快点
+Yes! You got it! You got it! Come on!
+
+1247
+01:15:56,390 --> 01:15:58,220
+好了  起飞吧  安东蚁
+All right, let's fly, Ant-thony.
+
+1248
+01:16:08,970 --> 01:16:11,430
+蚁人进入大楼了
+The Ant-Man is in the building.
+
+1249
+01:16:11,500 --> 01:16:14,300
+皮姆刚到  时间正好
+Pym's pulling up. Right on time.
+
+1250
+01:16:16,310 --> 01:16:18,230
+外面还有辆福特皇冠
+Got a Crown Vic right outside there.
+
+1251
+01:16:18,230 --> 01:16:19,410
+有什么问题吗
+This is problem?
+
+1252
+01:16:19,410 --> 01:16:21,770
+福特皇冠是卧底警察
+Considering the Crown Vic's the most commonly used car
+
+1253
+01:16:21,770 --> 01:16:23,540
+最常开的车
+for undercover cops, man,
+
+1254
+01:16:23,580 --> 01:16:25,450
+没错  出问题了
+yes, this is problem.
+
+1255
+01:16:28,600 --> 01:16:29,480
+是皮姆
+That's Pym.
+
+1256
+01:16:32,950 --> 01:16:34,040
+不
+Oh, no.
+
+1257
+01:16:34,090 --> 01:16:35,510
+我在部署子弹蚂蚁
+I'm deploying the bullet ants.
+
+1258
+01:16:35,510 --> 01:16:37,340
+拟猛蚁亚科什么什么蚁
+Paraponera clavata de Merna Merna...
+
+1259
+01:16:37,340 --> 01:16:39,860
+不记得学名叫什么  但这人惨了
+I don't remember what it's called, but I feel bad for this guy.
+
+1260
+01:16:52,550 --> 01:16:53,440
+瞧瞧  这还差不多
+See? That's what I'm talking about.
+
+1261
+01:16:53,440 --> 01:16:56,250
+这就是我所说的在严肃的
+That's what I call an unfortunate casualty
+
+1262
+01:16:56,250 --> 01:16:58,000
+行动中不幸的受害者
+in a very serious operation.
+
+1263
+01:17:07,640 --> 01:17:09,930
+信号诱饵就位
+Signal decoy in place.
+
+1264
+01:17:10,070 --> 01:17:12,290
+凶巴巴美女也搞定了  斯科特
+Mean, pretty lady did good, Scott.
+
+1265
+01:17:13,950 --> 01:17:15,830
+看来皮姆被逮捕了
+Looks like Pym's getting arrested.
+
+1266
+01:17:15,970 --> 01:17:17,390
+斯科特  出问题了
+Scott, we have problem.
+
+1267
+01:17:17,400 --> 01:17:19,190
+问题  什么问题
+Problem? What's the problem?
+
+1268
+01:17:20,330 --> 01:17:22,880
+戴夫  戴夫  我们可没这计划
+Dave! Dave, that's not part of plan!
+
+1269
+01:17:22,890 --> 01:17:23,810
+听我说
+Listen to me.
+
+1270
+01:17:24,540 --> 01:17:27,960
+如果我不进这大楼  有人就会死
+If I don't get into this building, people will die.
+
+1271
+01:17:29,000 --> 01:17:30,720
+有那么夸张吗
+That's awfully dramatic.
+
+1272
+01:17:33,690 --> 01:17:34,730
+是不是在逗我
+Are you kidding me?
+
+1273
+01:17:39,240 --> 01:17:40,660
+问题解决了
+Problem solved.
+
+1274
+01:17:58,880 --> 01:17:59,940
+我看起来怎么样
+How do I look?
+
+1275
+01:18:10,090 --> 01:18:11,210
+终于来了
+There he is.
+
+1276
+01:18:12,830 --> 01:18:15,180
+刚刚好  走吧
+Just in time. Come on.
+
+1277
+01:18:25,100 --> 01:18:26,940
+十二项验证
+12-point verification.
+
+1278
+01:18:26,940 --> 01:18:29,110
+有点过头了  你不觉得吗  达伦
+Little over-the-top, don't you think, Darren?
+
+1279
+01:18:29,110 --> 01:18:30,350
+正在确认授权
+Confirming authorization level.
+
+1280
+01:18:30,350 --> 01:18:32,170
+防范于未然嘛
+Well, you can never be too safe.
+
+1281
+01:18:32,170 --> 01:18:34,010
+准许进入
+Access granted.
+
+1282
+01:18:40,580 --> 01:18:42,100
+得为你鼓鼓掌  达伦
+Gotta hand it to you, Darren.
+
+1283
+01:18:43,120 --> 01:18:44,740
+你真的做到了
+You really did it.
+
+1284
+01:18:44,740 --> 01:18:46,850
+这还只是一部分  汉克
+And you only know the half of it, Hank.
+
+1285
+01:19:13,150 --> 01:19:14,820
+前往第二目标位置
+Arriving in second position.
+
+1286
+01:19:16,240 --> 01:19:18,310
+全速前进  安东蚁  冲吧
+All right, top speed, Ant-thony. Let's go!
+
+1287
+01:19:29,550 --> 01:19:31,430
+继续向指定位置前进
+Proceeding to command position.
+
+1288
+01:19:48,790 --> 01:19:50,190
+我马上就回来  安东蚁
+I'll be right back, Ant-thony.
+
+1289
+01:19:52,370 --> 01:19:54,270
+好了  各位  我到了
+All right, guys. I'm in position.
+
+1290
+01:19:54,590 --> 01:19:56,140
+我要给蚂蚁们发指令了
+I'm gonna signal the ants.
+
+1291
+01:19:56,140 --> 01:19:57,770
+不不不
+No, no, no, no, no!
+
+1292
+01:19:59,770 --> 01:20:00,910
+你看到了吗
+Did you see that?
+
+1293
+01:20:07,210 --> 01:20:08,680
+各就各位
+Assume formation.
+
+1294
+01:20:08,950 --> 01:20:10,930
+好了  你们这些可爱的小家伙
+All right, you cute little crazies,
+
+1295
+01:20:10,930 --> 01:20:12,700
+烧坏这些服务器吧
+let's fry these servers!
+
+1296
+01:20:25,290 --> 01:20:26,830
+上吧兄弟们
+Let's go get 'em, buddy!
+
+1297
+01:20:39,730 --> 01:20:40,950
+服务器已被毁坏
+Servers are fried.
+
+1298
+01:20:40,950 --> 01:20:43,010
+备份数据均已被擦除
+Data backup completely erased.
+
+1299
+01:20:43,010 --> 01:20:44,700
+正在前往粒子实验室
+Heading to the particle chamber.
+
+1300
+01:20:51,070 --> 01:20:53,090
+你好  克洛斯博士
+Hello, Dr. Cross.
+
+1301
+01:20:56,860 --> 01:20:59,560
+我的伙伴们答应了你的条件
+My associates have agreed to your terms.
+
+1302
+01:20:59,560 --> 01:21:00,630
+太好了
+Wonderful.
+
+1303
+01:21:00,630 --> 01:21:03,120
+卡森先生向这几位先生引荐了我
+Mr. Carson introduced me to these fine gentlemen here.
+
+1304
+01:21:03,120 --> 01:21:05,110
+他们是九头蛇的代表们
+They're representatives of Hydra.
+
+1305
+01:21:05,110 --> 01:21:06,600
+他们不是曾经那样了
+They're not what they were.
+
+1306
+01:21:06,600 --> 01:21:08,280
+他们正在进行有趣的工作
+They're doing some interesting work.
+
+1307
+01:21:08,690 --> 01:21:10,510
+而我也很享受这样
+And I'm enjoying myself.
+
+1308
+01:21:12,190 --> 01:21:14,400
+你一直把技术藏起来不给我
+You tried to hide your technology from me.
+
+1309
+01:21:14,400 --> 01:21:17,050
+现在你自食恶果了吧
+And now it's gonna blow up in your face.
+
+1310
+01:21:23,930 --> 01:21:25,470
+我早就预料到你会出拳揍我
+I mean, I saw that punch coming a mile away,
+
+1311
+01:21:25,470 --> 01:21:27,860
+可我还以为这一拳会很软弱无力呢
+but I just figured it'd be all pathetic and weak.
+
+1312
+01:21:27,860 --> 01:21:29,510
+那你想错了
+Well, you figured wrong.
+
+1313
+01:21:30,550 --> 01:21:31,770
+我见过这辆车
+I know this van.
+
+1314
+01:21:33,460 --> 01:21:34,590
+有人吗
+Anybody home?
+
+1315
+01:21:40,120 --> 01:21:41,380
+好了各位  我到了
+All right, guys. I'm here.
+
+1316
+01:21:46,300 --> 01:21:47,750
+正在安装炸弹
+I'm setting the charges.
+
+1317
+01:22:06,500 --> 01:22:09,520
+各位干得很好  接下来交给我吧
+Great job, guys. I'll take it from here.
+
+1318
+01:22:18,970 --> 01:22:20,330
+安东蚁  辛苦了
+Good boy, Ant-thony.
+
+1319
+01:22:22,330 --> 01:22:23,630
+最后目标位
+Final position.
+
+1320
+01:22:32,040 --> 01:22:34,270
+各位  激光光栅关了吗
+Guys, how we looking on that laser grid?
+
+1321
+01:22:34,270 --> 01:22:35,900
+-快了  -并没搞定
+- Almost. - No, you're not.
+
+1322
+01:22:35,900 --> 01:22:38,030
+-马上就好了  -并没有
+- I'm getting close! - No, you're not.
+
+1323
+01:22:42,230 --> 01:22:43,740
+旧金山警察局
+San Francisco P.D.!
+
+1324
+01:22:43,740 --> 01:22:45,080
+从车里出来
+Out of the van!
+
+1325
+01:22:45,410 --> 01:22:46,550
+我知道你们在里面
+I know you're in there!
+
+1326
+01:22:46,550 --> 01:22:47,330
+再快点
+Make it go faster.
+
+1327
+01:22:47,330 --> 01:22:49,160
+哥们  别再催我了
+Dude, seriously.
+
+1328
+01:22:54,480 --> 01:22:56,630
+准备跃入  听到没  科特
+Ready to jump. Do you read, Kurt?
+
+1329
+01:22:57,000 --> 01:22:58,310
+马上就好
+So close.
+
+1330
+01:22:58,370 --> 01:22:59,810
+-等等  再等一会  -别动
+- Okay, hold up! Wait a minute! - Freeze!
+
+1331
+01:22:59,810 --> 01:23:01,340
+有个和我长得一模一样的黑人
+There was a black guy that looked exactly like me
+
+1332
+01:23:01,340 --> 01:23:03,550
+袭击了我们  把我们关进这破车里
+who attacked us and put us in the back of this disgusting van.
+
+1333
+01:23:03,550 --> 01:23:05,210
+-给我出来  -我这不是在出来嘛
+- Get out of the van! - Okay, I'm coming.
+
+1334
+01:23:05,220 --> 01:23:06,340
+别紧张
+Take it easy!
+
+1335
+01:23:06,560 --> 01:23:08,700
+我不走  快上
+No, I will not move! Go now!
+
+1336
+01:23:11,190 --> 01:23:11,720
+等等
+Wait!
+
+1337
+01:23:11,720 --> 01:23:13,480
+什么  为什么又要等等
+What? What do you mean, "Wait"?
+
+1338
+01:23:23,710 --> 01:23:24,970
+搞什么
+What? What?
+
+1339
+01:23:26,590 --> 01:23:27,630
+小家伙
+Hey, little guy.
+
+1340
+01:23:40,450 --> 01:23:43,440
+我一直都怀疑你还偷藏了一套衣服
+I always suspected you had a suit stored away somewhere.
+
+1341
+01:23:43,440 --> 01:23:44,680
+那么问题来了
+Which begs the question,
+
+1342
+01:23:44,680 --> 01:23:46,960
+这位新蚁人是谁
+who is the new Ant-Man?
+
+1343
+01:23:47,090 --> 01:23:50,890
+这位让我敬爱的导师更加信任的人是谁
+Who is the man that my beloved mentor trusted even more than me?
+
+1344
+01:23:53,190 --> 01:23:55,830
+斯科特·朗
+Scott Lang.
+
+1345
+01:23:57,010 --> 01:23:58,560
+殉道者
+A martyr
+
+1346
+01:23:58,560 --> 01:24:01,180
+反抗了社会也付出了代价
+who took on the system and paid the price,
+
+1347
+01:24:01,180 --> 01:24:05,250
+失去了他的家庭和他唯一的女儿
+losing his family and his only daughter in the process.
+
+1348
+01:24:05,250 --> 01:24:08,050
+正好是你的口味  汉克
+Exactly your kind of guy, Hank!
+
+1349
+01:24:09,390 --> 01:24:14,750
+他越了狱  没有留下任何线索
+He escapes his jail cell without leaving any clue as to how.
+
+1350
+01:24:14,750 --> 01:24:18,440
+然后神奇地消失了
+And then he disappears magically,
+
+1351
+01:24:19,160 --> 01:24:21,360
+虽然身上一分钱都没有
+despite having no money to his name.
+
+1352
+01:24:21,360 --> 01:24:24,770
+现在他把蚁人服带来了
+And now he brings me the Ant-Man suit.
+
+1353
+01:24:26,350 --> 01:24:30,490
+唯一能与我的发明相提并论的设计
+The only thing that can rival my creation.
+
+1354
+01:24:30,490 --> 01:24:33,600
+达伦  别这么做
+Darren, don't do this.
+
+1355
+01:24:33,900 --> 01:24:35,940
+如果你把它卖给这些人
+If you sell to these men,
+
+1356
+01:24:35,940 --> 01:24:37,530
+一定会引发世界混乱
+it's gonna be chaos.
+
+1357
+01:24:37,530 --> 01:24:39,010
+我已经卖了
+I already have.
+
+1358
+01:24:39,010 --> 01:24:40,470
+而且多亏了你
+And for twice the price,
+
+1359
+01:24:40,470 --> 01:24:41,570
+卖了两倍的价格
+thanks to you.
+
+1360
+01:24:42,600 --> 01:24:45,890
+要成功侵入复联大楼可不容易
+It's not easy to successfully infiltrate an Avengers facility.
+
+1361
+01:24:45,890 --> 01:24:48,500
+庆幸的是  消息传千里
+Thankfully, word travels fast.
+
+1362
+01:24:48,500 --> 01:24:49,820
+我会把黄衫卖给他们
+I'll sell them the Yellowjacket,
+
+1363
+01:24:49,820 --> 01:24:52,460
+不过粒子我就自己留着了
+but I'm keeping the particle to myself.
+
+1364
+01:24:53,070 --> 01:24:54,480
+这可不烧柴油
+They don't run on diesel.
+
+1365
+01:24:54,480 --> 01:24:57,000
+如果想要燃料  就得来找我
+If you want the fuel, you'll have to come to me.
+
+1366
+01:24:58,540 --> 01:25:00,340
+你会怎么称呼全世界
+What do you call the only man
+
+1367
+01:25:00,340 --> 01:25:04,000
+唯一一位手握最强大武器的人
+who can arm the most powerful weapon in the world?
+
+1368
+01:25:04,000 --> 01:25:07,020
+世界上最强大的人
+The most powerful man in the world.
+
+1369
+01:25:07,020 --> 01:25:08,160
+你为我感到自豪了吗
+You proud of me yet?
+
+1370
+01:25:08,160 --> 01:25:11,540
+现在收手还来得及  达伦
+You can stop this, Darren. It's not too late.
+
+1371
+01:25:11,550 --> 01:25:14,330
+早已经来不及了
+It's been too late for a long time now.
+
+1372
+01:25:16,020 --> 01:25:16,900
+达伦
+Darren!
+
+1373
+01:25:19,400 --> 01:25:20,460
+你在干什么
+What are you doing?
+
+1374
+01:25:20,470 --> 01:25:23,720
+他照顾不好你  就像你也照顾不好我
+He wasn't any more capable of caring for you than he was for me.
+
+1375
+01:25:23,720 --> 01:25:25,500
+这不是原来的你
+This is not who you are.
+
+1376
+01:25:25,500 --> 01:25:28,590
+你的大脑化学物质被粒子改变了
+It's the particles altering your brain chemistry.
+
+1377
+01:25:36,810 --> 01:25:38,490
+等等  等等
+Wait! Wait, wait, wait, wait.
+
+1378
+01:25:40,470 --> 01:25:43,550
+你说得对  必须我亲自动手
+You're right. I have to be the one to do it.
+
+1379
+01:25:45,810 --> 01:25:47,000
+好戏来了
+Here we go.
+
+1380
+01:25:48,560 --> 01:25:51,680
+把  枪  放  下
+Drop your gun.
+
+1381
+01:25:54,260 --> 01:25:56,900
+那天晚上我去他家本来是想杀他
+You know, I came to the house the other night to kill him,
+
+1382
+01:25:57,480 --> 01:25:58,520
+可你当时也在
+but you were there.
+
+1383
+01:25:58,530 --> 01:26:02,090
+你走火入魔了  我能帮你  把枪放下
+You're sick and I can help you. Just put the gun down.
+
+1384
+01:26:02,090 --> 01:26:03,720
+我当时还没想杀你
+I wasn't ready to kill you then,
+
+1385
+01:26:05,030 --> 01:26:06,280
+但我现在准备好了
+but I think I am now!
+
+1386
+01:26:06,280 --> 01:26:08,700
+把枪放下
+Drop your gun now!
+
+1387
+01:26:08,700 --> 01:26:10,940
+你站错队了  霍普
+You picked the wrong side, Hope.
+
+1388
+01:26:24,940 --> 01:26:25,850
+爸爸
+Dad!
+
+1389
+01:26:34,850 --> 01:26:35,960
+汉克  不
+Hank, no.
+
+1390
+01:26:35,960 --> 01:26:37,450
+不  汉克
+No, Hank.
+
+1391
+01:26:38,470 --> 01:26:40,660
+汉克  听着  你会没事的
+Hank? Listen, you're gonna be okay.
+
+1392
+01:26:40,660 --> 01:26:42,430
+你会没事的
+All right? You're gonna be just fine.
+
+1393
+01:26:43,400 --> 01:26:47,050
+把衣服脱了  不然我一枪崩了你再扒衣服
+Take the suit off, or I'll blow your brains out and peel it off.
+
+1394
+01:27:11,120 --> 01:27:12,950
+{\an8}皮姆科技
+
+1395
+01:27:12,380 --> 01:27:13,930
+皮姆科技公司发生紧急情况
+We got a 10-33 at Pym Tech.
+
+1396
+01:27:13,930 --> 01:27:15,830
+请求紧急支援
+Request immediate backup!
+
+1397
+01:27:16,090 --> 01:27:17,100
+走走走
+Go, go, go!
+
+1398
+01:27:30,090 --> 01:27:31,850
+带我去屋顶
+Get me to the roof.
+
+1399
+01:27:31,850 --> 01:27:33,550
+提前无线电联系
+And radio ahead.
+
+1400
+01:27:33,550 --> 01:27:36,130
+我去把直升机准备好
+I want to make sure the helicopter is ready to take off.
+
+1401
+01:27:36,130 --> 01:27:37,420
+你们俩
+You two,
+
+1402
+01:27:37,420 --> 01:27:40,420
+从保险库出来的东西一律格杀勿论
+kill anything that comes out of that vault!
+
+1403
+01:27:40,440 --> 01:27:43,560
+爸  你能动吗
+Dad, can you move?
+
+1404
+01:27:45,710 --> 01:27:47,160
+我们得带他离开这里
+We need to get him out of here.
+
+1405
+01:27:48,270 --> 01:27:51,620
+去拿衣服
+Go get that suit.
+
+1406
+01:28:33,860 --> 01:28:34,850
+斯科蒂
+Hey, Scotty.
+
+1407
+01:28:35,800 --> 01:28:37,440
+我是不是救了你的小命
+Hey, did I save your life?
+
+1408
+01:28:38,370 --> 01:28:39,220
+斯科蒂
+Scotty?
+
+1409
+01:28:40,070 --> 01:28:40,960
+斯科蒂
+Scotty?
+
+1410
+01:28:43,330 --> 01:28:44,540
+谢谢你  路易斯
+Thank you, Luis.
+
+1411
+01:28:45,290 --> 01:28:46,640
+-我们是好人吗  -是
+- Are we the good guys? - Yeah.
+
+1412
+01:28:46,640 --> 01:28:47,500
+我们是好人  对吧
+We're the good guys, right?
+
+1413
+01:28:47,500 --> 01:28:49,270
+没错  我们是好人
+Yeah, we're the good guys.
+
+1414
+01:28:49,570 --> 01:28:51,180
+感觉有点奇怪
+Feels kinda weird, you know.
+
+1415
+01:28:51,180 --> 01:28:53,290
+嗯  但任务还没结束
+Yeah, but we're not done yet.
+
+1416
+01:28:53,540 --> 01:28:55,400
+在爆炸之前快离开这里
+Get out of here before this place blows!
+
+1417
+01:29:02,600 --> 01:29:05,010
+该死  忘了那个家伙
+Damn it! That guy.
+
+1418
+01:29:06,730 --> 01:29:08,910
+喂  我们要出去了
+Hey! We're getting out of here!
+
+1419
+01:29:13,240 --> 01:29:14,250
+炸弹在倒数了
+The charges are set.
+
+1420
+01:29:14,250 --> 01:29:16,540
+我们得赶紧想办法离开这  快点
+We've gotta find a way out of here. And fast.
+
+1421
+01:29:16,680 --> 01:29:17,700
+别担心
+Don't worry.
+
+1422
+01:29:18,620 --> 01:29:20,060
+我不会死的
+I'm not gonna die.
+
+1423
+01:29:21,050 --> 01:29:22,790
+你也不会的
+And neither are you.
+
+1424
+01:29:23,760 --> 01:29:25,450
+这可不是钥匙链
+It's not a keychain.
+
+1425
+01:29:29,190 --> 01:29:32,840
+这里乱成一团了  枪声四起
+It's total chaos in here! Multiple shots fired!
+
+1426
+01:29:42,940 --> 01:29:44,760
+还有一辆坦克
+And there's a tank.
+
+1427
+01:29:54,300 --> 01:29:55,330
+谁能帮我一下
+A little help!
+
+1428
+01:29:57,400 --> 01:29:58,280
+我来
+I got it.
+
+1429
+01:29:59,400 --> 01:30:00,630
+我们需要找一个医生
+We need a doctor!
+
+1430
+01:30:02,210 --> 01:30:03,160
+交给我们吧
+We've got him.
+
+1431
+01:30:05,510 --> 01:30:06,430
+谢谢
+Thank you.
+
+1432
+01:30:08,740 --> 01:30:10,240
+走吧
+Let's go!
+
+1433
+01:30:26,050 --> 01:30:27,360
+安东蚁
+Ant-thony!
+
+1434
+01:30:40,860 --> 01:30:41,810
+走吧
+Go!
+
+1435
+01:30:43,060 --> 01:30:44,570
+你会后悔的
+You're gonna regret that.
+
+1436
+01:30:54,840 --> 01:30:56,630
+等等  快出来
+Wait a minute! Get out of that van!
+
+1437
+01:30:56,630 --> 01:30:58,210
+-什么  -快从车里出来
+- What? - Get out of that van!
+
+1438
+01:30:58,210 --> 01:31:00,240
+太吵了  有辆坦克  我听不清你说话
+It's too loud, there's a tank. I can't hear you!
+
+1439
+01:31:08,570 --> 01:31:10,630
+你疯了吗  把枪放下
+Are you crazy? Put the gun down!
+
+1440
+01:31:10,680 --> 01:31:11,680
+窗户
+The windows!
+
+1441
+01:31:16,380 --> 01:31:19,210
+你觉得靠抢劫能阻止未来吗
+Did you think you could stop the future with a heist?
+
+1442
+01:31:19,210 --> 01:31:21,870
+根本就不止是抢劫
+It was never just a heist!
+
+1443
+01:31:43,250 --> 01:31:44,570
+把枪放下
+Put the gun down!
+
+1444
+01:31:53,260 --> 01:31:55,860
+发现他了  在那里  快快快
+Okay, I got him, I got him. There he is! Go, go, go!
+
+1445
+01:32:12,570 --> 01:32:14,240
+我们得迫降在某个地方
+We gotta set her down somewhere.
+
+1446
+01:32:43,910 --> 01:32:46,060
+我要摧毁你
+I'm gonna disintegrate you!
+
+1447
+01:32:46,060 --> 01:32:48,450
+播放治疗乐队的《摧毁》
+Playing Disintegration by the Cure.
+
+1448
+01:33:26,520 --> 01:33:27,800
+快报警
+Call 911!
+
+1449
+01:33:46,090 --> 01:33:47,100
+没关系的
+It's okay.
+
+1450
+01:33:52,360 --> 01:33:54,560
+不许动  把手举起来  举起来
+Freeze! Put your hands up! Get them up!
+
+1451
+01:33:57,130 --> 01:33:57,950
+斯科特
+Scott?
+
+1452
+01:33:57,950 --> 01:33:59,850
+帕克斯顿  你得听我说
+Paxton, you have to listen to me!
+
+1453
+01:34:27,400 --> 01:34:29,980
+帕克斯顿  掉头  让我回去
+Paxton, turn around! Take me back!
+
+1454
+01:34:29,980 --> 01:34:31,860
+我是要让你回去  回监狱
+I am taking you back. To prison.
+
+1455
+01:34:31,870 --> 01:34:34,380
+那后院里有东西需要被赶紧摧毁掉
+There's something in that backyard that needs to be destroyed.
+
+1456
+01:34:34,380 --> 01:34:35,960
+在捕蚊灯里  有
+In the bug zapper. There...
+
+1457
+01:34:37,620 --> 01:34:40,770
+给我打住  你的幻想太离谱了
+You need to desist right now! Your delusions are out of hand.
+
+1458
+01:34:40,770 --> 01:34:44,860
+所有单位注意  温特街840号发生一起入室抢劫
+All units, we have a 2-36 in progress at 840 Winter Street.
+
+1459
+01:34:45,030 --> 01:34:46,390
+-凯西  -那是我家
+- Cassie! - That's my house.
+
+1460
+01:35:04,140 --> 01:35:05,360
+别害怕
+Don't be scared.
+
+1461
+01:35:06,440 --> 01:35:07,800
+帕克斯顿  让我帮忙
+Paxton, let me help!
+
+1462
+01:35:07,800 --> 01:35:08,530
+别动
+Don't move.
+
+1463
+01:35:08,530 --> 01:35:09,300
+让我帮忙吧
+Let me help!
+
+1464
+01:35:09,300 --> 01:35:10,990
+玛姬  发生什么事了
+Maggie! What's going on?
+
+1465
+01:35:11,170 --> 01:35:11,890
+他抓住了凯西
+He's got Cassie!
+
+1466
+01:35:11,890 --> 01:35:13,250
+-亲爱的  谁抓了凯西  -那个东西
+- Who's got Cassie, honey? - That thing.
+
+1467
+01:35:13,250 --> 01:35:15,280
+-东西  -我不知道  不知道
+- Thing? - I don't know! I don't know!
+
+1468
+01:35:23,910 --> 01:35:25,880
+你是怪物吗
+Are you a monster?
+
+1469
+01:35:27,000 --> 01:35:28,550
+我看着像怪物吗
+Do I look like a monster?
+
+1470
+01:35:30,190 --> 01:35:31,860
+我想要我爸爸
+I want my daddy!
+
+1471
+01:35:33,240 --> 01:35:34,900
+我也想要你爸爸
+I want your daddy, too.
+
+1472
+01:35:38,460 --> 01:35:39,280
+你来了
+There you are.
+
+1473
+01:35:39,280 --> 01:35:41,170
+爸爸  是你吗
+Daddy, is that you?
+
+1474
+01:35:42,860 --> 01:35:43,890
+嗨  小花生
+Hi, peanut.
+
+1475
+01:35:44,620 --> 01:35:46,970
+你为什么不找个和你差不多大的玩
+Why don't you pick on someone your own size?
+
+1476
+01:35:59,810 --> 01:36:02,180
+小个子  你去了哪里啊
+Now, where did you go, little guy?
+
+1477
+01:36:07,910 --> 01:36:09,200
+在这里
+There you are.
+
+1478
+01:36:12,820 --> 01:36:14,070
+不只有我
+Not just me!
+
+1479
+01:36:25,180 --> 01:36:26,090
+该死
+Damn it!
+
+1480
+01:36:26,920 --> 01:36:28,560
+快去吧
+Go! Go!
+
+1481
+01:37:22,390 --> 01:37:23,970
+斯科特需要我们  你懂我的意思吗
+Scotty needs us, you know what I'm saying?
+
+1482
+01:37:23,970 --> 01:37:25,470
+没什么能够阻止我们
+Ain't nothing gonna stop us.
+
+1483
+01:37:28,740 --> 01:37:31,460
+-后退  慢慢地后退  -好吧
+- Back it up. Back it up, slow. - Yeah.
+
+1484
+01:37:32,020 --> 01:37:33,230
+后退
+Back it up.
+
+1485
+01:37:33,230 --> 01:37:34,180
+再后退
+Back it up.
+
+1486
+01:37:34,820 --> 01:37:37,420
+-我们就退后吧  行吗  -够了吗
+- We just back it up, okay? - That's it.
+
+1487
+01:37:37,420 --> 01:37:39,020
+-后退  -没错
+- Back it up. - That's right.
+
+1488
+01:37:39,020 --> 01:37:39,970
+继续退后吗
+Backin' up?
+
+1489
+01:37:40,290 --> 01:37:41,480
+对  退后
+Yep, just backin' up.
+
+1490
+01:37:41,480 --> 01:37:43,540
+不不  快继续
+No, no. Just back it up.
+
+1491
+01:37:49,970 --> 01:37:51,870
+你侮辱了我  斯科特
+You insult me, Scott.
+
+1492
+01:37:56,330 --> 01:37:59,550
+你的存在对我来说就是侮辱
+Your very existence is insulting to me.
+
+1493
+01:38:01,620 --> 01:38:05,230
+你要是大一点  打你就容易多了
+You know, it'd be much easier to hit you if you were bigger.
+
+1494
+01:38:07,150 --> 01:38:08,760
+我同意
+Yeah, I agree.
+
+1495
+01:38:30,750 --> 01:38:31,630
+凯西
+Cassie!
+
+1496
+01:38:38,580 --> 01:38:42,390
+我会让你看看你是多么微不足道
+I'm gonna show you just how insignificant you are.
+
+1497
+01:38:43,620 --> 01:38:45,370
+凯西  我来了
+Cassie! I'm coming!
+
+1498
+01:38:58,820 --> 01:39:00,360
+这狗长得也忒丑了
+That's a messed-up looking dog.
+
+1499
+01:39:00,360 --> 01:39:03,650
+我将摧毁你所爱的一切
+I'm gonna destroy everything you love.
+
+1500
+01:39:04,400 --> 01:39:06,620
+不许动  旧金山警局
+Freeze! S.F.P.D.
+
+1501
+01:39:14,230 --> 01:39:15,780
+我进不去
+I can't break through.
+
+1502
+01:39:16,060 --> 01:39:18,190
+是钛合金的  你这个蠢货
+It's titanium, you idiot!
+
+1503
+01:39:24,610 --> 01:39:26,410
+-带她离开这  -快走
+- Get her out of here. - Come on.
+
+1504
+01:39:27,990 --> 01:39:29,280
+抱歉  亲爱的
+Sorry, sweetheart.
+
+1505
+01:39:29,280 --> 01:39:31,440
+你得帮你爸爸赎罪
+You have to help Daddy pay for his mistakes.
+
+1506
+01:39:31,440 --> 01:39:33,010
+站在我身后  知道吗
+You stay behind me, okay?
+
+1507
+01:39:33,010 --> 01:39:34,160
+站在我身后
+Stay behind me.
+
+1508
+01:39:35,750 --> 01:39:38,420
+我得缩小到比分子还小才能进去
+I'm gonna have to shrink between the molecules to get in there.
+
+1509
+01:39:38,420 --> 01:39:40,130
+离我们远点
+Get away from us!
+
+1510
+01:39:42,180 --> 01:39:43,400
+爸爸  救命
+Daddy, help!
+
+1511
+01:39:43,400 --> 01:39:44,640
+凯西  我爱你
+I love you, Cassie.
+
+1512
+01:40:14,900 --> 01:40:16,580
+爸爸  你在哪里
+Daddy, where are you?
+
+1513
+01:40:17,950 --> 01:40:19,370
+你会变成亚原子级
+You would go subatomic.
+
+1514
+01:40:20,060 --> 01:40:21,220
+你会变成亚原子级
+You would go subatomic.
+
+1515
+01:40:21,950 --> 01:40:22,890
+不
+Oh, no.
+
+1516
+01:40:35,420 --> 01:40:36,880
+你会进入一个现实
+You would enter a reality
+
+1517
+01:40:36,880 --> 01:40:42,300
+在那里一切关于时间和空间的概念
+where all concepts of time and space...
+
+1518
+01:40:42,300 --> 01:40:43,600
+没有意义了
+become irrelevant...
+
+1519
+01:40:45,640 --> 01:40:46,730
+都没有意义了
+become irrelevant...
+
+1520
+01:40:48,530 --> 01:40:51,780
+一切关于时间和空间的概念都没有意义了
+all concepts of time and space become irrelevant...
+
+1521
+01:40:56,620 --> 01:40:58,120
+爸爸  回来
+Come back, Daddy!
+
+1522
+01:40:59,430 --> 01:41:05,000
+因为你会不断缩小
+as you shrink for all eternity...
+
+1523
+01:41:07,830 --> 01:41:09,330
+你所知
+Everything that you know
+
+1524
+01:41:12,120 --> 01:41:13,090
+和所爱的一切
+and love,
+
+1525
+01:41:14,910 --> 01:41:15,890
+都将一去不复返
+gone forever.
+
+1526
+01:41:15,890 --> 01:41:19,130
+爸爸  你在哪里
+Daddy, where are you?
+
+1527
+01:41:37,620 --> 01:41:38,700
+你在哪里
+Where are you?
+
+1528
+01:41:41,140 --> 01:41:42,450
+你在哪里啊
+Where are you?
+
+1529
+01:41:43,580 --> 01:41:45,580
+-爸爸  -凯西
+- Daddy! - Cassie.
+
+1530
+01:41:53,160 --> 01:41:54,860
+爸爸  回来
+Come back, Daddy!
+
+1531
+01:41:58,700 --> 01:42:01,850
+不要乱动调节器
+Do not screw with the regulator!
+
+1532
+01:42:32,020 --> 01:42:33,720
+爸爸
+Daddy!
+
+1533
+01:42:36,880 --> 01:42:38,780
+我好爱你
+I love you so much.
+
+1534
+01:42:39,170 --> 01:42:40,400
+我也爱你
+I love you, too.
+
+1535
+01:42:41,110 --> 01:42:42,260
+很爱很爱
+So much.
+
+1536
+01:42:46,570 --> 01:42:48,690
+房顶上有个大洞
+You know, there's a big hole in the roof.
+
+1537
+01:42:51,540 --> 01:42:52,440
+抱歉
+Sorry.
+
+1538
+01:42:55,610 --> 01:42:57,470
+-她没事吧  -嗯  她没事
+- Is she all right? - Yeah, she's fine.
+
+1539
+01:42:59,530 --> 01:43:00,500
+妈妈
+Mommy!
+
+1540
+01:43:03,400 --> 01:43:05,430
+她没事  她没事
+She's fine, she's fine.
+
+1541
+01:43:14,390 --> 01:43:15,760
+拜托  斯科特
+Scott, please.
+
+1542
+01:43:16,520 --> 01:43:18,490
+你什么都不记得了吗
+You don't remember anything?
+
+1543
+01:43:18,490 --> 01:43:20,260
+汉克  我记不得了
+Hank. I don't.
+
+1544
+01:43:20,260 --> 01:43:21,920
+肯定还有些什么的
+There must be something else.
+
+1545
+01:43:24,130 --> 01:43:26,310
+好吧  我觉得人类的大脑
+Well, I suppose the human mind
+
+1546
+01:43:26,310 --> 01:43:29,860
+是没法理解这种经历的
+just can't comprehend the experience,
+
+1547
+01:43:29,860 --> 01:43:33,180
+但你却成功了
+but you made it.
+
+1548
+01:43:33,880 --> 01:43:35,040
+你进去以后
+You went in,
+
+1549
+01:43:37,020 --> 01:43:38,540
+又出来了
+and you got out.
+
+1550
+01:43:40,980 --> 01:43:42,160
+真棒
+It's amazing.
+
+1551
+01:43:43,130 --> 01:43:44,090
+斯科特
+Scott,
+
+1552
+01:43:44,980 --> 01:43:46,130
+我带你出去
+I'll walk you out.
+
+1553
+01:43:50,980 --> 01:43:52,100
+好好休息
+Get some rest.
+
+1554
+01:44:00,710 --> 01:44:02,260
+这真的有可能吗
+Is it possible?
+
+1555
+01:44:20,960 --> 01:44:21,730
+什么时候的事
+When did this happen?
+
+1556
+01:44:21,740 --> 01:44:23,140
+没什么事
+Nothing's happening.
+
+1557
+01:44:23,140 --> 01:44:25,580
+等等  算是有点什么事吧
+Whoa. Hold on. Something's kind of happening.
+
+1558
+01:44:25,580 --> 01:44:27,640
+要真是这样
+Well, if that's the case,
+
+1559
+01:44:27,640 --> 01:44:28,930
+再给我来一枪
+shoot me again.
+
+1560
+01:44:29,640 --> 01:44:30,690
+我不知道你刚在干嘛
+Yeah. I don't know what you were doing,
+
+1561
+01:44:30,690 --> 01:44:32,030
+对我又抱又亲的
+grabbing and kissing me like that.
+
+1562
+01:44:32,030 --> 01:44:33,960
+我也有点小惊讶呢
+I'm a little surprised myself.
+
+1563
+01:44:33,960 --> 01:44:36,690
+我得去个地方  一会见  汉克
+I have to get somewhere. I'll see you later, Hank.
+
+1564
+01:44:36,690 --> 01:44:37,720
+霍普  你真是的
+Really, Hope.
+
+1565
+01:44:38,870 --> 01:44:39,810
+斯科特
+Scott.
+
+1566
+01:44:40,830 --> 01:44:42,670
+-满嘴胡话  -没错
+- You're full of shit. - Oh, yeah.
+
+1567
+01:44:44,140 --> 01:44:45,730
+斯科特  我今天见了我们警监
+Scott, I met with my captain today.
+
+1568
+01:44:45,730 --> 01:44:48,300
+他想要你出狱那晚的报告
+He wanted a report on the night that you got out of jail.
+
+1569
+01:44:49,290 --> 01:44:50,880
+摄像头出现了故障
+Something happened with the cameras.
+
+1570
+01:44:51,380 --> 01:44:53,670
+一些电路被烧坏了
+Some circuits got fried.
+
+1571
+01:44:54,680 --> 01:44:57,170
+但我跟他说你是走正规程序出去的
+But I told him that you were processed correctly.
+
+1572
+01:44:57,420 --> 01:44:58,290
+真的吗
+Really?
+
+1573
+01:44:58,680 --> 01:44:59,560
+是的
+Well, yeah.
+
+1574
+01:45:01,010 --> 01:45:04,810
+不能因为电子故障就把凯西的爸爸送回监狱  对吧
+Can't be sending Cassie's dad back to jail on a technical glitch, right?
+
+1575
+01:45:04,810 --> 01:45:05,960
+谢谢你  帕克斯顿
+Thank you, Paxton.
+
+1576
+01:45:06,490 --> 01:45:07,620
+我太感动了
+I'm blown away.
+
+1577
+01:45:09,030 --> 01:45:10,710
+谢谢你为凯西所做的一切
+Thank you for everything you do for Cassie.
+
+1578
+01:45:10,710 --> 01:45:13,130
+不甚荣幸
+Well, that's my pleasure.
+
+1579
+01:45:13,850 --> 01:45:16,760
+不过这次  我是为了你
+But, no. This one, I did for you.
+
+1580
+01:45:19,420 --> 01:45:20,290
+好尴尬
+This is awkward.
+
+1581
+01:45:20,300 --> 01:45:21,790
+-没错  -没错
+- Yeah.  - Yeah.
+
+1582
+01:45:21,860 --> 01:45:24,330
+这事之后我们还有什么可谈的呢
+I mean, what do we even talk about after all of that?
+
+1583
+01:45:24,330 --> 01:45:25,690
+-我知道  -什么
+- Oh, I know. - What?
+
+1584
+01:45:25,780 --> 01:45:27,590
+我今天第一次横翻筋斗
+I did my first cartwheel today.
+
+1585
+01:45:27,590 --> 01:45:28,330
+什么
+What?
+
+1586
+01:45:28,340 --> 01:45:30,730
+没错  她练了一个星期了
+Yeah. She has been practicing all week.
+
+1587
+01:45:30,730 --> 01:45:31,580
+今天真是见证奇迹的时刻
+But today was the magic day.
+
+1588
+01:45:31,590 --> 01:45:34,310
+我用手机录下来了  看
+I recorded it on my phone. Here.
+
+1589
+01:45:35,160 --> 01:45:37,640
+不  这不可能是凯西  这不是你
+No, that can't be Cassie. That's not you.
+
+1590
+01:45:37,640 --> 01:45:38,590
+是她
+Yeah, it is.
+
+1591
+01:45:38,590 --> 01:45:41,220
+这分明是专业体操运动员  不可能是你
+This is a professional gymnast. There is no way that's you.
+
+1592
+01:45:41,220 --> 01:45:42,620
+的确就是她
+Yeah, that's her.
+
+1593
+01:45:43,640 --> 01:45:45,250
+好狗狗
+Good boy.
+
+1594
+01:45:46,700 --> 01:45:49,430
+亲爱的  真的太棒了
+Sweetie, that's pretty amazing, peanut.
+
+1595
+01:45:52,520 --> 01:45:53,410
+抱歉
+Sorry.
+
+1596
+01:45:55,240 --> 01:45:56,190
+工作上的事
+It's work.
+
+1597
+01:46:01,130 --> 01:46:01,720
+好的
+All right.
+
+1598
+01:46:01,720 --> 01:46:03,480
+这样吧  把事实告诉我
+Here's the deal. Just give me the facts.
+
+1599
+01:46:03,480 --> 01:46:05,110
+讲重点  只讲重点
+Just the facts. Only the facts.
+
+1600
+01:46:05,110 --> 01:46:08,580
+呼气  专注  简简单单
+Breathe. Focus. Keep it simple.
+
+1601
+01:46:08,590 --> 01:46:10,570
+行  行  没问题的
+No, no, no. No doubt, no doubt. Okay.
+
+1602
+01:46:10,570 --> 01:46:13,140
+我和我表哥伊格纳西奥去艺术馆
+So, I'm at this art museum with my cousin Ignacio, right?
+
+1603
+01:46:13,150 --> 01:46:15,200
+是一个抽象表现主义的展览
+And there was this, like, abstract expressionism exhibit.
+
+1604
+01:46:15,200 --> 01:46:17,490
+但你知道的  我比较喜欢新立体主义的作品
+But you know me, I'm more like a Neo-Cubist kind of guy, right?
+
+1605
+01:46:17,490 --> 01:46:20,530
+但有个人叫罗斯科的人非常棒  天呐
+But there was this one Rothko that was sublime, bro! Oh, my God!
+
+1606
+01:46:20,530 --> 01:46:21,660
+路易斯
+Luis.
+
+1607
+01:46:21,660 --> 01:46:22,750
+好了  抱歉  抱歉
+Okay, sorry. Sorry.
+
+1608
+01:46:22,750 --> 01:46:24,900
+我就是太兴奋了
+You know, I just get excited and stuff.
+
+1609
+01:46:24,900 --> 01:46:26,690
+但不管怎么说  伊格纳西奥告诉我
+But anyway, Ignacio tells me,
+
+1610
+01:46:26,690 --> 01:46:28,320
+"我昨晚在焦点酒吧
+"Yo, I met this crazy-fine writer chick
+
+1611
+01:46:28,320 --> 01:46:30,370
+遇到一个超正点的作家妹子  超级正点
+at the Spot last night. Like fine-fine.
+
+1612
+01:46:30,370 --> 01:46:31,920
+特别特别正点  然后他
+Like crazy-stupid fine." And he
+
+1613
+01:46:31,920 --> 01:46:33,040
+过去跟酒保说
+goes up to the bartender and goes,
+
+1614
+01:46:33,040 --> 01:46:34,590
+看那个和我一起的妹子  懂我意思不
+"Look at the girl I'm with. You know what I'm sayin'?
+
+1615
+01:46:34,590 --> 01:46:35,680
+她超正的  对吧
+"She's crazy-stupid fine, right?"
+
+1616
+01:46:35,680 --> 01:46:38,830
+酒保说  是啊  的确超正
+The bartender's all like, "Yeah, crazy-stupid fine."
+
+1617
+01:46:38,830 --> 01:46:40,840
+所以这个作家妹子告诉伊格纳西奥
+So this writer chick tells Ignacio,
+
+1618
+01:46:40,850 --> 01:46:43,680
+我可是小道八卦界女王
+"Yo, I'm like a boss in the world of guerrilla journalism,
+
+1619
+01:46:43,690 --> 01:46:45,660
+我和幕后大佬关系可好了
+"And I got mad connects with the peeps behind the curtains,
+
+1620
+01:46:45,660 --> 01:46:46,420
+你懂我说得不
+"You know what I'm saying?"
+
+1621
+01:46:46,420 --> 01:46:47,990
+伊格纳西奥就问  真的呀
+Ignacio's like, "For real?"
+
+1622
+01:46:47,990 --> 01:46:49,580
+她说  真的啊
+And she's like, "Yeah, you know what,
+
+1623
+01:46:49,580 --> 01:46:50,850
+我不能告诉你我线人是谁
+I can't tell you who my contact is,
+
+1624
+01:46:50,850 --> 01:46:52,700
+因为他和复联一起工作
+"Because he works with the Avengers."
+
+1625
+01:46:52,700 --> 01:46:53,900
+天呐
+Oh, no.
+
+1626
+01:46:53,900 --> 01:46:56,500
+这人听上去很厉害呢
+Yeah, and this dude sounds like a badass, man.
+
+1627
+01:46:56,500 --> 01:46:57,620
+他走过去跟她说
+Like, he comes up to her and says,
+
+1628
+01:46:57,620 --> 01:46:59,500
+"我在找个超级英雄界的新人
+"Yo, I'm looking for this dude who's new on the scene,
+
+1629
+01:46:59,510 --> 01:47:00,960
+"刚初来乍到
+"who's flashing his fresh tack,
+
+1630
+01:47:00,960 --> 01:47:03,540
+"技能出众的人  你知道谁吗"
+"who's got, like, bomb moves, right? Who you got?"
+
+1631
+01:47:03,540 --> 01:47:05,640
+她说  什么人都有啊
+And she's like, "Well, we got everything nowaday.
+
+1632
+01:47:05,640 --> 01:47:06,760
+有会蹦的
+We got a guy who jumps.
+
+1633
+01:47:06,760 --> 01:47:09,160
+会飞的  还有爬墙的
+"We got a guy who swings, we got a guy who crawls up the walls.
+
+1634
+01:47:09,160 --> 01:47:10,220
+你得说具体点
+"You gotta be more specific."
+
+1635
+01:47:10,220 --> 01:47:12,620
+他说  我要找个能缩小的
+And he's like, "I'm looking for a guy that shrinks."
+
+1636
+01:47:12,620 --> 01:47:14,530
+我说  靠  我很紧张
+And I'm, like, "Damn!". I got all nervous
+
+1637
+01:47:14,530 --> 01:47:16,190
+因为我要为你保守秘密
+'cause I'd keep mad secrets for you, bro.
+
+1638
+01:47:16,190 --> 01:47:17,290
+所以我问伊格纳西奥
+So I asked Ignacio,
+
+1639
+01:47:17,290 --> 01:47:19,450
+"那个狠角色是不是让超正作家找你
+"Did the badass tell the stupid-fine writer chick
+
+1640
+01:47:19,450 --> 01:47:21,830
+让你来找我  因为我和他要找的
+to tell you to tell me, because I'm tight with Ant-Man,
+
+1641
+01:47:21,830 --> 01:47:23,130
+那个蚁人关系很好吗
+"That he's looking for him?"
+
+1642
+01:47:23,740 --> 01:47:26,220
+然后呢  他说什么
+And? What'd he say?
+
+1643
+01:47:29,580 --> 01:47:31,070
+他说  没错
+He said, "Yes."
+
+1644
+01:48:41,490 --> 01:48:41,530
+{\an8}{\pos(192.5,224)}蚁  人
+
+1645
+01:48:41,530 --> 01:48:41,570
+{\an8}{\pos(192.5,188)}蚁  人
+
+1646
+01:48:41,570 --> 01:48:41,610
+{\an8}{\pos(192.5,180)}蚁  人
+
+1647
+01:48:41,610 --> 01:48:41,660
+{\an8}{\pos(192.5,169)}蚁  人
+
+1648
+01:48:41,660 --> 01:48:41,700
+{\an8}{\pos(192.5,167)}蚁  人
+
+1649
+01:48:41,700 --> 01:48:41,740
+{\an8}{\pos(192.5,165)}蚁  人
+
+1650
+01:48:41,740 --> 01:48:41,780
+{\an8}{\pos(192.5,164)}蚁  人
+
+1651
+01:48:41,780 --> 01:48:41,820
+{\an8}{\pos(192.5,163)}蚁  人
+
+1652
+01:48:41,820 --> 01:48:41,860
+{\an8}{\pos(192.5,162)}蚁  人
+
+1653
+01:48:41,860 --> 01:48:41,910
+{\an8}{\pos(192.5,161)}蚁  人
+
+1654
+01:48:41,910 --> 01:48:44,160
+{\an8}蚁  人
+
+1655
+01:48:44,160 --> 01:48:44,660
+{\an8}蚁  人
+
+1656
+01:49:26,370 --> 01:49:28,060
+我想给你看个东西
+There's something I want to show you.
+
+1657
+01:49:30,590 --> 01:49:34,100
+力量是无法摧毁的
+I realized you can't destroy power.
+
+1658
+01:49:35,440 --> 01:49:39,450
+只能尽量不被歹人触及
+All you can do is make sure that it's in the right hands.
+
+1659
+01:49:45,990 --> 01:49:48,280
+这个升级版原型衣
+This is an advanced prototype
+
+1660
+01:49:48,280 --> 01:49:51,120
+是我和你母亲一同研发的
+that your mother and I worked on together.
+
+1661
+01:49:52,960 --> 01:49:54,730
+她都没有机会用
+She never got to use it.
+
+1662
+01:49:55,960 --> 01:50:00,540
+但我现在明白了  这是我们为你造的
+But now I realize that we were... We were working on it for you.
+
+1663
+01:50:07,090 --> 01:50:09,210
+是时候完成这件衣服了
+Maybe it's time we finished it.
+
+1664
+01:50:16,350 --> 01:50:17,890
+是时候了
+It's about damn time.
+
+1665
+01:50:19,030 --> 01:50:22,080
+片尾还有彩蛋
+
+1666
+01:56:18,870 --> 01:56:19,900
+嗨  队长
+Hey, Cap!
+
+1667
+01:56:33,950 --> 01:56:36,330
+一周前做这件事肯定更容易
+This would have been a lot easier a week ago.
+
+1668
+01:56:37,240 --> 01:56:39,130
+-如果我给托尼打电话  -他不会相信我们的
+- If we call Tony... - He won't believe us.
+
+1669
+01:56:39,130 --> 01:56:40,010
+就算他相信
+Even if he did...
+
+1670
+01:56:40,010 --> 01:56:42,310
+协议应该不准他帮忙吧
+Who knows if the Accords will let him help.
+
+1671
+01:56:43,640 --> 01:56:44,700
+我们现在只能靠自己了
+We're on our own.
+
+1672
+01:56:46,460 --> 01:56:47,440
+或许不用
+Maybe not.
+
+1673
+01:56:50,090 --> 01:56:51,220
+我认识一个人
+I know a guy.
+
+1674
+01:56:52,190 --> 01:56:55,860
+{\an8}{\pos(192.5,155)}蚁人将于美队3回归
+
