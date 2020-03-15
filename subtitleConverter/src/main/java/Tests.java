@@ -80,7 +80,7 @@ public class Tests {
 
 				//To test the correct implementation of the SRT parser and writer.
 				ttff = new FormatSRT();
-				File file = new File("../standards/SRT/Avengers.2012.Eng.Subs.srt");
+				File file = new File("F:\\work\\myproject\\tools\\subtitleConverter\\Subtitle Files\\standards\\SRT\\Avengers.2012.Eng.Subs.srt");
 				InputStream is = new FileInputStream(file);
 				tto = ttff.parseFile(file.getName(), is);
 				IOClass.writeFileTxt("test.srt", tto.toSRT());

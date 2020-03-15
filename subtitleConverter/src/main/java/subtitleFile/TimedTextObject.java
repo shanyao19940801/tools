@@ -70,7 +70,7 @@ public class TimedTextObject {
 	/**
 	 * Protected constructor so it can't be created from outside
 	 */
-	protected TimedTextObject(){
+	public TimedTextObject(){
 		
 		styling = new Hashtable<>();
 		layout = new Hashtable<>();
