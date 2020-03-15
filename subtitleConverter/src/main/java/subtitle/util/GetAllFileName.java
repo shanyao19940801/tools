@@ -14,6 +14,12 @@ import java.util.List;
  */
 public class GetAllFileName {
 
+    public static List<FileInfoBean> getFilePath(String paht) {
+        List<FileInfoBean> fileInfoBeanList = new ArrayList<>();
+        getAllFileList(paht, fileInfoBeanList);
+        return fileInfoBeanList;
+    }
+
     public static void getAllFileList(String path, List<FileInfoBean> fileInfoBeanList) {
         File file = new File(path);
         if (file.exists()) {

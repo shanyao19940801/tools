@@ -1,4 +1,6 @@
+import subtitle.bean.FileInfoBean;
 import subtitle.util.FormatSRTUtil;
+import subtitle.util.GetAllFileName;
 import subtitleFile.FatalParsingException;
 import subtitleFile.FormatASS;
 import subtitleFile.FormatSRT;
@@ -10,12 +12,15 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
+import java.util.List;
 
 /**
  * Created by shanyao on 2020/3/15
  */
 public class MyTest {
     public static void main(String[] args) {
+        List<FileInfoBean> filePath = GetAllFileName.getFilePath("F:\\视频剪辑\\各种平台\\电影\\漫威\\字幕");
+
         formatSRT();
 
     }
