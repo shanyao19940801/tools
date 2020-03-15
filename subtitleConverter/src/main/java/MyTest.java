@@ -16,7 +16,7 @@ import java.io.OutputStream;
  */
 public class MyTest {
     public static void main(String[] args) {
-
+        formatSRT();
 
     }
 
