@@ -20,7 +20,7 @@ import java.util.List;
 public class MyTest {
     public static void main(String[] args) {
         List<FileInfoBean> filePath = GetAllFileName.getFilePath("F:\\视频剪辑\\各种平台\\电影\\漫威\\字幕");
-
+        System.out.println(filePath);
         formatSRT();
 
     }
