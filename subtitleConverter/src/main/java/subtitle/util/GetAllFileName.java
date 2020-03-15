@@ -1,16 +1,36 @@
 package subtitle.util;
 
+import subtitle.bean.FileInfoBean;
+
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Created by shanyao on 2020/2/21
  */
 public class GetAllFileName {
 
-    public static void folderMethod2(String path, String saveFolderPaht) {
+    public static void getAllFileList(String path, List<FileInfoBean> fileInfoBeanList) {
+        File file = new File(path);
+        if (file.exists()) {
+            File[] files = file.listFiles();
+            if (null != files) {
+                for (File file2 : files) {
+                    if (file2.isDirectory()) {
+                        getAllFileList(file2.getAbsolutePath(), fileInfoBeanList);
+                    } else {
+                        addToList(file2.getAbsolutePath(), fileInfoBeanList);
+                    }
+                }
+            }
+        }
+    }
+
+    public static void folderMethod2(String path, String saveFolderPaht, List<FileInfoBean> fileInfoBeanList) {
         File file = new File(path);
         if (file.exists()) {
             File[] files = file.listFiles();
@@ -18,10 +38,10 @@ public class GetAllFileName {
                 for (File file2 : files) {
                     if (file2.isDirectory()) {
                         System.out.println("文件夹:" + file2.getAbsolutePath());
-                        folderMethod2(file2.getAbsolutePath(), saveFolderPaht);
+                        folderMethod2(file2.getAbsolutePath(), saveFolderPaht, fileInfoBeanList);
                     } else {
 
-                        writeToFile(file2.getAbsolutePath(), saveFolderPaht);
+                        writeToFile(file2.getAbsolutePath(), saveFolderPaht, fileInfoBeanList);
                         System.out.println("文件:" + file2.getAbsolutePath());
                     }
                 }
@@ -31,11 +51,22 @@ public class GetAllFileName {
         }
     }
 
-    public static void writeToFile(String path, String filePath) {
+    public static void addToList(String path, List<FileInfoBean> fileInfoBeanList) {
+        String[] split = path.split("\\\\");
+        String fileName = split[split.length - 1];
+        String[] fileSu = fileName.split("\\.");
+        FileInfoBean bean = new FileInfoBean(path, fileName, fileSu[1]);
+        fileInfoBeanList.add(bean);
+
+    }
+    public static void writeToFile(String path, String filePath, List<FileInfoBean> fileInfoBeanList) {
         String[] split = path.split("\\\\");
         String svaeFileName = split[split.length - 2];
         String fileName = split[split.length - 1];
         String saveFile = filePath + "\\\\" + svaeFileName + ".txt";
+        String[] fileSu = fileName.split("\\.");
+        FileInfoBean bean = new FileInfoBean(path, fileName, fileSu[1]);
+        fileInfoBeanList.add(bean);
 
         File file = new File(saveFile);
         FileOutputStream fos = null;
@@ -75,7 +106,9 @@ public class GetAllFileName {
     }
 
     public static void main(String[] args) {
-        String paht = "F:\\视频剪辑\\三人行1998-2017-part3\\三人行1998-2017\\蹡蹡三人行（1998-2017）\\蹡蹡三人行";
-        folderMethod2(paht, paht);
+        List<FileInfoBean> fileInfoBeanList = new ArrayList<>();
+        String paht = "F:\\work\\testfile";
+        folderMethod2(paht, paht, fileInfoBeanList);
+        System.out.println(paht);
     }
 }
